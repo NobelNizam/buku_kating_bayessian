@@ -102,7 +102,7 @@ if menu == "Home":
             "<h1 class='centered-title'>Kelompok Bayessian</h1>", unsafe_allow_html=True
         )
         st.markdown(
-            """<div style="text-align: justify;">Bayessian adalah kelompok ke-8 dalam kaderisasi Himpunan Mahasiswa Sains Data Adyatama 2024.
+            """<div style="text-align: justify;">Bayessian merupakan kelompok ke-8 dalam kaderisasi Himpunan Mahasiswa Sains Data Adyatama 2024.
             Bayessian adalah metode yang memungkinkan untuk memasukkan informasi awal dan memperbaruinya secara dinamis saat data atau
             informasi berdasarkan bukti baru yang tersedia.</div>""",
             unsafe_allow_html=True,
@@ -111,7 +111,8 @@ if menu == "Home":
         foto_kelompok = "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
         layout(foto_kelompok)
         st.markdown(
-            """<div style="text-align: justify;">Semoga kelompok bayessian menjadi kelompok yang terbaik!</div>""",
+            """<div style="text-align: justify;">Bayessian terdiri dari 14 manusia, 12 anggota dan 2 daplok yaitu bang akmal dan kak cia. 
+                Semoga kelompok bayessian menjadi kelompok yang terbaik!</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
@@ -135,11 +136,11 @@ elif menu == "About Us":
         ]
         data_list = [
             {
-                "nama": "A",
+                "nama": "Nobel Nizam Fathirizki",
                 "sebagai": "Pak Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450117",
+                "fun_fact": "Sejak sekolah dasar cita-citanya kerja di google!",
+                "motto_hidup": "fokus pada diri baru cari bini",
             },
             {
                 "nama": "B",
