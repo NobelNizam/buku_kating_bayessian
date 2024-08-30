@@ -149,11 +149,11 @@ elif menu == "About Us":
                 "motto_hidup": "Ya apa ya",
             },
             {
-                "nama": "C",
+                "nama": "Fabio Banyu Cyto",
                 "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "123450104",
+                "fun_fact": "Gua ganteng banget",
+                "motto_hidup": "man jadda wa jadda",
             },
             {
                 "nama": "D",
