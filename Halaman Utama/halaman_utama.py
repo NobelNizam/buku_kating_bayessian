@@ -128,11 +128,18 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=link-foto-nya",
         ]
         data_list = [
             {
@@ -169,6 +176,55 @@ elif menu == "About Us":
                 "nim": "123450024",
                 "fun_fact": "nyemilin garam kasar",
                 "motto_hidup": "harus bahagia",
+            },
+            {
+                "nama": "punya may",
+                "sebagai": "x",
+                "nim": "123450024",
+                "fun_fact": "x",
+                "motto_hidup": "x",
+            },
+            {
+                "nama": "punya haikal",
+                "sebagai": "x",
+                "nim": "123450024",
+                "fun_fact": "x",
+                "motto_hidup": "x",
+            },
+            {
+                "nama": "punya nayla",
+                "sebagai": "x",
+                "nim": "123450024",
+                "fun_fact": "x",
+                "motto_hidup": "x",
+            },
+            {
+                "nama": "punya rewina",
+                "sebagai": "x",
+                "nim": "123450024",
+                "fun_fact": "x",
+                "motto_hidup": "x",
+            },
+            {
+                "nama": "punya fathia",
+                "sebagai": "x",
+                "nim": "123450024",
+                "fun_fact": "x",
+                "motto_hidup": "x",
+            },
+            {
+                "nama": "punya eigi",
+                "sebagai": "x",
+                "nim": "123450024",
+                "fun_fact": "x",
+                "motto_hidup": "x",
+            },
+            {
+                "nama": "punya engli",
+                "sebagai": "x",
+                "nim": "123450024",
+                "fun_fact": "x",
+                "motto_hidup": "x",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
