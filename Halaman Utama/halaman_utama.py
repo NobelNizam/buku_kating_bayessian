@@ -128,18 +128,18 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
-            "https://drive.google.com/uc?export=view&id=link-foto-nya",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
         ]
         data_list = [
             {
