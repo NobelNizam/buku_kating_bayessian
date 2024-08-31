@@ -178,11 +178,11 @@ elif menu == "About Us":
                 "motto_hidup": "harus bahagia",
             },
             {
-                "nama": "punya may",
-                "sebagai": "x",
-                "nim": "123450024",
-                "fun_fact": "x",
-                "motto_hidup": "x",
+                "nama": "May Talitha Dahlia",
+                "sebagai": "Anggota",
+                "nim": "123450009",
+                "fun_fact": "suka pink",
+                "motto_hidup": "Berani mencoba, berani gagal",
             },
             {
                 "nama": "punya haikal",
