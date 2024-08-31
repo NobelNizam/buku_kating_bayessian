@@ -164,11 +164,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu aja",
             },
             {
-                "nama": "E",
+                "nama": "Natasya Amavisca",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450024",
+                "fun_fact": "nyemilin garam kasar",
+                "motto_hidup": "harus bahagia",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
