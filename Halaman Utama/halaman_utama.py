@@ -143,11 +143,11 @@ elif menu == "About Us":
                 "motto_hidup": "fokus pada diri baru cari bini",
             },
             {
-                "nama": "B",
+                "nama": "Feby Wulandari",
                 "sebagai": "Bu Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "122450042",
+                "fun_fact": "I hate cucumber",
+                "motto_hidup": "Banyak mimpi, kurang tidur",
             },
             {
                 "nama": "Fabio Banyu Cyto",
