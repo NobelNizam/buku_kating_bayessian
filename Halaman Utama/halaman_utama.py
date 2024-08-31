@@ -161,7 +161,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450077",
                 "fun_fact": "gasuka buah nangka",
-                "motto_hidup": "Hidup hanya untuk tidur",
+                "motto_hidup": "hidup hanya untuk tidur",
             },
             {
                 "nama": "E",
