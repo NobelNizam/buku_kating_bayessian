@@ -160,8 +160,8 @@ elif menu == "About Us":
                 "nama": "Fabio Banyu Cyto",
                 "sebagai": "Anggota",
                 "nim": "123450104",
-                "fun_fact": "Gua ganteng banget",
-                "motto_hidup": "man jadda wa jadda",
+                "fun_fact": "Orangnya Pelupa tapi ganteng juga.",
+                "motto_hidup": "Jadilah orang yang dapat memberikan kebebasan!",
             },
             {
                 "nama": "Wan Nashwa Alhasni Yuska",
