@@ -157,11 +157,11 @@ elif menu == "About Us":
                 "motto_hidup": "man jadda wa jadda",
             },
             {
-                "nama": "D",
+                "nama": "Wan Nashwa Alhasni Yuska",
                 "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "123450077",
+                "fun_fact": "gasuka buah nangka",
+                "motto_hidup": "hidup hanya untuk tidur",
             },
             {
                 "nama": "E",
