@@ -192,11 +192,11 @@ elif menu == "About Us":
                 "motto_hidup": "x",
             },
             {
-                "nama": "punya nayla",
-                "sebagai": "x",
-                "nim": "123450024",
-                "fun_fact": "x",
-                "motto_hidup": "x",
+                "nama": "Nayla Salsabila Fathianisa",
+                "sebagai": "Anggota",
+                "nim": "123450082",
+                "fun_fact": "Cat loverrr",
+                "motto_hidup": "God, Goals, Growing",
             },
             {
                 "nama": "punya rewina",
