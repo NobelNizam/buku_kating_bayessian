@@ -199,11 +199,11 @@ elif menu == "About Us":
                 "motto_hidup": "x",
             },
             {
-                "nama": "punya rewina",
-                "sebagai": "x",
-                "nim": "123450024",
-                "fun_fact": "x",
-                "motto_hidup": "x",
+                "nama": "Rewina Audrya Melva Sari",
+                "sebagai": "Anggota",
+                "nim": "123450049",
+                "fun_fact": "lagi mau benerin diri sendiri",
+                "motto_hidup": "urus diri sendiri jadi yang terbaik dan nggak boleh pacaran!",
             },
             {
                 "nama": "punya fathia",
