@@ -140,7 +140,7 @@ elif menu == "About Us":
                 "sebagai": "Pak Lurah",
                 "nim": "123450117",
                 "fun_fact": "Sejak sekolah dasar cita-citanya kerja di google!",
-                "motto_hidup": "fokus pada diri baru cari bini",
+                "motto_hidup": "fokus pada diri baru cari binii",
             },
             {
                 "nama": "B",
