@@ -127,19 +127,19 @@ elif menu == "About Us":
             unsafe_allow_html=True,
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
-        gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc",
+        gambar_urls = [             # ini foto profil masing-masing di about us
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # nobel
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # feby
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # fabio
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # wawa
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # natasya
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # may
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # haikal
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # nayla
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # rewina
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # fathia
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # eigi
+            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # engli
         ]
         data_list = [
             {
