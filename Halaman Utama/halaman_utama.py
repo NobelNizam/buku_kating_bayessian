@@ -206,11 +206,11 @@ elif menu == "About Us":
                 "motto_hidup": "urus diri sendiri jadi yang terbaik dan nggak boleh pacaran!",
             },
             {
-                "nama": "punya fathia",
-                "sebagai": "x",
-                "nim": "123450024",
-                "fun_fact": "x",
-                "motto_hidup": "x",
+                "nama": "Fathya Intami Gusda",
+                "sebagai": "Anggota",
+                "nim": "123450095",
+                "fun_fact": "I Love Strawberry",
+                "motto_hidup": "Jalanin aja",
             },
             {
                 "nama": "punya eigi",
