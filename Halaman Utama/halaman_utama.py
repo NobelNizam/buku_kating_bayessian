@@ -220,7 +220,7 @@ elif menu == "About Us":
                 "motto_hidup": "x",
             },
             {
-                "nama": "punya engli",
+                "nama": "tes push punya englii",
                 "sebagai": "x",
                 "nim": "123450024",
                 "fun_fact": "x",
