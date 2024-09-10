@@ -136,7 +136,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # may
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # haikal
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # nayla
-            "https://drive.google.com/uc?export=view&id=1W8GSOsmSDPF-1o5NhrGnMpy4GTjRiA9_", # rewina
+            "https://drive.google.com/uc?export=view&id=1WDaWqNFJonrJlzqeqfM1si0xMnJ4ET9K", # rewina
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # fathia
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # eigi
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # engli
