@@ -58,7 +58,7 @@ def layout(url):
     with col1:
         st.write("")  # Menyisakan kolom kosong
     with col2:
-        st.image(load_image(url), use_column_width="True", width=350)
+        st.image(load_image(url), use_column_width=True, width=500)
     with col3:
         st.write("")  # Menyisakan kolom kosong
 
@@ -108,7 +108,7 @@ if menu == "Home":
             unsafe_allow_html=True,
         )
         st.write(""" """)
-        foto_kelompok = "https://drive.google.com/uc?export=view&id=10kaLUBmxT-f10IyvNamWfRp0NG0hNKKC"
+        foto_kelompok = "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc"
         layout(foto_kelompok)
         st.markdown(
             """<div style="text-align: justify;">Bayessian terdiri dari 14 manusia, 12 anggota dan 2 daplok yaitu bang akmal dan kak cia. 
@@ -126,9 +126,9 @@ elif menu == "About Us":
             """<style>.centered-title {text-align: center;}</style>""",
             unsafe_allow_html=True,
         )
-        st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 class='centered-title'>ini adalah Bayess!</h1>", unsafe_allow_html=True)
         gambar_urls = [             # ini foto profil masing-masing di about us
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # nobel
+            "https://drive.google.com/uc?export=view&id=1AGp20DF2dUB2OdDyKLpm5kuWbeAfOjo1", # nobel
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # feby
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # fabio
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # wawa
