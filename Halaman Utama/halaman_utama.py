@@ -133,7 +133,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # fabio
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # wawa
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # natasya
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # may
+            "https://drive.google.com/uc?export=view&id=1rTSPde8smjAwhTwXUEDMLwuzqZU7daec", # may
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # haikal
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # nayla
             "https://drive.google.com/uc?export=view&id=1WDaWqNFJonrJlzqeqfM1si0xMnJ4ET9K", # rewina
