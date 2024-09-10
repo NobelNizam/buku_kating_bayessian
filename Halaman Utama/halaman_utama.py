@@ -126,7 +126,7 @@ elif menu == "About Us":
             """<style>.centered-title {text-align: center;}</style>""",
             unsafe_allow_html=True,
         )
-        st.markdown("<h1 class='centered-title'>ini adalah Bayess!</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 class='centered-title'>ini adalah Bayess!!!</h1>", unsafe_allow_html=True)
         gambar_urls = [             # ini foto profil masing-masing di about us
             "https://drive.google.com/uc?export=view&id=1AGp20DF2dUB2OdDyKLpm5kuWbeAfOjo1", # nobel
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # feby
