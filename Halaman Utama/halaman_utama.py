@@ -108,7 +108,7 @@ if menu == "Home":
             unsafe_allow_html=True,
         )
         st.write(""" """)
-        foto_kelompok = "https://drive.google.com/uc?export=view&id="
+        foto_kelompok = "https://drive.google.com/uc?export=view&id=10kaLUBmxT-f10IyvNamWfRp0NG0hNKKC"
         layout(foto_kelompok)
         st.markdown(
             """<div style="text-align: justify;">Bayessian terdiri dari 14 manusia, 12 anggota dan 2 daplok yaitu bang akmal dan kak cia. 
