@@ -131,13 +131,13 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1AGp20DF2dUB2OdDyKLpm5kuWbeAfOjo1", # nobel
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # feby
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # fabio
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # wawa
+            "https://drive.google.com/uc?export=view&id=1tjD3dCTC0pGeETD0B6BuJI99eyK8l9HT", # wawa
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # natasya
             "https://drive.google.com/uc?export=view&id=1rTSPde8smjAwhTwXUEDMLwuzqZU7daec", # may
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # haikal
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # nayla
-            "https://drive.google.com/uc?export=view&id=1WDaWqNFJonrJlzqeqfM1si0xMnJ4ET9K", # rewina
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # fathia
+            "https://drive.google.com/uc?export=view&id=1su8NCe0Oo1hIGziv2i_hgpXQhBNpCqAS", # nayla
+            "https://drive.google.com/uc?export=view&id=1XGoKqRbKJnVrTiVDchkQTF5sY3x-WcA7", # rewina
+            "https://drive.google.com/uc?export=view&id=1HMYJfY0nY40W-Wha2gxi9CbhVElhhftn", # fathia
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # eigi
             "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # engli
         ]
@@ -202,7 +202,7 @@ elif menu == "About Us":
                 "nama": "Rewina Audrya Melva Sari",
                 "sebagai": "Anggota",
                 "nim": "123450049",
-                "fun_fact": "lagi mau benerin diri sendiri",
+                "fun_fact": "Lagi mau benerin diri sendiri",
                 "motto_hidup": "urus diri sendiri jadi yang terbaik dan nggak boleh pacaran!",
             },
             {
