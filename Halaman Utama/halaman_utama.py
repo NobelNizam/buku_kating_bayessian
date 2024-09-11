@@ -81,7 +81,7 @@ def streamlit_menu():
                 "font-size": "15px",
                 "text-align": "left",
                 "margin": "0px",
-                "--hover-color": "#eee",
+                "--hover-color": "#1F316F",
             },
             "nav-link-selected": {"background-color": "#821131"},
         },
