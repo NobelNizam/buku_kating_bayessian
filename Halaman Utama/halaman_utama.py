@@ -185,11 +185,11 @@ elif menu == "About Us":
                 "motto_hidup": "Berani mencoba, berani gagal",
             },
             {
-                "nama": "punya haikal",
-                "sebagai": "x",
-                "nim": "123450024",
-                "fun_fact": "x",
-                "motto_hidup": "x",
+                "nama": "Haikal Fransisko Simbolon",
+                "sebagai": "Anggota",
+                "nim": "123450106",
+                "fun_fact": "Tidurnya cepat bangunnya kesiangan",
+                "motto_hidup": "Kebanyakan kegagalan berasal dari ketakutan sebelum mencoba",
             },
             {
                 "nama": "Nayla Salsabila Fathianisa",
