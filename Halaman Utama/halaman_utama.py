@@ -128,18 +128,18 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>ini adalah Bayess!!!</h1>", unsafe_allow_html=True)
         gambar_urls = [             # ini foto profil masing-masing di about us
-            "https://drive.google.com/uc?export=view&id=1AGp20DF2dUB2OdDyKLpm5kuWbeAfOjo1", # nobel
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # feby
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # fabio
-            "https://drive.google.com/uc?export=view&id=1tjD3dCTC0pGeETD0B6BuJI99eyK8l9HT", # wawa
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # natasya
-            "https://drive.google.com/uc?export=view&id=1rTSPde8smjAwhTwXUEDMLwuzqZU7daec", # may
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # haikal
-            "https://drive.google.com/uc?export=view&id=1su8NCe0Oo1hIGziv2i_hgpXQhBNpCqAS", # nayla
-            "https://drive.google.com/uc?export=view&id=1XGoKqRbKJnVrTiVDchkQTF5sY3x-WcA7", # rewina
-            "https://drive.google.com/uc?export=view&id=1HMYJfY0nY40W-Wha2gxi9CbhVElhhftn", # fathia
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # eigi
-            "https://drive.google.com/uc?export=view&id=1CRdoVxMuJ1ODDp3q5KRKlSDXCJPd0Uvc", # engli
+            "https://drive.google.com/uc?export=view&id=1AGp20DF2dUB2OdDyKLpm5kuWbeAfOjo1", # nobel     - done
+            "https://drive.google.com/uc?export=view&id=1HglyJKcYaa0OWrxvSpz-WJ3Pe11sHelg", # feby      - done
+            "https://drive.google.com/uc?export=view&id=1TxmWHUuxy9XmIoN193T9sclibuXk1qP1", # fabio     - done
+            "https://drive.google.com/uc?export=view&id=1tjD3dCTC0pGeETD0B6BuJI99eyK8l9HT", # wawa      - done
+            "https://drive.google.com/uc?export=view&id=11cQdkD6uMltnjv-VitjxFg2Xgznsfwht", # natasya   - done
+            "https://drive.google.com/uc?export=view&id=1t5difluGEl7xRrKqZ-q53csRF2kY04gJ", # may       - done
+            "https://drive.google.com/uc?export=view&id=1rijn9ndiE5hBJD4twFEbwbvenZ3mSkUd", # haikal    - done
+            "https://drive.google.com/uc?export=view&id=1su8NCe0Oo1hIGziv2i_hgpXQhBNpCqAS", # nayla     - done
+            "https://drive.google.com/uc?export=view&id=1XGoKqRbKJnVrTiVDchkQTF5sY3x-WcA7", # rewina    - done
+            "https://drive.google.com/uc?export=view&id=1HMYJfY0nY40W-Wha2gxi9CbhVElhhftn", # fathia    - done
+            "https://drive.google.com/uc?export=view&id=1jQf1z9zvwS2ddsjZrv_zVuICgcHkuDer", # eigi      - done
+            "https://drive.google.com/uc?export=view&id=11glrwFr23CS_i-5_eo8-kGBZPlU_VNS_", # engli     - done
         ]
         data_list = [
             {
@@ -213,18 +213,18 @@ elif menu == "About Us":
                 "motto_hidup": "Jalanin aja",
             },
             {
-                "nama": "punya eigi",
-                "sebagai": "x",
-                "nim": "123450024",
-                "fun_fact": "x",
-                "motto_hidup": "x",
+                "nama": "Eigi Artamevia",
+                "sebagai": "Anggota",
+                "nim": "123450011",
+                "fun_fact": "stylus pen gaboleh ketinggalan",
+                "motto_hidup": "Berani mengambil suatu langkah dan bertanggung jawab",
             },
             {
-                "nama": "punya engli",
-                "sebagai": "x",
-                "nim": "123450024",
-                "fun_fact": "x",
-                "motto_hidup": "x",
+                "nama": "Enggli Rahmadhani",
+                "sebagai": "Anggota",
+                "nim": "123450043",
+                "fun_fact": "my life is so fun and that's a fact",
+                "motto_hidup": "beautiful things don't ask to attention",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
