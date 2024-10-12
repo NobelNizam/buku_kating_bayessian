@@ -106,6 +106,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak putri
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Nadilla
         ]
+        # capek anjay plis
         data_list = [
             {
                 "nama": "Kharisma Gumilang",
