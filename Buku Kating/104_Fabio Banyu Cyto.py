@@ -105,6 +105,12 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=12Vskvw-wQncWgVww3BZ5_rhTXW50vEXo", #Kak hartiti
             "https://drive.google.com/uc?export=view&id=1-DaXUo-aJa7opurX9G7GqDPN4-BjJnf1", #Kak putri
             "https://drive.google.com/uc?export=view&id=1csy3oLJyVqJNUuqGh7PtY7KeHwFV-mY1", #Kak Nadilla
+            "https://drive.google.com/uc?export=view&id=12zcW-VUhYnfYYO05-3xbpGaRU3pWoHuX", #Bang Gumilang
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bang Pandra
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Meiza
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak hartiti
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak putri
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Nadilla
         ]
         data_list = [
             {

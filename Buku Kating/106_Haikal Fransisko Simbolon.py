@@ -105,6 +105,11 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=17Yq9Tg5J3m9mtkJ75SWr6mY_YcPkHKDs", #Ka Titi
             "https://drive.google.com/uc?export=view&id=1zyazraRYL_-6H1mDR9FGpHZjHeMAppRF", #Ka Putri
             "https://drive.google.com/uc?export=view&id=1_N3GoIk4kIKGrkr5t-Y9fBk5SUu5jH55", #Ka Nadilla
+            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #bg Pandra
+            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #ka Meiza
+            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #Ka Titi
+            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #Ka Putri
+            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #Ka Nadilla
         ]
         data_list = [
             {
@@ -131,6 +136,7 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Meliza Wulandari",
+                "nama": "Meiza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
                 "asal":"Pagar Alam, Sumatera Selatan",
@@ -160,6 +166,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin panda gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "   ",  
+                "kesan": "  ",  
                 "pesan":"  "# 1
             },
             {
