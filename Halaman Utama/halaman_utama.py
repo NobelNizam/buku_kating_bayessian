@@ -188,7 +188,7 @@ elif menu == "About Us":
                 "nama": "Haikal Fransisko Simbolon",
                 "sebagai": "Anggota",
                 "nim": "123450106",
-                "fun_fact": "Tidurnya cepat bangunnya kesiangan",
+                "fun_fact": "Alis bisa naik sebelah",
                 "motto_hidup": "Kebanyakan kegagalan berasal dari ketakutan sebelum mencoba",
             },
             {
