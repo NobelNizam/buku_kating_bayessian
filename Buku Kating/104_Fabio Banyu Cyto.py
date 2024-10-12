@@ -116,7 +116,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "Bang gumilang adalah orang yang berkarisma ",  
-                "pesan":"semangat dalam menjadi pemimpin himpunan bang"
+                "pesan":"semangat dalam menjadi pemimpin himpunan bang!!"
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
