@@ -125,9 +125,9 @@ if menu == "Kesekjenan":
                 "asal":"Bukit Kemuning, Lampung Utara",
                 "alamat": "Bawen 2",
                 "hobbi": "Main gitar",
-                "sosmed": "@pandrainsani",
+                "sosmed": "@pndrinsni27",
                 "kesan": "bang pandra humoris dan serius dalam menjawab",  
-                "pesan":"Semoga sehat selalu dan fokus dengan TA nya bang"# 1
+                "pesan":"Semoga sehat selalu dan fokus dengan TA nya bang!!"# 1
             },
             {
                 "nama": "Meiza Wulandari",
