@@ -99,12 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=15cjqFHeGfjNqZPyeqakETH1k0DRV3C0K", #Bang Gumilang
-            "https://drive.google.com/uc?export=view&id=1ID9wY6f0jv7FZuVDJjYK6eQcCR2M65db", #Bang Pandra
-            "https://drive.google.com/uc?export=view&id=1lhJ4A0VORtXT15iWhmSI3RRs0aZqneGH", #Kak Meiza
-            "https://drive.google.com/uc?export=view&id=12_mW3JLY63w9QzAmjFX3bB5--t-LeBII", #Kak hartiti
-            "https://drive.google.com/uc?export=view&id=17wlD11AIHjHj14zsL5hCuMmnYyUGXiW2", #Kak putri
-            "https://drive.google.com/uc?export=view&id=1CrZzVwuCmlSiG4kUECDjYItDMFO12uE_", #Kak Nadilla
+            "https://drive.google.com/uc?export=view&id=12zcW-VUhYnfYYO05-3xbpGaRU3pWoHuX", #Bang Gumilang
+            "https://drive.google.com/uc?export=view&id=1rVeqKgnf4KRaN_OvMvvW-OV1Man4OWCw", #Bang Pandra
+            "https://drive.google.com/uc?export=view&id=1R41hsz8S5v3oLBqACbVeTl9BelQXIO52", #Kak Meiza
+            "https://drive.google.com/uc?export=view&id=12Vskvw-wQncWgVww3BZ5_rhTXW50vEXo", #Kak hartiti
+            "https://drive.google.com/uc?export=view&id=1-DaXUo-aJa7opurX9G7GqDPN4-BjJnf1", #Kak putri
+            "https://drive.google.com/uc?export=view&id=1csy3oLJyVqJNUuqGh7PtY7KeHwFV-mY1", #Kak Nadilla
         ]
         data_list = [
             {
