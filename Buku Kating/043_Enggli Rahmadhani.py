@@ -1389,13 +1389,13 @@ elif menu == "Departemen MEDKRAF":
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
                 "umur": "18",
                 "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "alamat": "kandis",
+                "hobbi": "Dengerin musik",
+                "sosmed": "@gumilangkharisma",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
