@@ -99,8 +99,8 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1cd1vUD4JQ_WgSzMZxFaXTndy-MkhFCIz",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1cd1vUD4JQ_WgSzMZxFaXTndy-MkhFCIz", # bang gumi
+            "https://drive.google.com/uc?export=view&id=1BuK5sevMeE39mZUTt1bnR1djGx-pAGUy", # bang pandra
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
