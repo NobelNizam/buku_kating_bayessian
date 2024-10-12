@@ -106,7 +106,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1-DaXUo-aJa7opurX9G7GqDPN4-BjJnf1", #Kak putri
             "https://drive.google.com/uc?export=view&id=1csy3oLJyVqJNUuqGh7PtY7KeHwFV-mY1", #Kak Nadilla
         ]
-        # jangan ada yang hapus file >:(
+        # jangan ada yang hapus file >:((())
         data_list = [
             {
                 "nama": "Kharisma Gumilang",
