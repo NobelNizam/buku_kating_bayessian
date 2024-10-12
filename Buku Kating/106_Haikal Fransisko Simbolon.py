@@ -100,6 +100,11 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #bg Gumi
+            "https://drive.google.com/uc?export=view&id=1cMHMSg4vBT2cGZA11Jhmw5iLyNgGKWwH", #bg Pandra
+            "https://drive.google.com/uc?export=view&id=15X0gR09WLhFzBq81Kz_EO8r-4Gt16k6A", #ka Meliza
+            "https://drive.google.com/uc?export=view&id=17Yq9Tg5J3m9mtkJ75SWr6mY_YcPkHKDs", #Ka Titi
+            "https://drive.google.com/uc?export=view&id=1zyazraRYL_-6H1mDR9FGpHZjHeMAppRF", #Ka Putri
+            "https://drive.google.com/uc?export=view&id=1_N3GoIk4kIKGrkr5t-Y9fBk5SUu5jH55", #Ka Nadilla
             "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #bg Pandra
             "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #ka Meiza
             "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #Ka Titi
@@ -130,6 +135,7 @@ if menu == "Kesekjenan":
                 "pesan":"  "# 1
             },
             {
+                "nama": "Meliza Wulandari",
                 "nama": "Meiza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
@@ -159,6 +165,7 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin panda gitaran",
                 "sosmed": "@ptrimaulidaaa_",
+                "kesan": "   ",  
                 "kesan": "  ",  
                 "pesan":"  "# 1
             },
