@@ -99,7 +99,7 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=12zcW-VUhYnfYYO05-3xbpGaRU3pWoHuX", #Bang Gumilang
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bang Gumilang
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bang Pandra
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Meiza
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak hartiti
@@ -116,7 +116,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "Bang gumilang adalah orang yang berkarisma ",  
-                "pesan":"semangat dalam menjadi pemimpin himpunan bang!!"
+                "pesan":"semangat dalam menjadi pemimpin himpunan bang"
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
@@ -127,7 +127,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Main gitar",
                 "sosmed": "@pndrinsni27",
                 "kesan": "bang pandra humoris dan serius dalam menjawab",  
-                "pesan":"Semoga sehat selalu dan fokus dengan TA nya bang!!"# 1
+                "pesan":"Semoga sehat selalu dan fokus dengan TA nya bang!!"
             },
             {
                 "nama": "Meiza Wulandari",
