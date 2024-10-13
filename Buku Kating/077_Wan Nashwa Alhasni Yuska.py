@@ -379,7 +379,7 @@ elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1C0L23Em_-z3F9TMRY8NOMP60NOPGDR69", #bg econ
-            "https://drive.google.com/uc?export=view&id=1MDfm3v-TQ2jrskVcwqDdsYsUNrML9dW0k", #kk abeth
+            "https://drive.google.com/uc?export=view&id=1MDfm3v-TQ2jrskVcwqDdsYsUNrML9dW0", #kk abeth
             "https://drive.google.com/uc?export=view&id=1soTE6CvXquXJFikzlL3gT3pcyuzdOF63", #kk pipah
             "https://drive.google.com/uc?export=view&id=1tBr5WueGhQo3b9DI-tS1Asx0dfMThOCd", #kk pasha
             "https://drive.google.com/uc?export=view&id=18amFqzT5OfVE3Vi-as3ScWlvEbcSL9hY", #kk eksanty
