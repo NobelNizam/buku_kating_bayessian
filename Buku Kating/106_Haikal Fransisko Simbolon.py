@@ -99,10 +99,21 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
+
             "https://drive.google.com/uc?export=view&id=1XAZHh2TwNH-lDiaQE9QCVLgeavMyDqEG", #bg Gumi 
             "https://drive.google.com/uc?export=view&id=1XVZyPm1Bl32cHXki49QPRreToHccC7Fo", #bg Pandra 
             "https://drive.google.com/uc?export=view&id=1XXVbztFjvJT_TSyuBr2S2axIjIkDnVMH", #ka Meliza 
-            "https://drive.google.com/uc?export=view&id=1X_706mc1nc0dy8y9zXskGm0sPZQcM_zh", #Ka Titi  
+            "https://drive.google.com/uc?export=view&id=1X_706mc1nc0dy8y9zXskGm0sPZQcM_zh", #Ka Titi 
+            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #bg Gumi
+            "https://drive.google.com/uc?export=view&id=1cMHMSg4vBT2cGZA11Jhmw5iLyNgGKWwH", #bg Pandra
+            "https://drive.google.com/uc?export=view&id=15X0gR09WLhFzBq81Kz_EO8r-4Gt16k6A", #ka Meliza
+            "https://drive.google.com/uc?export=view&id=17Yq9Tg5J3m9mtkJ75SWr6mY_YcPkHKDs", #Ka Titi
+            "https://drive.google.com/uc?export=view&id=1zyazraRYL_-6H1mDR9FGpHZjHeMAppRF", #Ka Putri
+            "https://drive.google.com/uc?export=view&id=1_N3GoIk4kIKGrkr5t-Y9fBk5SUu5jH55", #Ka Nadilla
+            "https://drive.google.com/uc?export=view&id=1XAZHh2TwNH-lDiaQE9QCVLgeavMyDqEG", #bg Gumi
+            "https://drive.google.com/uc?export=view&id=1XVZyPm1Bl32cHXki49QPRreToHccC7Fo", #bg Pandra
+            "https://drive.google.com/uc?export=view&id=1XXVbztFjvJT_TSyuBr2S2axIjIkDnVMH", #ka Meliza
+            "https://drive.google.com/uc?export=view&id=1X_706mc1nc0dy8y9zXskGm0sPZQcM_zh", #Ka Titi
             "https://drive.google.com/uc?export=view&id=1XZOCF9xQmrpxhKLSW1P34HzG2apzUdkC", #Ka Putri
             "https://drive.google.com/uc?export=view&id=1X14hzKP1ug5BEiz1vsrApWDcZH_Ad_7Q", #Ka Nadilla
         ]
@@ -113,7 +124,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Way Kandis",
-                "hobbi": "Dengerin Musik",
+                "hobi": "Dengerin Musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "  ",  
                 "pesan":"  "# 1
@@ -124,7 +135,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Bukit Kemuning, Lampung Utara",
                 "alamat": "Jl. Bawen 2",
-                "hobbi": "Main Gitar",
+                "hobi": "Main Gitar",
                 "sosmed": "@pandrainsani",
                 "kesan": "  ",  
                 "pesan":"  "# 2
@@ -135,7 +146,7 @@ if menu == "Kesekjenan":
                 "umur": "20",
                 "asal":"Pagar Alam, Sumatera Selatan",
                 "alamat": "Kota Baru",
-                "hobbi": "Nonton drakor",
+                "hobi": "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "  ",  
                 "pesan":"  "# 3
@@ -146,7 +157,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Pemda",
-                "hobbi": "Nyanyi",
+                "hobi": "Nyanyi",
                 "sosmed": "@hartfdlh",
                 "kesan": "  ",  
                 "pesan":"  "# 4
@@ -157,9 +168,8 @@ if menu == "Kesekjenan":
                 "umur": "18",
                 "asal":"Payakumbuh, Sumatera Barat",
                 "alamat": "Nangka 4",
-                "hobbi": "Dengerin panda gitaran",
+                "hobi": "Dengerin panda gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "   ",  
                 "kesan": "  ",  
                 "pesan":"  "# 5
             },
@@ -169,7 +179,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Metro",
                 "alamat": "Kotabaru",
-                "hobbi": "Membaca",
+                "hobi": "Membaca",
                 "sosmed": "@nadillaandr26",
                 "kesan": "  ",  
                 "pesan":"  "# 6
