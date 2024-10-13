@@ -99,12 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1bs6_oiTJMNEtpdxCjR2mQxUF2do5RViV_",
-            "https://drive.google.com/uc?export=view&id=1AOi49bMJdDHqs-YztTZL8oZiW3-ygy-A_",
-            "https://drive.google.com/uc?export=view&id=1QkjtOrZIE7dytKvbk9SgaZpXSW0ocbkm_",
-            "https://drive.google.com/uc?export=view&id=1rtCxZnAbhJhwX4hPOGz4Bzw2DBDCVvfk_",
-            "https://drive.google.com/uc?export=view&id=12gsFg9kt9sHtrl-M3XmlWuA8hnwut-wj_",
-            "https://drive.google.com/uc?export=view&id=1jtIqbfWoqqB60WCnGZRv2cxGTNBIyq3n_",
+            "https://drive.google.com/uc?export=view&id=1Lig8KbuPNkrxR1qpVxck_r9_pJyh5Sg0", #bang gumi
+            "https://drive.google.com/uc?export=view&id=11DEY_UPniAyxRr7X5nzYxa3nDYjq6GfX", #bang pandra
+            "https://drive.google.com/uc?export=view&id=17oXUbpA_-MZibe7ARFL5Up0BYBez-RWL", #kak meliza
+            "https://drive.google.com/uc?export=view&id=1hQWKNQvBVTk1u7uWdfC3TpoIFLqdzTiZ", #kak hartiti
+            "https://drive.google.com/uc?export=view&id=1AkdXLJF56FI-ELklxXe4dZnJGxaR_k5l",
+            "https://drive.google.com/uc?export=view&id=1LhkS-CbbfCtRbW1cpjW5Ojxg0egpkN0g",
         ]
         data_list = [
             {
@@ -130,7 +130,7 @@ if menu == "Kesekjenan":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": " Meiza Wulandari",
+                "nama": " Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "18",
                 "asal":" Pagar Alam, Sumatera Selatan",
