@@ -180,9 +180,19 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1MCjoQK-EGmdWdtdaV4_MOBxZHpEhfIPo", #Kak Niya
+            "https://drive.google.com/uc?export=view&id=11MBM9IxgoPppHgNg4I56rB0MLK0f16kx", #Kak Annisa
+            "https://drive.google.com/uc?export=view&id=1M95EfuMTa6XXeUpkqT3TSL9xvrJV1dV1",
+            "https://drive.google.com/uc?export=view&id=1M6zXLLvYzMCfzwdd799DjtsCmyrDGciR",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1M6zXLLvYzMCfzwdd799DjtsCmyrDGciR",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1LtAW9rmHdtaEf_-Y8rMYTr6dGdhyrwKx",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1M3zNZJ_-woBUr9NKpgDOWHz3OvUTRVvj",
+            "https://drive.google.com/uc?export=view&id=1M9fynM_URRawW3G3S0YQfKKWaQdzgFt3",
+            "https://drive.google.com/uc?export=view&id=1M2_cR6oB83pfifzCfSV_anbuMFYtxFIj",
+            "https://drive.google.com/uc?export=view&id=1MCruLVnpudQNuwJ0NVZ5W1Q2jW2dkE7-",
         ]
         data_list = [
             {
@@ -204,8 +214,8 @@ elif menu == "Baleg":
                 "alamat": " Belwis, Way Huwi",
                 "hobbi": "Membaca Novel",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Kak anisa cancii amayy",  
+                "pesan":"semangat terus kuliahnya kak"# 1
             },
             {
                 "nama": "Wulan Sabina",
@@ -215,8 +225,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Menonton drakor",
                 "sosmed": "@wlsbn0",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Kak wulan maniezz amayy",  
+                "pesan":"semangat terus kuliahnya kakak"# 1
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -226,7 +236,7 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobbi": "Menonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "kesan": "Kakaknya seruuu",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
@@ -248,8 +258,8 @@ elif menu == "Baleg":
                 "alamat": "Kandis",
                 "hobbi": "Membaca buku",
                 "sosmed": "@fer_yulius",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Abangnya pembawaannya tenang banget",  
+                "pesan":"semangat terus kuliahnya bang !!!"# 1
             },
             {
                 "nama": "Renisha Putri Giyani",
