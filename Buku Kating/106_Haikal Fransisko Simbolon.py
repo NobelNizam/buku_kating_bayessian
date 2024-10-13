@@ -99,17 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #bg Gumi
-            "https://drive.google.com/uc?export=view&id=1cMHMSg4vBT2cGZA11Jhmw5iLyNgGKWwH", #bg Pandra
-            "https://drive.google.com/uc?export=view&id=15X0gR09WLhFzBq81Kz_EO8r-4Gt16k6A", #ka Meliza
-            "https://drive.google.com/uc?export=view&id=17Yq9Tg5J3m9mtkJ75SWr6mY_YcPkHKDs", #Ka Titi
-            "https://drive.google.com/uc?export=view&id=1zyazraRYL_-6H1mDR9FGpHZjHeMAppRF", #Ka Putri
-            "https://drive.google.com/uc?export=view&id=1_N3GoIk4kIKGrkr5t-Y9fBk5SUu5jH55", #Ka Nadilla
-            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #bg Pandra
-            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #ka Meiza
-            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #Ka Titi
-            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #Ka Putri
-            "https://drive.google.com/uc?export=view&id=1cU1LRTMziDXEAYlTl3qxEGS6osrGEcNI", #Ka Nadilla
+            "https://drive.google.com/uc?export=view&id=1XAZHh2TwNH-lDiaQE9QCVLgeavMyDqEG/", #bg Gumi
+            "https://drive.google.com/uc?export=view&id=1XVZyPm1Bl32cHXki49QPRreToHccC7Fo", #bg Pandra
+            "https://drive.google.com/uc?export=view&id=1XXVbztFjvJT_TSyuBr2S2axIjIkDnVMH", #ka Meliza
+            "https://drive.google.com/uc?export=view&id=1X_706mc1nc0dy8y9zXskGm0sPZQcM_zh", #Ka Titi
+            "https://drive.google.com/uc?export=view&id=1XZOCF9xQmrpxhKLSW1P34HzG2apzUdkC", #Ka Putri
+            "https://drive.google.com/uc?export=view&id=1X14hzKP1ug5BEiz1vsrApWDcZH_Ad_7Q", #Ka Nadilla
         ]
         data_list = [
             {
@@ -189,17 +184,17 @@ elif menu == "Baleg":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1UiJmKQEawtDpLAd_AmX0Ha5jE9gzCs2y",#kak Tri
             "https://drive.google.com/uc?export=view&id=1UZasM7r7oYIcoHeikiG27MJwvkf1T_fr",#Kak Annisa
-            "https://drive.google.com/uc?export=view&id=1UIOZ31xLU4nKHqgBrK8xeTxNYaWQ7Af0",#Kak Wulan
+            "https://drive.google.com/uc?export=view&id=1UuU9ynMYrL492E2czXUJU-ifg4xVQvl_",#Kak Wulan
             "https://drive.google.com/uc?export=view&id=1U_Q5tvCiA8qTAsR7GDjbDE7-0oFwcIr4",#Kak Anisa Dini
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Claudhea
             "https://drive.google.com/uc?export=view&id=1Uo2MmyKXCVfE6wE1s6R1eYVv3KAvzYjK",#Bg Feryadi
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Renisha
             "https://drive.google.com/uc?export=view&id=1UdZ6AMpXC-xOql9Y7iWs0eXYrkjgCJF6",#Bg Mirzan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Anisa Fitri
-            "https://drive.google.com/uc?export=view&id=1UIhJJ9Kga9S0hsvfRGMTdCCX9WgHNi6X",#Kak Dhea
+            "https://drive.google.com/uc?export=view&id=1Uv0Hm5UCaoMpDJDy2By0gCPIuRLxug8Y",#Kak Dhea
             "https://drive.google.com/uc?export=view&id=1TnrW_EDC6ZUN10MyQB7n5tObcOqaaLCz",#Bg Fahrul
             "https://drive.google.com/uc?export=view&id=1TtIFuOl8BxQTUbSIbEWbP2LXNnGdsLz-",#Kak Berliana
-            "https://drive.google.com/uc?export=view&id=1TvtkNTWzGQ5BNzQYw6Iem026NrC791X-",#Bg Jere
+            "https://drive.google.com/uc?export=view&id=1UxZZppwdYBq2bOMr-_pGurcWUAlb79HV",#Bg Jere
         ]
         data_list = [
             {
