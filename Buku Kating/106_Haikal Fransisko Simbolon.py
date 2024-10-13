@@ -127,7 +127,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Main Gitar",
                 "sosmed": "@pandrainsani",
                 "kesan": "  ",  
-                "pesan":"  "# 1
+                "pesan":"  "# 2
             },
             {
                 "nama": "Meliza Wulandari",
@@ -139,7 +139,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "  ",  
-                "pesan":"  "# 1
+                "pesan":"  "# 3
             },
             {
                 "nama": "Hartiti Fadhilah",
@@ -150,7 +150,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nyanyi",
                 "sosmed": "@hartfdlh",
                 "kesan": "  ",  
-                "pesan":"  "# 1
+                "pesan":"  "# 4
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -162,7 +162,7 @@ if menu == "Kesekjenan":
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "   ",  
                 "kesan": "  ",  
-                "pesan":"  "# 1
+                "pesan":"  "# 5
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -173,7 +173,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Membaca",
                 "sosmed": "@nadillaandr26",
                 "kesan": "  ",  
-                "pesan":"  "# 1
+                "pesan":"  "# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
