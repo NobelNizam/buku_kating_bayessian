@@ -190,7 +190,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1yfstBvVGUqFyZbaS62pR6I3R7SR7-WhO",
             "https://drive.google.com/uc?export=view&id=1yPvO4a1UEVafC2jjI789GjRHat7-LTrb",
             "https://drive.google.com/uc?export=view&id=1DTliGINQ7CQ8f6RrbHrkwK8tVFCp4f2a",
-            "https://drive.google.com/uc?export=view&id=1H1Z-boU0aeqaHHA1qCfKFIPrp6LO2MY",
+            "https://drive.google.com/uc?export=view&id=1H1Z-boU0aeqaHHA1qCfKFIPrp6LO2MYc",
             "https://drive.google.com/uc?export=view&id=1Uebf5D2vac3mVT2PHTHnEINa-ftEYQ1A",
             "https://drive.google.com/uc?export=view&id=1VyyGio0yM8ZlEsYadMKaUO08904e_utg",
 
