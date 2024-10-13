@@ -387,7 +387,7 @@ elif menu == "Departemen PSDA":
         ]
         data_list = [
             {
-                "nama": "Ericson ",
+                "nama": "Ericson Chandra Sihombing",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -398,7 +398,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Elisabeth",
+                "nama": "Elisabeth Claudia Simajuntak",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -519,7 +519,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 1",
+                "nama": "Sahid Maulana",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -530,7 +530,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 2",
+                "nama": "Rafa Aqilla Jungjunan",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -541,7 +541,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 1",
+                "nama": "Johannes Krisjon Silitonga",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -552,7 +552,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 2",
+                "nama": "Vanessa Olivia Rose",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -563,7 +563,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 1",
+                "nama": "Ibnu Farhan Al-Ghifari",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -574,7 +574,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 2",
+                "nama": "Leonard Andreas Napitupulu",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -585,7 +585,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 1",
+                "nama": "M Farhan Athaulloh",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -596,7 +596,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 2",
+                "nama": "Gede Moana",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -607,7 +607,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 1",
+                "nama": "Jaclin Alcavella",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -618,7 +618,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 2",
+                "nama": "Rafly Prabu Darmawan",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -629,7 +629,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 1",
+                "nama": "Syalaisha Andini Putriansyah",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -652,7 +652,7 @@ elif menu == "Departemen MIKFES":
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
+                "nama": "Rafi Fadhillah",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -663,7 +663,7 @@ elif menu == "Departemen MIKFES":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 2",
+                "nama": "Annisa Novantika",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1127,7 +1127,7 @@ elif menu == "Departemen Internal":
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
+                "nama": "Dimas Rizky Ramadhan",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1138,7 +1138,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 2",
+                "nama": "Catherine Firdhasari Maulina Sinaga",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1149,7 +1149,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 3",
+                "nama": "Akbar Resdika",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1160,7 +1160,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 4",
+                "nama": "Rani Puspita Sari",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1171,7 +1171,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 5",
+                "nama": "Rendra Eka Prayoga",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1182,7 +1182,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 6",
+                "nama": "Salwa Farhanatussaidah",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1193,7 +1193,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 7",
+                "nama": "Yosia",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1204,7 +1204,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 8",
+                "nama": "Ari Sigit",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1215,7 +1215,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 9",
+                "nama": "Renta Siahaan",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1226,7 +1226,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 10",
+                "nama": "Azizah Kusumah Putri",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1237,7 +1237,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 11",
+                "nama": "Meira Listyaningrum",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1248,7 +1248,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 12",
+                "nama": "Rendi Alexander Hutagalung",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1271,7 +1271,7 @@ elif menu == "Departemen SSD":
         ]
         data_list = [
             {
-                "nama": "A",
+                "nama": "Adrian Agustinus Lumban Gaol",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1282,7 +1282,7 @@ elif menu == "Departemen SSD":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 2",
+                "nama": "Adisty Syawaida Ariyanto",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1293,40 +1293,7 @@ elif menu == "Departemen SSD":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 3",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "nama": "Kakak 4",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
-            },
-            {
-                "nama": "Kakak 5",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "nama": "Kakak 6",
+                "nama": "Nabila Azhari",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1338,6 +1305,39 @@ elif menu == "Departemen SSD":
             },
             {
                 "nama": "Ahmad Rizqi",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Danang Hilal Kurniawan",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Farrel Julio Akbar",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Tessa Kania Sagala",
                 "nim": "122450138",
                 "umur": "18",
                 "asal":"Bukittinggi",
@@ -1348,7 +1348,7 @@ elif menu == "Departemen SSD":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 8",
+                "nama": "Nabilah Andika Fitriati",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1359,7 +1359,7 @@ elif menu == "Departemen SSD":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 9",
+                "nama": "Alvia Asrinda Br Ginting",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1370,7 +1370,7 @@ elif menu == "Departemen SSD":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 10",
+                "nama": "Dhafin Razaqa Luthfi",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1381,7 +1381,7 @@ elif menu == "Departemen SSD":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 11",
+                "nama": "Elia Meylani Simajuntak",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
