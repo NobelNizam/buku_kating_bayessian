@@ -99,12 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/file/d/1ZrhSyzENmyrH4YmmvnLLu-eLgFNieQbv/view?usp=drive_link", 
-            "https://drive.google.com/file/d/1Ja__QL2jbk3CUeUbCkImr7dG01Fc0IUh/view?usp=drive_link",
-            "https://drive.google.com/file/d/17RtV-LQrpwsihn-7tAcsY3l3TKvRat2j/view?usp=drive_link",
-            "https://drive.google.com/file/d/13uR-Lmp3Ca4xczv_pdGSReDMne5vHC_n/view?usp=drive_link",
-            "https://drive.google.com/file/d/1fw6JWlOjkAXTal7BuUptJxgMTHfWGrHB/view?usp=drive_link",
-            "https://drive.google.com/file/d/1L-ZBSCAOpWeV6Kn7HBx1KRVaQ_2ELkly/view?usp=drive_link",
+            "https://drive.google.com/uc?export=view&id=1ZrhSyzENmyrH4YmmvnLLu-eLgFNieQbv", 
+            "https://drive.google.com/uc?export=view&id=1Ja__QL2jbk3CUeUbCkImr7dG01Fc0IUh", 
+            "https://drive.google.com/uc?export=view&id=17RtV-LQrpwsihn-7tAcsY3l3TKvRat2j", 
+            "https://drive.google.com/uc?export=view&id=13uR-Lmp3Ca4xczv_pdGSReDMne5vHC_n", 
+            "https://drive.google.com/uc?export=view&id=1fw6JWlOjkAXTal7BuUptJxgMTHfWGrHB", 
+            "https://drive.google.com/uc?export=view&id=1L-ZBSCAOpWeV6Kn7HBx1KRVaQ_2ELkly", 
         ]
         data_list = [
             {
@@ -180,16 +180,20 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/file/d/1Ww7Ig_owcxQfRU3jwmUEZi7lPIvhhzVy/view?usp=drive_link",
-            "https://drive.google.com/file/d/11o55D6CGlTnoUxELSgrE1_-VJ_hZc2cL/view?usp=drive_link",
-            "https://drive.google.com/file/d/1l2-PeYce1EG464sS6p6l61cfiJpZFKlF/view?usp=drive_link",
-            "https://drive.google.com/file/d/1j-ODU4pNEGZwki_7RACg65KYv9jToZ2p/view?usp=drive_link",
-            "https://drive.google.com/file/d/11fsDdVqEjjDyQew3B6zTAGLS0FNUoVUE/view?usp=drive_link",
-            "https://drive.google.com/file/d/1Qn-WYjx3qJUYjM6RA8bsl_WqnMggJEIg/view?usp=drive_link",
-            "https://drive.google.com/file/d/1JgMRF3ux9M_EFKoRhMOO2RinVkKde6Vq/view?usp=drive_link",
-            "https://drive.google.com/file/d/19ubX2jUBrRpUYrbwOF_8t1an_uCpeS-t/view?usp=drive_link",
-            "https://drive.google.com/file/d/1Vaq5SOX-4MjOXOKqHfcBGS3XGAYequdD/view?usp=drive_link",
-            "https://drive.google.com/file/d/16FQ9pA1OaWj3D3-UIV3RYgw-NFJyJ3r6/view?usp=drive_link",
+            "https://drive.google.com/uc?export=view&id=1Ww7Ig_owcxQfRU3jwmUEZi7lPIvhhzVy",
+            "https://drive.google.com/uc?export=view&id=11o55D6CGlTnoUxELSgrE1_-VJ_hZc2cL",
+            "https://drive.google.com/uc?export=view&id=1l2-PeYce1EG464sS6p6l61cfiJpZFKlF",
+            "https://drive.google.com/uc?export=view&id=1j-ODU4pNEGZwki_7RACg65KYv9jToZ2p",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
+            "https://drive.google.com/uc?export=view&id=11fsDdVqEjjDyQew3B6zTAGLS0FNUoVUE",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
+            "https://drive.google.com/uc?export=view&id=1Qn-WYjx3qJUYjM6RA8bsl_WqnMggJEIg",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
+            "https://drive.google.com/uc?export=view&id=1JgMRF3ux9M_EFKoRhMOO2RinVkKde6Vq",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
+            "https://drive.google.com/uc?export=view&id=19ubX2jUBrRpUYrbwOF_8t1an_uCpeS-t",
+            "https://drive.google.com/uc?export=view&id=1Vaq5SOX-4MjOXOKqHfcBGS3XGAYequdD",
+            "https://drive.google.com/uc?export=view&id=16FQ9pA1OaWj3D3-UIV3RYgw-NFJyJ3r6",
         ]
         data_list = [
             {
@@ -236,7 +240,7 @@ elif menu == "Baleg":
                 "kesan": "Kakak nya seruu sama baik jugaa",  
                 "pesan":"Semangat dan bahagia selalu kak"
             },
-            {
+             {
                 "nama": "Claudhea Angeliani",
                 "nim": "121450087",
                 "umur": "21",
@@ -259,6 +263,17 @@ elif menu == "Baleg":
                 "pesan":"Semangat kuliah dan asprak nya bang"# 1
             },
             {
+                "nama": "Renisha Putri Giyani",
+                "nim": "122450079",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobbi": "Mendengarkan musik",
+                "sosmed": "@fleurnsh",
+                "kesan": "Kakak nya baikk",  
+                "pesan":"Semangat terus kuliahnya kakak"# 1
+            },
+            {
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
                 "umur": "20",
@@ -268,6 +283,17 @@ elif menu == "Baleg":
                 "sosmed": "@myrrinn",
                 "kesan": "Abang nya ramah dan baik",  
                 "pesan":"Semangat terus kuliahnya bang"
+            },
+             {
+                "nama": "Annisa Fitriyani",
+                "nim": "122450019",
+                "umur": "19",
+                "asal":"Bandar Lampung",
+                "alamat": "Bernung, Pesawaran",
+                "hobbi": "Menonton drakor",
+                "sosmed": "@ansftynn_",
+                "kesan": "Kakak nya ramahh",  
+                "pesan":"Semangat dan bahagia selalu ya kak"
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -312,28 +338,6 @@ elif menu == "Baleg":
                 "sosmed": "@jeremia_s_",
                 "kesan": "Bang jere orang nya asik",  
                 "pesan":"Semangat kuliah sama jadi asprak nya bang"# 1
-            },
-            {
-                "nama": "Kakak 12",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "nama": "Kakak 13",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
