@@ -104,7 +104,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1sLgP1rGfLJIOFR6uhLly1wXrCcWSax_m", #kak meliza
             "https://drive.google.com/uc?export=view&id=1rXPzsaheCl3FKjcldvWejrz-_GiA3Emg", #kak putri
             "https://drive.google.com/uc?export=view&id=1xOH5E9ejEaQ5AEfWNHGnJ3_Rb2Hc9ysE", #kak hartiti
-            "https://drive.google.com/uc?export=view&id=1aqckfMm6HbyshGHs9FLHOw3-B_0LAPuI", #kak nadilla
+            "https://drive.google.com/uc?export=view&id=1aqckfMm6HbyshGHs9FLHOw3-B_0LAPuI"  #kak nadilla
         ]
         data_list = [
             {
@@ -113,7 +113,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Kandis",
-                "hobi": "Dengerin musik",
+                "hobbi": "Dengerin musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "abang ini seru",  
                 "pesan":"semangat terus bang"# 1
@@ -183,16 +183,16 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=15_tis34iRmXempdeF6G_CdousDPLcMM0", #kak niya
             "https://drive.google.com/uc?export=view&id=1ixjym-yGruXRBO5EBZRHEnRM9YeWU7ub", #kak Annisa Cahyani Surya
             "https://drive.google.com/uc?export=view&id=1dHLw0x3_SoJtHhUXFjZuoftXH0iQp38z", #kak Wulan Sabina
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Anisa Dini Amalia
+            "https://drive.google.com/uc?export=view&id=1cqOMsNDESg2ceToRVPq4pE6rQ4QIH89e", #kak Anisa Dini Amalia
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Anisa Fitriyani
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Feryadi Yulius
+            "https://drive.google.com/uc?export=view&id=17okp7ls7OxFbI2EzsVH1PK4eMfVxrEo8", #kak Feryadi Yulius
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Renisha Putri Giani
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Claudhea Angeliani
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Mirzan Yusuf Rabbani
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Dhea Amelia Putri
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Muhammad Fahrul Aditya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak berliana enda putri
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak jere
+            "https://drive.google.com/uc?export=view&id=14AQIQ0f7BGwdyIIwlxCX-wc4QutYq4-R", #kak Mirzan Yusuf Rabbani
+            "https://drive.google.com/uc?export=view&id=1CBZlBDaR61YYn5Wrz5iR8EkP5ktuFQYy", #kak Dhea Amelia Putri
+            "https://drive.google.com/uc?export=view&id=1ewmt2zPYwHBdN2RGz4E7fYhbGHPN1izt", #kak Muhammad Fahrul Aditya
+            "https://drive.google.com/uc?export=view&id=1gH7jMzOtoFU0NBPtMnWalu3KpuSEJ7Wr", #kak berliana enda putri
+            "https://drive.google.com/uc?export=view&id=1JPU1dCUzxtSYsdYhdtczcuWc9H1ckkV3", #kak jere
         ]
         data_list = [
             {
@@ -274,8 +274,8 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Claudhea Angeliani",
-                "nim": "122450000",
-                "umur": "18",
+                "nim": "12145124",
+                "umur": "21",
                 "asal":"Lampung Timur",
                 "alamat": "Lampung Timur",
                 "hobbi": "Mendengarkan musik",
@@ -347,30 +347,29 @@ elif menu == "Senator":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Anissa Lutfia  Alifia",
+                "nim": "121450093",
+                "umur": "22",
+                "asal":"Lampung Tengah",
+                "alamat": "Kost Putri Rahayu",
+                "hobbi": "Nyanyi",
+                "sosmed": "@annisaluthfi_",
+                "kesan": "Kakak kereen bgt, public speakingnya bagus",  
+                "pesan":"semangat terus kakkk"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Kontrakan Kota Baru",
+                "hobbi": "Dengerin Kak luthfia nyanyi",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "abangnya serem",  
+                "pesan":"semangat terus bang"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -379,9 +378,29 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1C0L23Em_-z3F9TMRY8NOMP60NOPGDR69", #bg econ
+            "https://drive.google.com/uc?export=view&id=1MDfm3v-TQ2jrskVcwqDdsYsUNrML9dW0", #kk abeth
+            "https://drive.google.com/uc?export=view&id=1soTE6CvXquXJFikzlL3gT3pcyuzdOF63", #kk pipah
+            "https://drive.google.com/uc?export=view&id=1tBr5WueGhQo3b9DI-tS1Asx0dfMThOCd", #kk pasha
+            "https://drive.google.com/uc?export=view&id=18amFqzT5OfVE3Vi-as3ScWlvEbcSL9hY", #kk eksanty
+            "https://drive.google.com/uc?export=view&id=1jSjGBKixIiY9d-HVpNrLBu06z3GHhTz4", #kk farahanum
+            "https://drive.google.com/uc?export=view&id=1K1aYFhxWi32Io_g49Ef0YMz4iCrN7bUa", #bg ferdy
+            "https://drive.google.com/uc?export=view&id=1VkuTCF_4lA1efuFyF72NWoKptiN5CPhb", #bg deri
+            "https://drive.google.com/uc?export=view&id=16Z9GP_Z51wu5r4yc2fRdOp_E9PAb8a5q", #kk oktavia 
+            "https://drive.google.com/uc?export=view&id=1milyviJTSNNpPWj-BUVi9fDe7_5vWHS4", #bg deyvan
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bg ibnu
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bg jo
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bg kemas
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bg leonard
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kk presilia
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kk rafa aqila
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bg sahid
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kk vanessa
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bg ateng
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bg gede
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kk jaclin
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bg rafly
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kk syalaisha
         ]
         data_list = [
             {
