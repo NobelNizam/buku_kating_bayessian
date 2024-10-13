@@ -105,6 +105,12 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=17Yq9Tg5J3m9mtkJ75SWr6mY_YcPkHKDs", #Ka Titi
             "https://drive.google.com/uc?export=view&id=1zyazraRYL_-6H1mDR9FGpHZjHeMAppRF", #Ka Putri
             "https://drive.google.com/uc?export=view&id=1_N3GoIk4kIKGrkr5t-Y9fBk5SUu5jH55", #Ka Nadilla
+            "https://drive.google.com/uc?export=view&id=1XAZHh2TwNH-lDiaQE9QCVLgeavMyDqEG", #bg Gumi
+            "https://drive.google.com/uc?export=view&id=1XVZyPm1Bl32cHXki49QPRreToHccC7Fo", #bg Pandra
+            "https://drive.google.com/uc?export=view&id=1XXVbztFjvJT_TSyuBr2S2axIjIkDnVMH", #ka Meliza
+            "https://drive.google.com/uc?export=view&id=1X_706mc1nc0dy8y9zXskGm0sPZQcM_zh", #Ka Titi
+            "https://drive.google.com/uc?export=view&id=1XZOCF9xQmrpxhKLSW1P34HzG2apzUdkC", #Ka Putri
+            "https://drive.google.com/uc?export=view&id=1X14hzKP1ug5BEiz1vsrApWDcZH_Ad_7Q", #Ka Nadilla
         ]
         data_list = [
             {
@@ -127,11 +133,10 @@ if menu == "Kesekjenan":
                 "hobi": "Main Gitar",
                 "sosmed": "@pandrainsani",
                 "kesan": "  ",  
-                "pesan":"  "# 1
+                "pesan":"  "# 2
             },
             {
                 "nama": "Meliza Wulandari",
-                "nama": "Meiza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
                 "asal":"Pagar Alam, Sumatera Selatan",
@@ -139,7 +144,7 @@ if menu == "Kesekjenan":
                 "hobi": "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "  ",  
-                "pesan":"  "# 1
+                "pesan":"  "# 3
             },
             {
                 "nama": "Hartiti Fadhilah",
@@ -150,7 +155,7 @@ if menu == "Kesekjenan":
                 "hobi": "Nyanyi",
                 "sosmed": "@hartfdlh",
                 "kesan": "  ",  
-                "pesan":"  "# 1
+                "pesan":"  "# 4
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -161,7 +166,7 @@ if menu == "Kesekjenan":
                 "hobi": "Dengerin panda gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "  ",  
-                "pesan":"  "# 1
+                "pesan":"  "# 5
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -172,7 +177,7 @@ if menu == "Kesekjenan":
                 "hobi": "Membaca",
                 "sosmed": "@nadillaandr26",
                 "kesan": "  ",  
-                "pesan":"  "# 1
+                "pesan":"  "# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -181,163 +186,163 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1UiJmKQEawtDpLAd_AmX0Ha5jE9gzCs2y",#kak Tri
+            "https://drive.google.com/uc?export=view&id=1UZasM7r7oYIcoHeikiG27MJwvkf1T_fr",#Kak Annisa
+            "https://drive.google.com/uc?export=view&id=1UuU9ynMYrL492E2czXUJU-ifg4xVQvl_",#Kak Wulan
+            "https://drive.google.com/uc?export=view&id=1U_Q5tvCiA8qTAsR7GDjbDE7-0oFwcIr4",#Kak Anisa Dini
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Claudhea
+            "https://drive.google.com/uc?export=view&id=1Uo2MmyKXCVfE6wE1s6R1eYVv3KAvzYjK",#Bg Feryadi
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Renisha
+            "https://drive.google.com/uc?export=view&id=1UdZ6AMpXC-xOql9Y7iWs0eXYrkjgCJF6",#Bg Mirzan
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Anisa Fitri
+            "https://drive.google.com/uc?export=view&id=1Uv0Hm5UCaoMpDJDy2By0gCPIuRLxug8Y",#Kak Dhea
+            "https://drive.google.com/uc?export=view&id=1TnrW_EDC6ZUN10MyQB7n5tObcOqaaLCz",#Bg Fahrul
+            "https://drive.google.com/uc?export=view&id=1TtIFuOl8BxQTUbSIbEWbP2LXNnGdsLz-",#Kak Berliana
+            "https://drive.google.com/uc?export=view&id=1UxZZppwdYBq2bOMr-_pGurcWUAlb79HV",#Bg Jere
         ]
         data_list = [
-{
+            {
                 "nama": "Tri Murniya Ningsih",
                 "nim": "121450038",
                 "umur": "21",
-                "asal": "Bogor",
-                "alamat": "Jl Raden Saleh",
-                "hobi": "Searching GPT",
-                "sosmed": "@trimurniaa_",
-                "kesan": "  ",  
-                "pesan": "  "
+                "asal":"Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi": "Ngerjain TA",
+                "sosmed": "@trimurniaa",
+                "kesan": "Asik banget kakak orangnya",  
+                "pesan":"Semoga dilancarkan segala urusannya"
             },
             {
                 "nama": "Annisa Cahyani Surya",
                 "nim": "121450114",
-                "umur": "21",
-                "asal": "Tangerang Selatan",
-                "alamat": "Way Huwi",
-                "hobi": "Baca buku dan nonton film",
+                "umur": "20",
+                "asal":"Tangerang Selatan",
+                "alamat": "Belwis, Way Huwi",
+                "hobbi": "Membaca Novel",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "  ",  
-                "pesan": "  "# 1
+                "kesan": "-",  
+                "pesan":"-"
             },
             {
                 "nama": "Wulan Sabina",
                 "nim": "121450150",
-                "umur": "21",
-                "asal": "Medan",
-                "alamat": "Jl Raden Saleh",
-                "hobi": "Belajar bersama Pa Tamaro",
+                "umur": "18",
+                "asal":"Medan",
+                "alamat": "Raden Saleh",
+                "hobbi": "Nonton drakor",
                 "sosmed": "@wlsbn0",
-                "kesan": "  ",  
-                "pesan": "  "# 1
+                "kesan": "-",  
+                "pesan":"-"
             },
             {
                 "nama": "Anisa Dini Amalia",
                 "nim": "121450081",
                 "umur": "20",
-                "asal": "Tangerang",
+                "asal":"Tangerang",
                 "alamat": "Jati Agung",
-                "hobi": "Ngobrol",
+                "hobbi": "Nonton Dracin",
                 "sosmed": "@anisadini10",
-                "kesan": "  ",  
-                "pesan": "  "# 1
+                "kesan": "-",  
+                "pesan":"-"
             },
             {
-                "nama": "Anisa Fitriyani",
-                "nim": "122450019",
-                "umur": "19",
-                "asal": "Batam",
-                "alamat": "Pesawaran",
-                "hobi": "Nonton drakor",
-                "sosmed": "@ansftrynn_",
-                "kesan": "  ",  
-                "pesan": "  "# 1
+                "nama": "Claudhea Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobbi": "Mendengarkan musik",
+                "sosmed": "@dylebee",
+                "kesan": "-",  
+                "pesan":"-"
             },
             {
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
-                "asal": "Sumatera Selatan",
+                "asal":"Sumatera Selatan",
                 "alamat": "Way Kandis",
-                "hobi": "Baca buku",
+                "hobbi": "Membaca buku",
                 "sosmed": "@fer_yulius",
-                "kesan": "  ",  
-                "pesan": "  "# 1
+                "kesan": "-",  
+                "pesan":"-"
+            },
+            {
+                "nama": "Renisha Putri Giyani",
+                "nim": "122450079",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobbi": "Mendengarkan musik",
+                "sosmed": "@fleurnsh",
+                "kesan": "-",  
+                "pesan":"-"
+            },
+            {
+                "nama": "Mirzan Yusuf Rabbani",
+                "nim": "122450118",
+                "umur": "20",
+                "asal":"Jakarta",
+                "alamat": "Korpri",
+                "hobbi": "Tidur yang lama",
+                "sosmed": "@myrrinn",
+                "kesan": "-",  
+                "pesan":"-"
+            },
+            {
+                "nama": "Anisa Fitriyani",
+                "nim": "122450019",
+                "umur": "19",
+                "asal":"Bandar Lampung",
+                "alamat": "Bernung, Pesawaran",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@ansftynn_",
+                "kesan": "-",  
+                "pesan":"-"
             },
             {
                 "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
-                "umur": "20",
-                "asal": "Solo",
+                "umur": "120",
+                "asal":"Bengkulu",
                 "alamat": "Natar",
-                "hobi": "Suka ditipu sama penjual akun canva premium di shopee",
-                "sosmed": "@_.dheamelia",
-                "kesan": "  ",  
-                "pesan": "  "# 1
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@myrrinn",
+                "kesan": "-",  
+                "pesan":"-"
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
                 "nim": "121450156",
                 "umur": "22",
-                "asal": "Surakarta, Jawa Tengah",
+                "asal":"Surakarta",
                 "alamat": "Sukarame",
-                "hobi": "Badminton, melukis, hiking, dan berenang",
-                "sosmed": "@fhrul.pdf",
-                "kesan": "  ",  
-                "pesan": "  "# 1
+                "hobbi": "Badminton, melukis, minum kopo",
+                "sosmed": "@shrul.pdf",
+                "kesan": "-",  
+                "pesan":"-"
             },
             {
                 "nama": "Berliana Enda Putri",
                 "nim": "122450065",
                 "umur": "20",
-                "asal": "Sumatera Barat",
-                "alamat": "Way Huwi",
-                "hobi": "Make up, nonton podcast, dan dengerin musik",
-                "sosmed": "@berlyyanda",
-                "kesan": "  ",  
-                "pesan": "  "# 1
+                "asal":"Sumatera Barat",
+                "alamat": "Belwis",
+                "hobbi": "Menonton horror",
+                "sosmed": "@berliyanda",
+                "kesan": "-",  
+                "pesan":"-"
             },
             {
-                "nama": "Kakak 10",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "  ",  
-                "pesan":"  "
-            },
-            {
-                "nama": "Kakak 11",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "  ",  
-                "pesan":"  "# 1
-            },
-            {
-                "nama": "Kakak 12",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "  ",  
-                "pesan":"  "# 1
-            },
-            {
-                "nama": "Kakak 13",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "  ",  
-                "pesan":"  "# 1
+                "nama": "Jeremia Susanto",
+                "nim": "12245022",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Billabong",
+                "hobbi": "memancing emosi",
+                "sosmed": "@jeremia_s_",
+                "kesan": "-",  
+                "pesan":"-"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -346,9 +351,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1XoJkbzDLOsNMFeocaAdnU3sIz_WbLR7C",
+            "https://drive.google.com/uc?export=view&id=1XmQpdTEMqLtQy_CrqO-v95l12z0v1hsj",
         ]
         data_list = [
             {
