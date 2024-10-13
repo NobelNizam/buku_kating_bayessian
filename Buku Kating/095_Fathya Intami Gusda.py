@@ -279,7 +279,7 @@ elif menu == "Baleg":
                 "alamat": "Belwis",
                 "hobbi": "Menonton horror",
                 "sosmed": "@berlyyanda",
-                "kesan": "lucu sekalii",  
+                "kesan": "asikk kakaknyaa",  
                 "pesan":"semangat terus kakak cantik"# 1
             },
             {
@@ -291,7 +291,7 @@ elif menu == "Baleg":
                 "hobbi": "Badminton, melukis, hiking, berenang, dengar musik, minum kopi",
                 "sosmed": "@fhrul.pdf",
                 "kesan": "abangnya keren dan ramah banget",  
-                "pesan":"semangat sampai wisuda abang"# 1
+                "pesan":"semangat mengerjakan TA abang"# 1
             },
             {
                 "nama": "Jeremia Susanto",
@@ -311,32 +311,32 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1ugmDjA8Cl6pjqTe4OJXj6-QPAfpvWx10",
+            "https://drive.google.com/uc?export=view&id=1uhpjJDmH2mNgH1xXxnNm_-xeJlAQzXMx",
+
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Annisa Lutfia Alifia",
+                "nim": "121450093",
+                "umur": "22",
+                "asal":"Lampung Tengah",
+                "alamat": "Kost Putri Rahayu",
+                "hobbi": "Nyanyi",
+                "sosmed": "@annisaluthfi_",
+                "kesan": "Public Speaking kakaknya keren bangettt",  
+                "pesan":"semangat mengerjakan TA nya kakakk"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Kontrakan Kota Baru",
+                "hobbi": "Dengerin kak luthfia nyanyi",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Abangnya sangat informatif",  
+                "pesan":"semangat bang"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
