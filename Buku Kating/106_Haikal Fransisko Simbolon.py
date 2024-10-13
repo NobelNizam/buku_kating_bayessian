@@ -113,7 +113,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Way Kandis",
-                "hobbi": "Dengerin Musik",
+                "hobi": "Dengerin Musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "  ",  
                 "pesan":"  "# 1
@@ -124,7 +124,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Bukit Kemuning, Lampung Utara",
                 "alamat": "Jl. Bawen 2",
-                "hobbi": "Main Gitar",
+                "hobi": "Main Gitar",
                 "sosmed": "@pandrainsani",
                 "kesan": "  ",  
                 "pesan":"  "# 1
@@ -136,7 +136,7 @@ if menu == "Kesekjenan":
                 "umur": "20",
                 "asal":"Pagar Alam, Sumatera Selatan",
                 "alamat": "Kota Baru",
-                "hobbi": "Nonton drakor",
+                "hobi": "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "  ",  
                 "pesan":"  "# 1
@@ -147,7 +147,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Palembang",
                 "alamat": "Pemda",
-                "hobbi": "Nyanyi",
+                "hobi": "Nyanyi",
                 "sosmed": "@hartfdlh",
                 "kesan": "  ",  
                 "pesan":"  "# 1
@@ -158,7 +158,7 @@ if menu == "Kesekjenan":
                 "umur": "18",
                 "asal":"Payakumbuh, Sumatera Barat",
                 "alamat": "Nangka 4",
-                "hobbi": "Dengerin panda gitaran",
+                "hobi": "Dengerin panda gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "  ",  
                 "pesan":"  "# 1
@@ -169,7 +169,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Metro",
                 "alamat": "Kotabaru",
-                "hobbi": "Membaca",
+                "hobi": "Membaca",
                 "sosmed": "@nadillaandr26",
                 "kesan": "  ",  
                 "pesan":"  "# 1
