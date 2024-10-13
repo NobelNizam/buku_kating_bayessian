@@ -114,7 +114,8 @@ if menu == "Kesekjenan":
                 "asal":"Palembang",
                 "alamat": "kandis",
                 "hobbi": "mendengarkan musik",
-                "sosmed": "@gumilangkharisma",                "kesan": "Abangnya keren",  
+                "sosmed": "@gumilangkharisma",                
+                "kesan": "Abangnya keren",  
                 "pesan":"semangat terus kuliahnya bang"# 1
             },
             {
