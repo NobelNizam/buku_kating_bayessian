@@ -180,9 +180,9 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak niya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Annisa Cahyani Surya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Wulan Sabina
+            "https://drive.google.com/uc?export=view&id=15_tis34iRmXempdeF6G_CdousDPLcMM0", #kak niya
+            "https://drive.google.com/uc?export=view&id=1ixjym-yGruXRBO5EBZRHEnRM9YeWU7ub", #kak Annisa Cahyani Surya
+            "https://drive.google.com/uc?export=view&id=1dHLw0x3_SoJtHhUXFjZuoftXH0iQp38z", #kak Wulan Sabina
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Anisa Dini Amalia
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Anisa Fitriyani
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Feryadi Yulius
