@@ -183,7 +183,7 @@ elif menu == "Baleg":
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1t3iM0B8vvkU9EQLCtWIbQ9xTCBR2Uq7U",
-            "https://drive.google.com/uc?export=view&id=1tUb_T4GOWMYolXX5HGRH2p7dT8_KN3_j",
+            "https://drive.google.com/uc?export=view&id=1wIiEPT218qeXkHulIoRyRtwOKLjYAnJB",
             "https://drive.google.com/uc?export=view&id=1tTq5rgI7QENnphPFAkNA5NDjUeBhiVQD",
             "https://drive.google.com/uc?export=view&id=1tLAIY3Iit_vv2yXvBbsaSCTfLJ_vsfD7",
             "https://drive.google.com/uc?export=view&id=1t2qaqGsJ2ZHTVvrbeXn6ZeYjq_stz6Hz",
@@ -191,7 +191,10 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1t7Ct_l0gRzgGOHZkWWRLGXq894Mwvs3D",
             "https://drive.google.com/uc?export=view&id=1t6lh5S0uec8oIp5hPmP7MpUNJjg_LLHa",
             "https://drive.google.com/uc?export=view&id=1t8noecri9anuMunmAev7kBNyJRiEmLdj",
-            "https://drive.google.com/uc?export=view&id=1taWB53NSLp5zE8VQ_Agc1jH2GkOTTGTl",
+            "https://drive.google.com/uc?export=view&id=1wITLWFBlc5yzyahUA6aI1OoXplJSNyM6",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -303,6 +306,39 @@ elif menu == "Baleg":
                 "sosmed": "@jeremia_s_",
                 "kesan": "lucu, baik dan ramah",  
                 "pesan":"jangan kapok buat ngajarin alpro ya bang :)"# 1
+            },
+            {
+                "nama": "Claudhea Angeliani",
+                "nim": "121450024",
+                "umur": "21",
+                "asal":"Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobbi": "Mendengarkan musik",
+                "sosmed": "@dylebee",
+                "kesan": "Cantikk",  
+                "pesan":"Semangatt kakak!!"
+            },
+            {
+                "nama": "Anisa Fitriyani",
+                "nim": "122450019",
+                "umur": "19",
+                "asal":"Bandar Lampung",
+                "alamat": "Bernung, Pesawaran",
+                "hobbi": "Menonton drakor",
+                "sosmed": "@ansftynn_",
+                "kesan": "Menyenangkan",  
+                "pesan":"Semangatt semester 5 nya kakak!"
+            },
+            {
+                "nama": "Renisha Putri Giyani",
+                "nim": "122450079",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobbi": "Mendengar musik ",
+                "sosmed": "@fleurnsh",
+                "kesan": "cantikkk bangett kakak",  
+                "pesan":"semangattt ya kak"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1235,7 +1271,7 @@ elif menu == "Departemen SSD":
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
+                "nama": "A",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1301,10 +1337,10 @@ elif menu == "Departemen SSD":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 7",
-                "nim": "122450000",
+                "nama": "Ahmad Rizqi",
+                "nim": "122450138",
                 "umur": "18",
-                "asal":"Bekasi",
+                "asal":"Bukittinggi",
                 "alamat": "Gg.sakum",
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
