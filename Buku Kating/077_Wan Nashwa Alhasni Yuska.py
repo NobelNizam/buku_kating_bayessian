@@ -103,7 +103,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1Iv7_qab78nhor4x-pjjNf1HEQyVHVCzQ", #bang pandra
             "https://drive.google.com/uc?export=view&id=1os-wCTbQHgOoomDoHmcS8gnQaWH5-pcX", #kak meliza
             "https://drive.google.com/uc?export=view&id=1psVAUHsbLR4w630ziJBBFRkXGMp6N1FC", #kak putri
-            "https://drive.google.com/uc?export=view&id=1GIzrAegTDPYrB-8IaWT4W_vztQici8-G",
+            "https://drive.google.com/uc?export=view&id=1GIzrAegTDPYrB-8IaWT4W_vztQici8-G", 
             "https://drive.google.com/uc?export=view&id=1afhRR-aYSH0Svz0BVbZZgxrAQjniVo6F", #kak nadilla
         ]
         data_list = [
@@ -181,7 +181,7 @@ elif menu == "Baleg":
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=15_tis34iRmXempdeF6G_CdousDPLcMM0", #kak niya
-            "https://drive.google.com/uc?export=view&id=1ixjym-yGruXRBO5EBZRHEnRM9YeWU7ub", #kak Annisa Cahyani Surya
+            "https://drive.google.com/uc?export=view&id=1mr2Lhuw5qJ85sk46fGLgHDDFJ_fC4Fg2", #kak Annisa Cahyani Surya
             "https://drive.google.com/uc?export=view&id=1dHLw0x3_SoJtHhUXFjZuoftXH0iQp38z", #kak Wulan Sabina
             "https://drive.google.com/uc?export=view&id=1cqOMsNDESg2ceToRVPq4pE6rQ4QIH89e", #kak Anisa Dini Amalia
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Anisa Fitriyani
@@ -281,7 +281,7 @@ elif menu == "Baleg":
                 "hobbi": "Mendengarkan musik",
                 "sosmed": "@dylebee",
                 "kesan": "kakak ini kalem",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakakk"# 1
             },
             {
                 "nama": "Mirzan Yusuf Rabbani",
@@ -345,8 +345,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=10SPqyVmqiLOWqB79UAlfYHB1qRMfkgMF",
+            "https://drive.google.com/uc?export=view&id=18Zo6Sk_2aYnA1GLIxk16uMp9yZJQWgXH",
         ]
         data_list = [
             {
