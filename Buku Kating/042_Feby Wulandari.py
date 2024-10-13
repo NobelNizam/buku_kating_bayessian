@@ -191,7 +191,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1yPvO4a1UEVafC2jjI789GjRHat7-LTrb",
             "https://drive.google.com/uc?export=view&id=1DTliGINQ7CQ8f6RrbHrkwK8tVFCp4f2a",
             "https://drive.google.com/uc?export=view&id=1H1Z-boU0aeqaHHA1qCfKFIPrp6LO2MY",
-            "https://drive.google.com/uc?export=view&id=d/1Uebf5D2vac3mVT2PHTHnEINa-ftEYQ1A",
+            "https://drive.google.com/uc?export=view&id=1Uebf5D2vac3mVT2PHTHnEINa-ftEYQ1A",
             "https://drive.google.com/uc?export=view&id=1vygy2ZMy6_1QvdneMHqdLRaUgC1ZVo1R",
 
 
