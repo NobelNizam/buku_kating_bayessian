@@ -99,12 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kharisma Gumilang
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Pandra
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Meiza
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Hartiti
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Putri Maulida
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Nadilla
+            "https://drive.google.com/uc?export=view&id=1WFeSCieSqniRkgm-9_6iGio_sVvrcyNX",#Kharisma Gumilang
+            "https://drive.google.com/uc?export=view&id=1WI8Dwj3LVQMKbUSEaj1Hj4aRUbPVitRC",#Pandra
+            "https://drive.google.com/uc?export=view&id=1WLCreDw3q7C4Y1yfOLLZVm4rXwM5GNrT",#Meiza
+            "https://drive.google.com/uc?export=view&id=1WUHJQa1lPsaVXGWg5U-IkfuCtScIPiUH",#Hartiti
+            "https://drive.google.com/uc?export=view&id=1WNAvZquWgZGWCYYYwt815GCBDR2UTQwM",#Putri Maulida
+            "https://drive.google.com/uc?export=view&id=1WW1j38bPLEZmfjcx0OPrp891HxKgFWn9",#Nadilla
 
         ]
         data_list = [
