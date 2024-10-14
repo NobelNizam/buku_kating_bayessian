@@ -1631,8 +1631,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Jalan Durian 5 Pemda",
                 "hobbi": "Membaca",
                 "sosmed": "@dwiratnn_",
-                "kesan": "  ",  
-                "pesan":"  " # 11
+                "kesan": "   ",  
+                "pesan":"   " # 11
             },
             {
                 "nama": "Gymnastiar Al Khoarizmy",
