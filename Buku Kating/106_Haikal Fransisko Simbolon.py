@@ -113,7 +113,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal": "Palembang",
                 "alamat": "Way Kandis",
-                "hobi": "Dengerin Musik",
+                "hobbi": "Dengerin Musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "  ",  
                 "pesan":"  "# 1
@@ -124,7 +124,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal": "Bukit Kemuning, Lampung Utara",
                 "alamat": "Jl. Bawen 2",
-                "hobi": "Main Gitar",
+                "hobbi": "Main Gitar",
                 "sosmed": "@pandrainsani",
                 "kesan": "  ",  
                 "pesan":"  "# 2
@@ -135,7 +135,7 @@ if menu == "Kesekjenan":
                 "umur": "20",
                 "asal": "Pagar Alam, Sumatera Selatan",
                 "alamat": "Kota Baru",
-                "hobi": "Nonton drakor",
+                "hobbi": "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "  ",  
                 "pesan":"  "# 3
@@ -146,7 +146,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal": "Palembang",
                 "alamat": "Pemda",
-                "hobi": "Nyanyi",
+                "hobbi": "Nyanyi",
                 "sosmed": "@hartfdlh",
                 "kesan": "  ",  
                 "pesan":"  "# 4
@@ -157,7 +157,7 @@ if menu == "Kesekjenan":
                 "umur": "18",
                 "asal": "Payakumbuh, Sumatera Barat",
                 "alamat": "Nangka 4",
-                "hobi": "Dengerin pandra gitaran",
+                "hobbi": "Dengerin pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "  ",  
                 "pesan":"  "# 5
@@ -168,7 +168,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal": "Metro",
                 "alamat": "Kotabaru",
-                "hobi": "Membaca",
+                "hobbi": "Membaca",
                 "sosmed": "@nadillaandr26",
                 "kesan": "  ",  
                 "pesan":"  "# 6
