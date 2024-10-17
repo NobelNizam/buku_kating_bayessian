@@ -943,7 +943,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1Yvh9DP39nyvG4gMXll2W3J6QJ2DEvOYk", #Kak Izza
             "https://drive.google.com/uc?export=view&id=13Ts9YzvkvTYURtDiuch_w_ovHHzGoY05", #Kak Khaalishah
             "https://drive.google.com/uc?export=view&id=1_B6f_c5S6wXRIqiwPjdXgchQHlHrVkvY", #Bg Raid
-            "https://drive.google.com/uc?export=view&id=1___p9aW8f7OG6iAOb_-1nxydffsQmCAJ", #Kak Tria
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Tria
 
         ]
         data_list = [
