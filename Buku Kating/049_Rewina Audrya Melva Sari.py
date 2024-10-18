@@ -99,12 +99,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kharisma Gumilang
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Pandra
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Meiza
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Hartiti
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Putri Maulida
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Nadilla
+            "https://drive.google.com/uc?export=view&id=1WFeSCieSqniRkgm-9_6iGio_sVvrcyNX",#Kharisma Gumilang
+            "https://drive.google.com/uc?export=view&id=1WI8Dwj3LVQMKbUSEaj1Hj4aRUbPVitRC",#Pandra
+            "https://drive.google.com/uc?export=view&id=1WLCreDw3q7C4Y1yfOLLZVm4rXwM5GNrT",#Meiza
+            "https://drive.google.com/uc?export=view&id=1WUHJQa1lPsaVXGWg5U-IkfuCtScIPiUH",#Hartiti
+            "https://drive.google.com/uc?export=view&id=1WNAvZquWgZGWCYYYwt815GCBDR2UTQwM",#Putri Maulida
+            "https://drive.google.com/uc?export=view&id=1WW1j38bPLEZmfjcx0OPrp891HxKgFWn9",#Nadilla
 
         ]
         data_list = [
@@ -122,7 +122,7 @@ if menu == "Kesekjenan":
             {
                 "nama": "Pandra Insani Putra Azwar",
                 "nim": "121450137",
-                "umur": "21",
+                "umur": "21 ",
                 "asal":"Bukit Kemuning, Lampung Utara",
                 "alamat": "Bawen 2",
                 "hobbi": "Main gitar",
@@ -149,7 +149,7 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi": "Nyanyi",
                 "sosmed": "@hartfdlh",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "kesan": "Kakak keliatan kalem",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
@@ -181,7 +181,7 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Tri Mulniya
+            "https://drive.google.com/uc?export=view&id=14q7aZZzXsuZ9B0k_qasG58HYGdEgqbNK", # Tri Mulniya
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Annisa
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Wulan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Anisa Dini
@@ -205,7 +205,7 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Ngerjain TA",
                 "sosmed": "@trimurniaa",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "kesan": "Kakak seru banget",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
@@ -359,7 +359,7 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu",
                 "hobbi": "Nyanyi",
                 "sosmed": "@annisaluthfia_",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "kesan": "Publik speaking kakak bagus dan tegas",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
@@ -380,15 +380,6 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
