@@ -1153,32 +1153,32 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1m4AXnmuCv_GvTrbIA4yNuZKj4fsN4-TV",
+            "https://drive.google.com/uc?export=view&id=1m0AkgyJm2VG-fYI04fJydxqt7n_U4cVX",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Dimas Rizky Ramadhani",
+                "nim": "121450027",
+                "umur": "20",
+                "asal": "Tangerang Selatan",
+                "alamat": "Way Kandis (Kobam)",
+                "hobbi": "menunggu ayam jantan bertelur",
+                "sosmed": "@dimzrky_",
+                "kesan": "  ",  
+                "pesan":"  " # 1
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Catherine Firdhasari Maulina Sinaga",
+                "nim": "121450071",
+                "umur": "20",
+                "asal": "Sumatera Utara",
+                "alamat": "Airan",
+                "hobbi": "Baca Novel",
+                "sosmed": "@cathrine.sinaga",
+                "kesan": "  ",  
+                "pesan":"  " # 2
             },
             {
                 "nama": "Kakak 3",
