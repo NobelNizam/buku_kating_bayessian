@@ -379,26 +379,26 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1I1TKRx-BO7xQWHsb87ppXkhchz1ubmja",# bg econ
+            "https://drive.google.com/uc?export=view&id=1HRZGuf773sCV1zTtbxuGdGVO2d2kvOhO",# kak abeth
+            "https://drive.google.com/uc?export=view&id=1IUcWbDtM-eAOYFAV5C1lni_CSDg6AvZ5",# kak afifah
+            "https://drive.google.com/uc?export=view&id=1ncbwDDIJ7l7hGrw68FDmQrFtosEKgdrm",# bg ferdy
+            "https://drive.google.com/uc?export=view&id=1IDltliWG_CyvUYj7M3dJlFa85tiXKB0w",# bg deri
+            "https://drive.google.com/uc?export=view&id=1IAPiNeeA27cV2wqaP14eZ0Qm7BtZPdOQ",# kak aliya
+            "https://drive.google.com/uc?export=view&id=1HseY-UYnWuPk9ppmqoOXzV91qu-5rYXo",# kak eksanty
+            "https://drive.google.com/uc?export=view&id=1IR3VJ4dNuDhJR7fbA63hNMI8XMfldpL5",# kak hanum
+            "https://drive.google.com/uc?export=view&id=1np3SSOnDL6NKIWcymdQPMxuWo25rwIre",# kak oktav
+            "https://drive.google.com/uc?export=view&id=1HbaFfZXvGemhHaBVjq17MK_N-TaelPLy",# bg depan
+            "https://drive.google.com/uc?export=view&id=1HRdQ5NXv3xBQeRjVU3BqiUy_KjOJdMTN",# bg jo
+            "https://drive.google.com/uc?export=view&id=1HaEGu2CVuZQXHUt9iaT2USGfQezmsKJK",# bg kemas
+            "https://drive.google.com/uc?export=view&id=1HUp1mfRUtlbr7P8QSpRds_A9RBMIr8I2",# bg sahid
+            "https://drive.google.com/uc?export=view&id=1Hylsx1zL4gC6X3K3wRldhSlZ78tn-Q4H",# kak lili
+            "https://drive.google.com/uc?export=view&id=1I23yiRTlScVgYL1V-MP4KWGuEkmFivMs",# kak
+            "https://drive.google.com/uc?export=view&id=1o1bCt7WTlrRSTs8CsLnGFOFvOOLo3h3p",# bg farhan
+            "https://drive.google.com/uc?export=view&id=1oMbx7MBmnbO2y3Qve2-xzTWMi30LGVhs",# kak jaclin
+            "https://drive.google.com/uc?export=view&id=1o5lmDMv0g12zV4ErDSoZ47-6HrInrUtU",# bg gede
+            "https://drive.google.com/uc?export=view&id=1okDeu2WtZVsrT0_HUSnhbHkUnM-K7zhK",# bg rafly
+            "https://drive.google.com/uc?export=view&id=1oVS9PjDUV6b-71vCpRelafv2ST3Qb_jI",# kak andini
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
