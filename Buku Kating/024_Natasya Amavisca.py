@@ -404,6 +404,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1_IDsAxBD6WLH8Ngw7scg-Vs0OPqaWPBV",#18
             "https://drive.google.com/uc?export=view&id=1_atWJcl0F9ffCmBhN5i_zjSwLU0estkk",
             "https://drive.google.com/uc?export=view&id=1QNgXyCyk6tQylONXIqxOhn4_eoeZTKea",#20
+        ]
         data_list = [
             {
                 "nama": "Ericson Candra Sihombing", #1
@@ -636,10 +637,6 @@ elif menu == "Departemen PSDA":
                 "kesan": "Kakak nya baik dan humble banget",  
                 "pesan":"Semangat terus kuliahnya kakkk" 
             },
-        ]
-        display_images_with_data(gambar_urls, data_list)
-    psda()
-
         ]
         display_images_with_data(gambar_urls, data_list)
     psda()
