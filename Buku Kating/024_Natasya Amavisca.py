@@ -664,7 +664,7 @@ elif menu == "Departemen MIKFES":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 2",
+                "nama": "Kakak kedua",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -675,7 +675,7 @@ elif menu == "Departemen MIKFES":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak 1",
+                "nama": "Kakak ketiga",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
