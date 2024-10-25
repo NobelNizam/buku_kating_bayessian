@@ -924,7 +924,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak nya asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "pesan":"semangat terus kuliahnya kak!!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
