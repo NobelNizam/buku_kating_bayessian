@@ -934,11 +934,11 @@ elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=129RE6rpbwCgQLOFP8aSS8BPRhYYIctL8", # Bang Yogy 
-            "https://drive.google.com/uc?export=view&id=", # Kak Ramadhita
-            "https://drive.google.com/uc?export=view&id=", # Kak Nazwa Nabilla
+            "https://drive.google.com/uc?export=view&id=18BGDllohmey4g5S3qJo1k3hP0ws1NcTd", # Kak Ramadhita
+            "https://drive.google.com/uc?export=view&id=1x7seYnblHGY18078uWLoJaeM9gRA0jYu", # Kak Nazwa Nabilla
             "https://drive.google.com/uc?export=view&id=1XQoQf71YdqJ4eSptBW5hEpRA6riNCYbv", # Bang Bastian
             "https://drive.google.com/uc?export=view&id=127mSNKVd-dnfzQecZCmYoBpzA0P1qjof", # Kak Dea Mutia
-            "https://drive.google.com/uc?export=view&id=", # Kak Esteria
+            "https://drive.google.com/uc?export=view&id=1XV5FUhpUWLM03IW78HDwBRv2o7GE4pDh", # Kak Esteria
             "https://drive.google.com/uc?export=view&id=12BIdqiFmCuJK3fzfDHbBfVNF9lFQJdrc", # Kak Natasya Ega 
             "https://drive.google.com/uc?export=view&id=1xCuBZjFLd5lvGAxp5fLUGqfQutNUOuPi", # Kak Novelia
             "https://drive.google.com/uc?export=view&id=128wMgi1KD_UZ85udYy3NEAX72e_OtNkB", # Kak Ratu Keisha Jasmine
@@ -951,229 +951,229 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1Xfkir1WXTl5OvdAmLt6ACtPbCbYBP_Za", # Bang Irvan
             "https://drive.google.com/uc?export=view&id=11vnQ0ynSmS5HvvKcRB9SzeUHeDBLxJtT", # Kak Izza
             "https://drive.google.com/uc?export=view&id=11v19zxBlyrYOoaDMecLzZJK-NGa7h6D8", # Kak Khaalishah Zuhrah
-            "https://drive.google.com/uc?export=view&id=", # Bang Raid
+            "https://drive.google.com/uc?export=view&id=1XRtlRLpekLXFoPmj_l89Wx3eTQeK1hee", # Bang Raid
             "https://drive.google.com/uc?export=view&id=1XJeDJyqGZGQ5w72bYBZDeT4MfQPptsmn", # Kak Yuna
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Yogy Sae Tama",
+                "nim": "121450041",
+                "umur": "21",
+                "asal":"Tangerang",
+                "alamat": "Jatimulyo",
+                "hobbi": "Nyari Solar",
+                "sosmed": "@yogyst",
+                "kesan": "Abang nya seru dan sangat informatif dalam memberikan banyak masukan",  
+                "pesan":"semangat terus kuliahnya ya banggg dan sukses selalu!!!"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Ramadhita Atifa Hendri",
+                "nim": "121450131",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Rajabasa",
+                "hobbi": "jalan-jalan",
+                "sosmed": "@ramadhitatifa",
+                "kesan": "Kakak nya asik, seru, dan sangat informatif",  
+                "pesan":"semangat terus kuliahnya ya kakkke!!"
             },
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Nazwa Nabilla",
+                "nim": "121450122",
+                "umur": "21",
+                "asal":"Jakarta Selatan",
+                "alamat": "Way Kandis",
+                "hobbi": "Main Golf",
+                "sosmed": "@nazwanbilla",
+                "kesan": "Kakak ini asik banget dan sangat informatif",  
+                "pesan":"tetap semangat terus ya kak kuliahnya !!!"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Bastian Heskia Silaban",
+                "nim": "122450130",
+                "umur": "21",
+                "asal": "Batam, Kepulauan Riau",
+                "alamat": "Belwis",
+                "hobi": "Menggambar",
+                "sosmed": "@bastiansilaban_",
+                "kesan": "Abang nya Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "pesan": "Semoga selalu dilancarkan semua urusannya bang, dan tetap semangat bang dalam menjalani kehidupan"
             },
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Dea Mutia Risani",
+                "nim": "122450099",
+                "umur": "20",
+                "asal": "Sumatera Barat",
+                "alamat": "Korpri",
+                "hobi": "dengerin musik",
+                "sosmed": "@deaa.rsn",
+                "kesan": "Kakak nya sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "pesan": "Tetap semangat dalam menjalani perkuliahannya kak"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Esteria Rohanauli Sidauruk",
+                "nim": "122450025",
+                "umur": "19",
+                "asal": "Bali",
+                "alamat": "Belwis",
+                "hobi": "Surving sambil snorkeling",
+                "sosmed": "@esteriars",
+                "kesan": "Kakak nya sangat menginspirasi dalam kehidupan ",  
+                "pesan": "Tetap semangat ya kak dalam menjalani dunia perkuliahan"
             },
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Natasya Ega Lina",
+                "nim": "122450024",
+                "umur": "19",
+                "asal": "Kepulauan Seribu",
+                "alamat": "Way Halim",
+                "hobi": "Main Paralayang",
+                "sosmed": "@nateee__15",
+                "kesan": "Kakak nya sangat baik dan sangat mengasyikkan ",  
+                "pesan": "Semangat terus kak dalam menjalani perkuliahannya dan jaga kesehatan ya kak"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Novelia Adinda",
+                "nim": "122450104",
+                "umur": "21",
+                "asal": "Jakarta Timur",
+                "alamat": "Belwis",
+                "hobi": "Tidur",
+                "sosmed": "@nvliaadinda",
+                "kesan": "Kakak nya sangat baik dan informatif dalam menjelaskan sesuatu",  
+                "pesan": "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak"
             },
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Ratu Keisha Jasmine Deanova",
+                "nim": "122450106",
+                "umur": "20",
+                "asal": "Bnadung",
+                "alamat": "Way Kandis",
+                "hobi": "Menjahit Baju",
+                "sosmed": "@jasminednva",
+                "kesan": "Kakaknya sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "pesan": "Semangat terus kak dalam menjalani hari-harinya"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Tobias David Manogari",
+                "nim": "122450091",
+                "umur": "20",
+                "asal": "Kalianda",
+                "alamat": "Korpri",
+                "hobi": "Berenang",
+                "sosmed": "@tobiassiagian",
+                "kesan": "Abangnya sangat baik dan sangat mengasyikkan",  
+                "pesan": "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
             },
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Yohana Manik",
+                "nim": "122450126",
+                "umur": "19",
+                "asal": "Makassar",
+                "alamat": "Pemda",
+                "hobi": "Main Bowling",
+                "sosmed": "@yo_annamnk",
+                "kesan": "Kakak nyaSangat informatif dalam menjelaskan sesuatu",  
+                "pesan": "Tetap semangat kak dalam menjalani hari-harinya"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"  : "Rizki Adrian Bennovry",
+                "nim": "121450073",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "TVRI",
+                "hobi": "Berenang",
+                "sosmed": "@rzkdrnnn",
+                "kesan" : "Abangnya sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
+                "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat bang"
             },
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama"  : "Arafi Ramadhan Maulana",
+                "nim": "122450002",
+                "umur": "20",
+                "asal": "Bandar lampung",
+                "alamat": "Bandar Lampung",
+                "hobi": "Berkuda",
+                "sosmed": "@arafiramadhanmaulana",
+                "kesan" : "Aabangnya sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
+                "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Asa Do'a Uyi",
+                "nim": "122450005",
+                "umur": "20",
+                "asal": "Muara Enim",
+                "alamat": "Korpri",
+                "hobi": "Tepuk Semangat",
+                "sosmed": "@u_yippy",
+                "kesan": "Kakak nya Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
+                "pesan": "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
             },
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama"  : "Chalifia Wananda",
+                "nim": "122450076",
+                "umur": "20",
+                "asal": "Padang",
+                "alamat": "Sukarame",
+                "hobi": "Membaca",
+                "sosmed": "@chlfawww",
+                "kesan" : "Kakak nya sangat baik dan sangat menginspirasi dalam kehidupan",  
+                "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jaga kesehatan ya kak"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Irvan Alfaritzi",
+                "nim": "122450093",
+                "umur": "21",
+                "asal": "Sumatera Barat",
+                "alamat": "Sukarame",
+                "hobi": "Nonton youtube",
+                "sosmed": "@alfaritziirvan",
+                "kesan": "Abangnya sangat menginspirasi dalam kehidupan ",  
+                "pesan": "Tetap semangat kak dalam menjalani dunia perkuliahan"
             },
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama"  : "Izza Lutfia",
+                "nim": "122450090",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobi": "Bertemu anak pengmas",
+                "sosmed": "@izzalutfia",
+                "kesan" : "Kakak nya sangat baik dan sangat mengasyikkan ",  
+                "pesan" : "Semangat terus kak dalam menjalani perkuliahannya dan jaga kesehatan ya kak"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"  : "Khaalishah Zuhrah Alyaa Vanefi",
+                "nim": "122450034",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Rajabasa",
+                "hobi": "Mengaji",
+                "sosmed": "@alyaavanevi",
+                "kesan" : "Kakak nya sangat seru dan informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Tetap semangat dalam menjalani dunia perkuliahan kak"
             },
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama"  : "Raid Muhammad Naufal",
+                "nim": "122450027",
+                "umur": "20",
+                "asal": "Lampung Tengah",
+                "alamat": "Sukarame",
+                "hobi": "Duduk di wico",
+                "sosmed": "@rayths_",
+                "kesan" : "Abangnya sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
+                "pesan" : "Semangat terus kak dalam menjalani hari-harinya bang"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama"  : "Tria Yunani",
+                "nim": "122450062",
+                "umur": "20",
+                "asal": "Way Kanan",
+                "alamat": "Sukarame",
+                "hobi": "Tidur",
+                "sosmed": "@tria_y062",
+                "kesan" : "Kakak nya sangat baik dan sangat mengasyikkan",  
+                "pesan" : "Semangat kak dalam menjalani hari-harinya"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1488,25 +1488,25 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=", # Bang Wahyudiyanto
-            "https://drive.google.com/uc?export=view&id=", # Kak Elok
-            "https://drive.google.com/uc?export=view&id=", # Kak Arsyiah
-            "https://drive.google.com/uc?export=view&id=", # Kak Cintya Bella
-            "https://drive.google.com/uc?export=view&id=", # Kak Eka Fidiya
-            "https://drive.google.com/uc?export=view&id=", # Kak Najla
-            "https://drive.google.com/uc?export=view&id=", # Kak Patricia
-            "https://drive.google.com/uc?export=view&id=", # Kak Rahma Neli
-            "https://drive.google.com/uc?export=view&id=", # Kak Try Yani
-            "https://drive.google.com/uc?export=view&id=", # Bang Kaisar
-            "https://drive.google.com/uc?export=view&id=", # Kak Dwi Ratna
-            "https://drive.google.com/uc?export=view&id=", # Bang Gymnastiar
-            "https://drive.google.com/uc?export=view&id=", # Kak Nasywa
-            "https://drive.google.com/uc?export=view&id=", # Kak Priska
-            "https://drive.google.com/uc?export=view&id=", # Bang Arsal
-            "https://drive.google.com/uc?export=view&id=", # Bang Abit
-            "https://drive.google.com/uc?export=view&id=", # Bang Akmal
-            "https://drive.google.com/uc?export=view&id=", # Bang Hermawan
-            "https://drive.google.com/uc?export=view&id=", # Kak Khusnun Nisa
+            "https://drive.google.com/uc?export=view&id=1yN7Wvxpsl0HfgoRpWTT3mP9ZfXUtsjLm", # Bang Wahyudiyanto
+            "https://drive.google.com/uc?export=view&id=17sKEV85eh3zQMVbxABGDVb_X8RkVZZsX", # Kak Elok
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Kak Arsyiah
+            "https://drive.google.com/uc?export=view&id=1xyP9EKglyK7smEKJ8tJt9E3U2WW-JJP5", # Kak Cintya Bella
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Kak Eka Fidiya
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Kak Najla
+            "https://drive.google.com/uc?export=view&id=12ElkitNpcQtjTZkkwGoQLDHHjiS61LS-", # Kak Patricia
+            "https://drive.google.com/uc?export=view&id=1xthlG1WQy7EAQBI9i3DW7dI-vwzRraFG", # Kak Rahma Neli
+            "https://drive.google.com/uc?export=view&id=1YvK0gmn8SQHlQSST7DVtEH3iAxH5VE3p", # Kak Try Yani
+            "https://drive.google.com/uc?export=view&id=1YoTu7UhH3UosRYZy7AY6n14_cnIOuiRq", # Bang Kaisar
+            "https://drive.google.com/uc?export=view&id=1yNIk6kVqWt1qdzK0siET9QUGue-wjMB5", # Kak Dwi Ratna
+            "https://drive.google.com/uc?export=view&id=1yWGzOfUKf2MtBOsBYJJna2V72EvVGD4L", # Bang Gymnastiar
+            "https://drive.google.com/uc?export=view&id=1Z1hcKb4veSzhPc6re2y1K751pNiSCH1y", # Kak Nasywa
+            "https://drive.google.com/uc?export=view&id=1yYHzYbr0WdGeztQjXGo_biFQq5yeSlEk", # Kak Priska
+            "https://drive.google.com/uc?export=view&id=1Z1DovD8pyXll6Xf3ztx--F4FKp3kFTMf", # Bang Arsal
+            "https://drive.google.com/uc?export=view&id=12LjH3PZJZdM12jr6qbNbuwN_TTGXI1hY", # Bang Abit
+            "https://drive.google.com/uc?export=view&id=182SY1upBlyTKhOKk3AV3EIQwx53xdi0r", # Bang Akmal
+            "https://drive.google.com/uc?export=view&id=1y_f9W_HYk2A_WMGtfbRAISV1r9uU_fa1", # Bang Hermawan
+            "https://drive.google.com/uc?export=view&id=1yl9B9RLXF0wJrJjZe939u27fPu5ovq_1", # Kak Khusnun Nisa
         ]
         data_list = [
             {
