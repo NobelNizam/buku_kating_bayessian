@@ -221,7 +221,7 @@ elif menu == "Baleg":
             {
                 "nama": "Wulan Sabina",
                 "nim": "121450150",
-                "umur": "18",
+                "umur": "21",
                 "asal":"Medan",
                 "alamat": "Raden Saleh",
                 "hobbi": "Nonton drakor",

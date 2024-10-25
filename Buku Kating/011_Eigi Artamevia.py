@@ -257,7 +257,7 @@ elif menu == "Baleg":
                 "hobbi": "Membaca Buku",
                 "sosmed": "@fer_yulius",
                 "kesan": " ",  
-                "pesan":"semangat terus kuliahnya kakak !!!
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Renisha Putri Giyani",
@@ -349,26 +349,26 @@ elif menu == "Senator":
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+               "nama": "Anissa Lutfia Alifia",
+                "nim": "121450093",
+                "umur": "22",
+                "asal":" Lampung Tengah",
+                "alamat": "Kost Putri Rahayu",
+                "hobbi": "Nyanyi",
+                "sosmed": "@annisaluthfi_",
+                "kesan": "  ",  
+                "pesan":"  "
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Kontrakan Kota Baru",
+                "hobbi": "Dengerin Kak Luthfi nyanyi",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "  ",  
+                "pesan":"  "
             },
         ]
         display_images_with_data(gambar_urls, data_list)
