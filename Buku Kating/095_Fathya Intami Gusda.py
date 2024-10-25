@@ -381,26 +381,29 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1Jj_-8qtq0cOm9osVu96WMwrHwgigI8W",
+            "https://drive.google.com/uc?export=view&id=1KKezafEX_ID2PEMmUB6vQjrlSmxeVBRs",
+            "https://drive.google.com/uc?export=view&id=1K-REwDE3pA9ZZ2UT65wt2qGbczUOZCzm",
+            "https://drive.google.com/uc?export=view&id=1JkqVdJ6MMP5yBC7CgEqDtBlSJBmK3R2u",
+            "https://drive.google.com/uc?export=view&id=1KG4btcMRRk1dtWbmtSBTYVgEvvMrvO8V",
+            "https://drive.google.com/uc?export=view&id=1JwZICzP_S_dDV1v8mx8SoKAp7-McgSlu",
+            "https://drive.google.com/uc?export=view&id=1KBxbtYlqjzhcGMh7cnnfXbaHHh35GFmr",
+            "https://drive.google.com/uc?export=view&id=1Jmccp2U0J_zyGoJb-LKLaWCIOlXeNjJo",
+            "https://drive.google.com/uc?export=view&id=1JwG8Ml3sy08CxZx2ZSbiqDx02bOa9ySC_",
+            "https://drive.google.com/uc?export=view&id=1J3VM494b7m3VVifpr5lkTX45uSGamlQa",
+            "https://drive.google.com/uc?export=view&id=1JNjZfaqJdiPCCWaZek4DUxMLarywzw-W",
+            "https://drive.google.com/uc?export=view&id=1J7uubUFclDV2YJHiTT76is_2JJqjKIbp",
+            "https://drive.google.com/uc?export=view&id=1J8B-H-VxrpHge_wx3nJrmZxR1_yH5Pn8",
+            "https://drive.google.com/uc?export=view&id=1J7ig7uEQXzdVzaXT8lxBY2gJ_s4QCKQT",
+            "https://drive.google.com/uc?export=view&id=1JFhprfq8iqjihY2gfas6mu_F7fI8fuK7",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1JZBteNP7Mu698pRK6p_nral7gVNBU3hk",
+            "https://drive.google.com/uc?export=view&id=1Jbiu2yuFTQq5x-kUdsDrfvgXhAkVfe6W",
+            "https://drive.google.com/uc?export=view&id=1JONpUAWAkZfP4fiwx-Q0j3DSwvuzY0n6",
+            "https://drive.google.com/uc?export=view&id=1JMP9rRYCAsDW_ftbuiWXHdN4nR-FlwR3",
+            "https://drive.google.com/uc?export=view&id=1JR-gceVRXZRA6D_3AbGiCb1TlhihlgVT",
         ]
         data_list = [
             {
@@ -450,9 +453,9 @@ elif menu == "Departemen PSDA":
             {
                 "nama": "Eksanty Febriana Sugma Islamiaty",
                 "nim": "122450001",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
+                "umur": "20",
+                "asal":"Lubuk Linggau",
+                "alamat": "Rajabasa",
                 "hobbi": "Nitip shalat",
                 "sosmed": "@eksantyfebriana",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
@@ -486,7 +489,7 @@ elif menu == "Departemen PSDA":
                 "umur": "19",
                 "asal":"Kayu Agung",
                 "alamat": "Jl. Pagar Alam, Kedaton",
-                "hobbi": "Nyari angin",
+                "hobbi": "Nyari angin malam",
                 "sosmed": "@dransyh_",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -530,7 +533,7 @@ elif menu == "Departemen PSDA":
                 "umur": "19",
                 "asal":"Bekasi",
                 "alamat": "Kojo Golf Asri",
-                "hobbi": "",
+                "hobbi": "  ",
                 "sosmed": "@kemasverii",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -1326,8 +1329,8 @@ elif menu == "Departemen SSD":
                 "alamat": "",
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@adriangaol",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "kesan": "baik dan ramah",  
+                "pesan":"semangat mengerjakan TA nya bang adrian"
             },
             {
                 "nama": "Adisty Syawaida Ariyanto",
@@ -1337,8 +1340,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Sukarame",
                 "hobbi": "",
                 "sosmed": "@adistysa_",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "cantik dan ramah",  
+                "pesan":"semangat terus sampai wisuda ya kakak"# 1
             },
             {
                 "nama": "Nabila Azhari",
@@ -1359,8 +1362,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobbi": "Badminton",
                 "sosmed": "@ahmad.riz45",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "kesan": "ganteng bangettt bang ",  
+                "pesan":"semangat kuliahnyaa abang"
             },
             {
                 "nama": "Danang Hilal Kurniawan",
@@ -1371,7 +1374,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@dananghk_",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat kuliahnya bang danang"# 1
             },
             {
                 "nama": "Farrel Julio Akbar",
@@ -1382,7 +1385,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@farrel__julio",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus ya bang"# 1
             },
             {
                 "nama": "Tessa Kania Sagala",
