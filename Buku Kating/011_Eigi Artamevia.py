@@ -172,8 +172,8 @@ if menu == "Kesekjenan":
                 "hobbi": "Membaca",
                 "sosmed": "@nadillaandr26",
                 "kesan": "  ",  
-                "pesan":"  "a
-            }
+                "pesan":"  "
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
@@ -181,16 +181,19 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=19u5NtpMz3ftHlkNF27IvdQ4rX3HSlVBV", #bg feryadi
-            "https://drive.google.com/uc?export=view&id=1BC41kh3dfn5XGRBj7vAaKLpNaceNFKds", #kak berliana
+            "https://drive.google.com/uc?export=view&id=1b6guo-L1JqpEQ1Nd6uEAAfumZoZx6Zqz", #kak tri murniya
+            "https://drive.google.com/uc?export=view&id=1kOpWtlvf95gtAnTFKUjNdcTH-2YDxNLM", #kak annisa
             "https://drive.google.com/uc?export=view&id=1B1zbtXyr2U6nHhkDpICp55TPH4LDf4WO", #kak wulan
             "https://drive.google.com/uc?export=view&id=10rIgAFaAUXXTdkZtVlnWmhcNdTm5VONB", #kak anisa dini
-            "https://drive.google.com/uc?export=view&id=1kOpWtlvf95gtAnTFKUjNdcTH-2YDxNLM", #kak annisa
-            "https://drive.google.com/uc?export=view&id=1-plmapG9vabrxxyF1UcH1HmdhJKVkW8B", #bg fahrul
-            "https://drive.google.com/uc?export=view&id=1l1zgZ2-XyEQdsE7dDlrTUBIlBQ9xvJEn", #bg jeremia
-            "https://drive.google.com/uc?export=view&id=1jlAwZEp9puYPYL4p-TBt-HuvpYPM0pB0", #kak dhea
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=19u5NtpMz3ftHlkNF27IvdQ4rX3HSlVBV", #bg feryadi
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1RSph3vQ5uBWnqUTSC8H2QbSWIi07ZP5T", #bg mirzan
-            "https://drive.google.com/uc?export=view&id=1b6guo-L1JqpEQ1Nd6uEAAfumZoZx6Zqz", #kak tri murniya
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1jlAwZEp9puYPYL4p-TBt-HuvpYPM0pB0", #kak dhea
+            "https://drive.google.com/uc?export=view&id=1-plmapG9vabrxxyF1UcH1HmdhJKVkW8B", #bg fahrul
+            "https://drive.google.com/uc?export=view&id=1BC41kh3dfn5XGRBj7vAaKLpNaceNFKds", #kak berliana
+            "https://drive.google.com/uc?export=view&id=1l1zgZ2-XyEQdsE7dDlrTUBIlBQ9xvJEn", #bg jeremia
          
         ]
         data_list = [
@@ -464,7 +467,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Kakak 1",
@@ -486,7 +489,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Kakak 1",
@@ -508,7 +511,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Kakak 1",
@@ -530,7 +533,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Kakak 1",
@@ -552,7 +555,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Kakak 1",
@@ -574,7 +577,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Kakak 1",
@@ -596,7 +599,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Kakak 1",
@@ -618,7 +621,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Kakak 1",
@@ -640,7 +643,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Kakak 1",
