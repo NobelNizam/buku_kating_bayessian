@@ -265,8 +265,8 @@ elif menu == "Baleg":
                 "alamat": "Way Kandis",
                 "hobbi" : "Membaca buku",
                 "sosmed": "@fer_yulius",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Abang nya baik banget",  
+                "pesan" : "Semangat terus kuliahnya bangg"
             },
             {
                 "nama"  : "Renisha Putri Giyani",
@@ -309,8 +309,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi" : "Mengumpulkan tugas e-learning h-15 detik",
                 "sosmed": "@_.dheamelia",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Kakak nya lucu, asikk dan baik banget",  
+                "pesan" : "Semngat terus kuliahnya kakkk"
             },
             {
                 "nama"  : "Muhammad Fahrul Aditya",
@@ -320,8 +320,8 @@ elif menu == "Baleg":
                 "alamat": "Sukarame",
                 "hobbi" : "Badminton, melukis, hiking, berenang, dengar musik, minum kopi",
                 "sosmed": "@fhrul.pdf",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Abangnya baik banget",  
+                "pesan" : "Semangat terus banggg"
             },
             {
                 "nama"  : "Berlianda Enda Putri",
@@ -331,8 +331,8 @@ elif menu == "Baleg":
                 "alamat": "Belwis",
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Kakak nya baik banget",  
+                "pesan" : "Semnagat kuliahnya kakkk"
             },
             {
                 "nama"  : "Jeremia Susanto",
@@ -342,8 +342,8 @@ elif menu == "Baleg":
                 "alamat": "Billabong",
                 "hobbi" : "Memancing emosi",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "",  
-                "pesan" : ""
+                "kesan" : "Bang jere baik bangettt",  
+                "pesan" : "Semangat terus ya banggg"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -352,32 +352,31 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=11-kywdkA_brFU4lclJFtzs1BeOSwvO30", # Kak Annisa Luthfia
+            "https://drive.google.com/uc?export=view&id=17PXgxMZavFctal48eXQ__toBcfaR_2FZ", # Bang Bintang
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Annisa Lutffia Alifia",
+                "nim": "121450093",
+                "umur": "22",
+                "asal":"Lampung Tengah",
+                "alamat": "Kost Putri Rahayu",
+                "hobbi": "Nyanyi",
+                "sosmed": "@annisaluthfi_",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Kontrakan Kotabaru",
+                "hobbi": "Dengerin kak Lutfia nyanyi",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "Abang ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya bangg !!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
