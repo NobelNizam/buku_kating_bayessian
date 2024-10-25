@@ -663,27 +663,27 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Rafi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Annisa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Mujadid
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Ahmad Sahidin
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Fadhil
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Regi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Syalaisha
+            "https://drive.google.com/uc?export=view&id=1bMbKxhIZWAddzfTqIH-e0_AygdKrcm9e", #Bg Rafi
+            "https://drive.google.com/uc?export=view&id=1bKsSIPcHPptzZ2ja7LN4NXgzI-u0qzY4", #Kak Annisa
+            "https://drive.google.com/uc?export=view&id=1ageKRM6M0JX6kJGn7WAsGagR5ayUSpfG", #Bg Mujadid
+            "https://drive.google.com/uc?export=view&id=1cFV1XA1o7qQc97iFElA5hAao8mXSjnrA", #Bg Ahmad Sahidin
+            "https://drive.google.com/uc?export=view&id=1c8VGWi8vlB6KIdxQsfSeGJKiKKjx2OUA", #Bg Fadhil
+            "https://drive.google.com/uc?export=view&id=1cORQ_9bJwCn22QXfYCFJQ_6PlY6M9Xrm", #Bg Regi
+            "https://drive.google.com/uc?export=view&id=1bpJ2L7acmWKOsEdwVbDjyhZqF_tR9zeg", #Kak Syalaisha
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Natanael
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Anwar
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Deva
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Dinda
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Marleta
+            "https://drive.google.com/uc?export=view&id=1cIJY8d2rGx7yg0b-kgQ_VucI8xVUz7Il", #Bg Anwar
+            "https://drive.google.com/uc?export=view&id=1aq7W1x7627RhSwkHmIFG4LaDg1UqBc7G", #Kak Deva
+            "https://drive.google.com/uc?export=view&id=1cC_pvSLLqtOFiAk-AXzldB3C7-Sqe81E", #Kak Dinda
+            "https://drive.google.com/uc?export=view&id=1beSZGRlpCpqxMZfRiPJJQW6ogmfqeJyi", #Kak Marleta
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Rut Junita
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Syadza
+            "https://drive.google.com/uc?export=view&id=1cNoI-BBUMCOCV8Tj4Z23kIe-AyIeFRlE", #Kak Syadza
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Abdurrahman
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Aditya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Eggi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Febiya
+            "https://drive.google.com/uc?export=view&id=1apsAS1N2RmVukj1WfQZKByFDJk5uXYGc", #Bg Eggi
+            "https://drive.google.com/uc?export=view&id=1buQlY10Zcm9rjE2hDvXeR0YmjweBaQlV", #Kak Febiya
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Happy
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Randa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Vita
+            "https://drive.google.com/uc?export=view&id=1bDXQ3iQEwiDiB0RkQl-bQWtyS7TsGW-j", #Bg Randa
+            "https://drive.google.com/uc?export=view&id=1akL5qQlLKNmmUu6_JVOYjouKBYisQqwp", #Kak Vita
         ]
         data_list = [
             {
@@ -1118,7 +1118,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Sumatera Barat",
                 "alamat": "Sukarame",
-                "hobbi": "Nonton youtube, main game",
+                "hobbi": "Nonton youtube",
                 "sosmed": "@alfaritziirvan",
                 "kesan": "  ",  
                 "pesan":"  " # 16
@@ -1128,8 +1128,8 @@ elif menu == "Departemen Eksternal":
                 "nim": "122450090",
                 "umur": "20",
                 "asal": "Bandar Lampung",
-                "alamat": "Teluk Betung",
-                "hobbi": "Main Rubik",
+                "alamat": "Teluk",
+                "hobbi": "Bertemu anak Pengmas",
                 "sosmed": "@izzalutfia",
                 "kesan": "  ",  
                 "pesan":"  " # 17
@@ -1138,7 +1138,7 @@ elif menu == "Departemen Eksternal":
                 "nama": "Khaalishah Zuhrah Alyaa Vanefi",
                 "nim": "122450034",
                 "umur": "20",
-                "asal": "Bandar Lampung",
+                "asal": "Lampung",
                 "alamat": "Rajabasa",
                 "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
@@ -1151,7 +1151,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Lampung Tengah",
                 "alamat": "Sukarame",
-                "hobbi": "Nemenin Tobias lari",
+                "hobbi": "Duduk di wico",
                 "sosmed": "@rayths_",
                 "kesan": "  ",  
                 "pesan":"  " # 19
@@ -1162,7 +1162,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Way Kanan",
                 "alamat": "Sukarame",
-                "hobbi": "Baca Buku",
+                "hobbi": "Tidur",
                 "sosmed": "@tria_y062",
                 "kesan": "  ",  
                 "pesan":"  " # 20
