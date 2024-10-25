@@ -668,26 +668,26 @@ elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1eu4q2gOXJzzBCDl52XKH5OSelVrseIDO", #rafi
-            "https://drive.google.com/uc?export=view&id=", #anisa
-            "https://drive.google.com/uc?export=view&id=", #mujadid
+            "https://drive.google.com/uc?export=view&id=1yPvO4a1UEVafC2jjI789GjRHat7-LTrb", #anisa
+            "https://drive.google.com/uc?export=view&id=1yPvO4a1UEVafC2jjI789GjRHat7-LTrb", #mujadid
             "https://drive.google.com/uc?export=view&id=1M5wkOBIQTuXosiTZiEgPoc1fKhgD_5wL", #ahmad 
-            "https://drive.google.com/uc?export=view&id=", #fadil
+            "https://drive.google.com/uc?export=view&id=1yPvO4a1UEVafC2jjI789GjRHat7-LTrb", #fadil
             "https://drive.google.com/uc?export=view&id=1JR26P9OjQ8lwLcGlfDx5V3VMI2RknsWi", #regi 
             "https://drive.google.com/uc?export=view&id=10kWxeGQGCju9d-gXW6Um2_o-XQfYLULY", #syalaisha
-            "https://drive.google.com/uc?export=view&id=", #nathanael
+            "https://drive.google.com/uc?export=view&id=1yPvO4a1UEVafC2jjI789GjRHat7-LTrb", #nathanael
             "https://drive.google.com/uc?export=view&id=1Y2jBmCF7KSz8Dp0STY4M9jTIvSivo6Mx", #anwar
             "https://drive.google.com/uc?export=view&id=1glL10AXrlyoA7Fbj_ImT7jk85Tt908Xf", #deva
             "https://drive.google.com/uc?export=view&id=1qviNUUOCvqn6oekMi85w-Xll52l7Lmt-", #dinda 
             "https://drive.google.com/uc?export=view&id=1dJUY25aF8Jh1qgylcA17xIL0Tob9N7Qk", #marleta
             "https://drive.google.com/uc?export=view&id=11ibLmuYa7JHp7a-c2DBhu7LhNq67Q2nn", #ruth
-            "https://drive.google.com/uc?export=view&id=", #syadza
-            "https://drive.google.com/uc?export=view&id=", #Abdur
+            "https://drive.google.com/uc?export=view&id=1yPvO4a1UEVafC2jjI789GjRHat7-LTrb", #syadza
+            "https://drive.google.com/uc?export=view&id=1yPvO4a1UEVafC2jjI789GjRHat7-LTrb", #Abdur
             "https://drive.google.com/uc?export=view&id=1fpTPVkpRYndBpuugkYWpcNYYbj1ns5-1", #adit
             "https://drive.google.com/uc?export=view&id=1-uHLUsN3xYMhRThT1QYamcfVOlO2qoft", #eggi
             "https://drive.google.com/uc?export=view&id=1-Z6xiMPzd2Z7yBKSeoT0QGYnyv0bwjmt", #febiya
             "https://drive.google.com/uc?export=view&id=1g69JH8bRNmP4fvzmaAXetiX4f3ZACZvm", #randa
             "https://drive.google.com/uc?export=view&id=1cXxQTKmC57p6ZP6QJyTfA88ED0BJ72SE", #happy
-            "https://drive.google.com/uc?export=view&id=", #vita
+            "https://drive.google.com/uc?export=view&id=1yPvO4a1UEVafC2jjI789GjRHat7-LTrb", #vita
             
             
         ]
