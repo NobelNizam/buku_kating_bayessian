@@ -404,6 +404,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1_IDsAxBD6WLH8Ngw7scg-Vs0OPqaWPBV",#18
             "https://drive.google.com/uc?export=view&id=1_atWJcl0F9ffCmBhN5i_zjSwLU0estkk",
             "https://drive.google.com/uc?export=view&id=1QNgXyCyk6tQylONXIqxOhn4_eoeZTKea",#20
+        ]
         data_list = [
             {
                 "nama": "Ericson Candra Sihombing", #1
@@ -638,12 +639,8 @@ elif menu == "Departemen PSDA":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    psda()
-
-        ]
-        display_images_with_data(gambar_urls, data_list)
-    psda()
-
+    psda()    
+       
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
@@ -653,7 +650,7 @@ elif menu == "Departemen MIKFES":
         ]
         data_list = [
             {
-                "nama": "Rafi Fadhillah",
+                "nama": "Rafi Fadhilah",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -1128,26 +1125,26 @@ elif menu == "Departemen Internal":
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Dimas Rizky Ramadhan",
+                "nim": "121450027",
+                "umur": "20",
+                "asal":"Pamulang",
+                "alamat": "Way Kandis",
+                "hobbi": "Manjat pohon pinang",
+                "sosmed": "@dimzrky_",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak 2",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "M. Akbar Resdika",
+                "nim": "121450066",
+                "umur": "21",
+                "asal":"Lampung Barat",
+                "alamat": "Labuhan Ratu (untung)",
+                "hobbi": "Mainn Sepeda gunung",
+                "sosmed": "@akbar_resdika",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"# 2
             },
             {
                 "nama": "Kakak 3",
