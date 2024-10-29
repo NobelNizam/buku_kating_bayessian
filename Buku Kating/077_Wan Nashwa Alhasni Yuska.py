@@ -1455,25 +1455,25 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Wahyudiyanto
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Elok Fiola
+            "https://drive.google.com/uc?export=view&id=1J0W69Nr5jgQ484P0rBXYcWKK6A3Uef2f", #Wahyudiyanto
+            "https://drive.google.com/uc?export=view&id=1-9YpHn4dUK_F8-YRDMqQoXXPIxbem8yn", #Elok Fiola
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Arsyiah Azahra
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Cintya Bella
+            "https://drive.google.com/uc?export=view&id=10KOscMgGsfowHefTk4e1jzwnELI1GpaN", #Cintya Bella
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Eka Fidiya Putri
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Najla Juwairia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Patricia Leondrea Diajeng Putri
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Rahma Neliyana
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Try Yani Rizki Nur Rohmah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Muhammad Kaisar Firdaus
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Dwi Ratna Anggraeni
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Gymnastiar Al Khoarizmy
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Nasywa Nur Afifah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Priska Silvia Ferantiana
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Muhammad Arsal Ranjana Utama
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Abit Ahmad Oktarian
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Akmal Faiz Abdillah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Hermawan Manurung
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Khusnun Nisa
+            "https://drive.google.com/uc?export=view&id=1wGvG_MW5DqWml8FkXbaK9KxHo2nVwqum", #Patricia Leondrea Diajeng Putri
+            "https://drive.google.com/uc?export=view&id=1EoBBCP1k32GapIIPpZauPFjrTTB94ODD", #Rahma Neliyana
+            "https://drive.google.com/uc?export=view&id=1c_4Ov9mLXKjiCVa_V1vhEex94WvVMt9I", #Try Yani Rizki Nur Rohmah
+            "https://drive.google.com/uc?export=view&id=18lP9mYTimlIUm6f1MrxFppaW31x72Pv1", #Muhammad Kaisar Firdaus
+            "https://drive.google.com/uc?export=view&id=1unRXCAsJwia3xKpfJEApdXeZESZ0JQkj", #Dwi Ratna Anggraeni
+            "https://drive.google.com/uc?export=view&id=1wrNY33lT5G9n1VMO21o5FFP_i7jtdSKg", #Gymnastiar Al Khoarizmy
+            "https://drive.google.com/uc?export=view&id=1ZY9UswimyxIEqS3HCnRn6rTqqk_R6WhW", #Nasywa Nur Afifah
+            "https://drive.google.com/uc?export=view&id=1b3iboZG_TBmok1UuNCCjrO24-VAN8hlb", #Priska Silvia Ferantiana
+            "https://drive.google.com/uc?export=view&id=1MVfTQKFC4NkFx95UHctM6q4Z47u_YW-p", #Muhammad Arsal Ranjana Utama
+            "https://drive.google.com/uc?export=view&id=1u0-Q0Fh9qBx7DmgOu68FogNrRAHMO_HJ", #Abit Ahmad Oktarian
+            "https://drive.google.com/uc?export=view&id=1JdQiCEbn9NvVfqOV7tBNLjhgbk5Wks9d", #Akmal Faiz Abdillah
+            "https://drive.google.com/uc?export=view&id=1KajJnRXy1pUBOtZLtaKotIf4EYoF5__T", #Hermawan Manurung
+            "https://drive.google.com/uc?export=view&id=1iKuKc6IjhjWGJqkTCMyuAYU1sy8HuXNH", #Khusnun Nisa
         ]
         data_list = [
             {
