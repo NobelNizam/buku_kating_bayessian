@@ -669,7 +669,7 @@ elif menu == "Departemen MIKFES":
         ]
         data_list = [
             {
-                "nama": "Rafi Fadhlillah",
+                "nama": "Rafi Fadhlillah",  #1
                 "nim": "121450143",
                 "umur": "21",
                 "asal": "Lubuk Linggau",
@@ -680,7 +680,7 @@ elif menu == "Departemen MIKFES":
                 "pesan":" SEmangat terus kuliahnya bang, dan sukses selalu kedepannya" 
             },
             {
-                "nama": "Annisa Novantika",
+                "nama": "Annisa Novantika",         #2
                 "nim": "121450005",
                 "umur": "21",
                 "asal": "Lampung Utara",
@@ -702,7 +702,7 @@ elif menu == "Departemen MIKFES":
                 "pesan":"  " 
             },
             {
-                "nama": "Ahmad Sahidin Akbar",
+                "nama": "Ahmad Sahidin Akbar",      #4
                 "nim": "122450044",
                 "umur": "20",
                 "asal": "Tulang Bawang",
@@ -724,7 +724,7 @@ elif menu == "Departemen MIKFES":
                 "pesan":"  " 
             },
             {
-                "nama": "Muhammad Regi Abdi Putra Amanta",
+                "nama": "Muhammad Regi Abdi Putra Amanta", #6
                 "nim": "122450031",
                 "umur": "19",
                 "asal": "Palembang",
@@ -735,7 +735,7 @@ elif menu == "Departemen MIKFES":
                 "pesan":"Semangat terus kuliahnya dan makin sukses kedepannya" 
             },
             {
-                "nama": "Syalaisha Andina Putriansyah",
+                "nama": "Syalaisha Andina Putriansyah", #7
                 "nim": "122450121",
                 "umur": "21",
                 "asal": "Tangerang",
@@ -1450,15 +1450,15 @@ elif menu == "Departemen MEDKRAF":
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama"  : "Wahyudianto",
+                "nim"   : "121450040",
+                "umur"  : "22",
+                "asal"  : "Makasar",
+                "alamat": "Sukarame",
+                "hobbi" : "Nonton Film",
+                "sosmed": "@wayuraja",
+                "kesan" : "Keren",  
+                "pesan" : "semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Kakak 2",
