@@ -181,19 +181,19 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1UiJmKQEawtDpLAd_AmX0Ha5jE9gzCs2y",#kak Tri
-            "https://drive.google.com/uc?export=view&id=1UZasM7r7oYIcoHeikiG27MJwvkf1T_fr",#Kak Annisa
-            "https://drive.google.com/uc?export=view&id=1UuU9ynMYrL492E2czXUJU-ifg4xVQvl_",#Kak Wulan
-            "https://drive.google.com/uc?export=view&id=1U_Q5tvCiA8qTAsR7GDjbDE7-0oFwcIr4",#Kak Anisa Dini
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Claudhea
-            "https://drive.google.com/uc?export=view&id=1Uo2MmyKXCVfE6wE1s6R1eYVv3KAvzYjK",#Bg Feryadi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Renisha
-            "https://drive.google.com/uc?export=view&id=1UdZ6AMpXC-xOql9Y7iWs0eXYrkjgCJF6",#Bg Mirzan
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Anisa Fitri
-            "https://drive.google.com/uc?export=view&id=1Uv0Hm5UCaoMpDJDy2By0gCPIuRLxug8Y",#Kak Dhea
-            "https://drive.google.com/uc?export=view&id=1TnrW_EDC6ZUN10MyQB7n5tObcOqaaLCz",#Bg Fahrul
-            "https://drive.google.com/uc?export=view&id=1TtIFuOl8BxQTUbSIbEWbP2LXNnGdsLz-",#Kak Berliana
-            "https://drive.google.com/uc?export=view&id=1UxZZppwdYBq2bOMr-_pGurcWUAlb79HV",#Bg Jere
+            "https://drive.google.com/uc?export=view&id=19AWfT_RwZJgoomIOah3lAs1KnCXlyUIp",#kak Tri
+            "https://drive.google.com/uc?export=view&id=1hpLjgFJZscnAlnyVi51hj4wYIctEDJQE",#Kak Annisa
+            "https://drive.google.com/uc?export=view&id=1o3-18_m56I74F1Hpd5BFXeVRxzG-Ybos",#Kak Wulan
+            "https://drive.google.com/uc?export=view&id=1U_Q5tvCiA8qTAsR7GDjbDE7-0oFwcIr4",#Kak Anisa Dini .
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Claudhea .
+            "https://drive.google.com/uc?export=view&id=18phQCp8MbPv1_V3ahtLAbbnk5ouacJMH",#Bg Feryadi
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Renisha .
+            "https://drive.google.com/uc?export=view&id=1UdZ6AMpXC-xOql9Y7iWs0eXYrkjgCJF6",#Bg Mirzan .
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Anisa Fitri .
+            "https://drive.google.com/uc?export=view&id=1Uv0Hm5UCaoMpDJDy2By0gCPIuRLxug8Y",#Kak Dhea .
+            "https://drive.google.com/uc?export=view&id=1138Lxhdg3s3qHG1FAipa4jJpNzv0zJ8t",#Bg Fahrul
+            "https://drive.google.com/uc?export=view&id=1TtIFuOl8BxQTUbSIbEWbP2LXNnGdsLz-",#Kak Berliana .
+            "https://drive.google.com/uc?export=view&id=1tL7ickfswEb6Ge6ooxtFqOgtg_jbnO4L",#Bg Jere
         ]
         data_list = [
             {
@@ -204,8 +204,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Ngerjain TA",
                 "sosmed": "@trimurniaa",
-                "kesan": "Asik banget kakak orangnya",  
-                "pesan":"Semoga dilancarkan segala urusannya"
+                "kesan": "kak nia orangnya seru asikk dan lucuu",  
+                "pesan":"November wisuda riuh kak!"
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -215,8 +215,8 @@ elif menu == "Baleg":
                 "alamat": "Belwis, Way Huwi",
                 "hobbi": "Membaca Novel",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "-",  
-                "pesan":"-"
+                "kesan": "kalem tapi keren",  
+                "pesan":"semoga kita semua baik-baik saja, amin."
             },
             {
                 "nama": "Wulan Sabina",
