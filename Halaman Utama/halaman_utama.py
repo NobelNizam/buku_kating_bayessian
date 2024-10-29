@@ -134,7 +134,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1tjD3dCTC0pGeETD0B6BuJI99eyK8l9HT", # wawa      - done
             "https://drive.google.com/uc?export=view&id=11cQdkD6uMltnjv-VitjxFg2Xgznsfwht", # natasya   - done
             "https://drive.google.com/uc?export=view&id=1t5difluGEl7xRrKqZ-q53csRF2kY04gJ", # may       - done
-            "https://drive.google.com/uc?export=view&id=1rijn9ndiE5hBJD4twFEbwbvenZ3mSkUd", # haikal    - done
+            "https://drive.google.com/uc?export=view&id=1mkCi0eUBv1X5JykQx991zp55atnJvTOF", # haikal    - done
             "https://drive.google.com/uc?export=view&id=1su8NCe0Oo1hIGziv2i_hgpXQhBNpCqAS", # nayla     - done
             "https://drive.google.com/uc?export=view&id=1XGoKqRbKJnVrTiVDchkQTF5sY3x-WcA7", # rewina    - done
             "https://drive.google.com/uc?export=view&id=1HMYJfY0nY40W-Wha2gxi9CbhVElhhftn", # fathia    - done
