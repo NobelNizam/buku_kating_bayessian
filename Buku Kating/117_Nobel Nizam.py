@@ -184,15 +184,15 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=19AWfT_RwZJgoomIOah3lAs1KnCXlyUIp",#kak Tri
             "https://drive.google.com/uc?export=view&id=1hpLjgFJZscnAlnyVi51hj4wYIctEDJQE",#Kak Annisa
             "https://drive.google.com/uc?export=view&id=1o3-18_m56I74F1Hpd5BFXeVRxzG-Ybos",#Kak Wulan
-            "https://drive.google.com/uc?export=view&id=1U_Q5tvCiA8qTAsR7GDjbDE7-0oFwcIr4",#Kak Anisa Dini .
+            "https://drive.google.com/uc?export=view&id=1cdIFl-zVh4Bs-_FNdny38zQqHmWuwQLN",#Kak Anisa Dini 
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Claudhea .
             "https://drive.google.com/uc?export=view&id=18phQCp8MbPv1_V3ahtLAbbnk5ouacJMH",#Bg Feryadi
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Renisha .
-            "https://drive.google.com/uc?export=view&id=1UdZ6AMpXC-xOql9Y7iWs0eXYrkjgCJF6",#Bg Mirzan .
+            "https://drive.google.com/uc?export=view&id=1Xjiy3S_3pvg5MWQ8-h0teeiIKKA9WlWh",#Bg Mirzan 
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Anisa Fitri .
-            "https://drive.google.com/uc?export=view&id=1Uv0Hm5UCaoMpDJDy2By0gCPIuRLxug8Y",#Kak Dhea .
+            "https://drive.google.com/uc?export=view&id=1hPUw2h2C9s3woS68mR0QdFMIHt9js1rL",#Kak Dhea 
             "https://drive.google.com/uc?export=view&id=1138Lxhdg3s3qHG1FAipa4jJpNzv0zJ8t",#Bg Fahrul
-            "https://drive.google.com/uc?export=view&id=1TtIFuOl8BxQTUbSIbEWbP2LXNnGdsLz-",#Kak Berliana .
+            "https://drive.google.com/uc?export=view&id=1qimUJvycTzg9yieFMOlwkcw4BufW28m9",#Kak Berliana 
             "https://drive.google.com/uc?export=view&id=1tL7ickfswEb6Ge6ooxtFqOgtg_jbnO4L",#Bg Jere
         ]
         data_list = [
