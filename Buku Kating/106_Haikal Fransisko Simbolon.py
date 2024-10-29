@@ -388,14 +388,11 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1QZFUpsxUKmk9BrRW3uJnLUVHmrQmlIpM", #Bg Deri
             "https://drive.google.com/uc?export=view&id=1cxVfzzrd_YcGfAvI8PLcczSERD1dU39B", #Kak Oktavia
             "https://drive.google.com/uc?export=view&id=1SMvJrB-HaWkgH0Ck1ZHWBhF-QXzyr_on", #Bg Deyvan
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Ibnu
             "https://drive.google.com/uc?export=view&id=1UDHFH-HDrzJUJK9xYdzrOXwBYPawZySj", #Bg Jo
             "https://drive.google.com/uc?export=view&id=1U2kpMXU1PrWqQmWSq5mwZcJ3WcWWJm1E", #Bg Kemas
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg leonard
             "https://drive.google.com/uc?export=view&id=1ZJoKibhydoyU_CR67mRU0A1VK8jROS0l", #Kak Presilia
             "https://drive.google.com/uc?export=view&id=1PY-lHddyZV04kjiC7DKpMFhMOzULHinl", #Kak rafa
             "https://drive.google.com/uc?export=view&id=1d18Y4jQyWBjX0aYZLa6eQjDlml3dLbPR", #Bg Sahid
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Vanessa
             "https://drive.google.com/uc?export=view&id=1dCVTtYt2k3yvrRsTA7EgNWIVUaeVUQlF", #Bg Ateng
             "https://drive.google.com/uc?export=view&id=1czEtR2Oh-TR0wIcJXqYwIkik-ASyKO16", #Bg Gede
             "https://drive.google.com/uc?export=view&id=1qYxaf7JqbMduHmg3xsYzM4K65JiG9Jlw", #Kak Jaclin
@@ -514,17 +511,6 @@ elif menu == "Departemen PSDA":
                 "pesan":"  " # 10
             },
             {
-                "nama": "Ibnu Farhan Al-Ghifari",
-                "nim": "  ",
-                "umur": "  ",
-                "asal": "  ",
-                "alamat": "  ",
-                "hobbi": "     ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"   " # 11
-            },
-            {
                 "nama": "Johannes Krisjon Silitonga",
                 "nim": "122450043",
                 "umur": "19",
@@ -545,17 +531,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@kemasverii",
                 "kesan": "  ",  
                 "pesan":"  " # 13
-            },
-            {
-                "nama": "Leonard Andreas Napitupulu",
-                "nim": "  ",
-                "umur": "  ",
-                "asal": "  ",
-                "alamat": "  ",
-                "hobbi": "  ",
-                "sosmed": "@ ",
-                "kesan": "  ",  
-                "pesan":"   " # 14
             },
             {
                 "nama": "Presilia",
@@ -589,17 +564,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@sahid_maulana",
                 "kesan": "  ",  
                 "pesan":"  " # 17
-            },
-            {
-                "nama": "Vanessa Olivia Rose",
-                "nim": "121450108",
-                "umur": "20",
-                "asal": "Jakarta",
-                "alamat": "Perum Korpri",
-                "hobbi": "Belajar",
-                "sosmed": "@roselivnes__",
-                "kesan": "  ",  
-                "pesan":"  " # 18
             },
             {
                 "nama": "M. Farhan Athaulloh",
@@ -1488,6 +1452,7 @@ elif menu == "Departemen SSD":
         ]
         display_images_with_data(gambar_urls, data_list)
     ssd()
+    
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
