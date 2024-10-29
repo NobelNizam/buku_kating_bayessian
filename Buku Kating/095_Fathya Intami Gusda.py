@@ -647,7 +647,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1zXKu9E6Ng7EnJVdU0N0k0sMkw1ktChcO",
             "https://drive.google.com/uc?export=view&id=11LfogME_p3cfezz23crHI4ifoDCDXnCW",
             "https://drive.google.com/uc?export=view&id=1ziMO_cGwh6wpSyPx9yHBskvpgTyEzFQX",
-            "https://drive.google.com/uc?export=view&id=1Mzu3qThumHj5fvIkgu7e7AubpZbl7LhA",
+            "https://drive.google.com/uc?export=view&id=1SkU6dC_0GHjxDpL1saKdSeT84LuRoPsE",
             "https://drive.google.com/uc?export=view&id=1zl6vPRgZ_rs-mk3_T8mSbvebYuXQttXH",
             "https://drive.google.com/uc?export=view&id=1zxL8GnlIECVq781modEQ-LfIjdR_467C",
             "https://drive.google.com/uc?export=view&id=1zCVSsZUhCqs_A6PhtlKCyhuStasCDmra",
@@ -861,7 +861,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Perumnas Way Kandis",
                 "hobbi": "Membaca",
                 "sosmed": "@rahmn_abdr",
-                "kesan": "  ",  
+                "kesan": " asikk ",  
                 "pesan":" semangat ya abangg  " # 15
             },
             {
@@ -872,7 +872,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Karang Anyar",
                 "hobbi": "Main Game",
                 "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": "  ",  
+                "kesan": "abangnya baik ",  
                 "pesan":"sukses dan semangat terus bang" # 19
             },
             {
@@ -909,17 +909,17 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1L7mGEGDfONWMHhnjgVmRAjRy8k6qdmDa",
             "https://drive.google.com/uc?export=view&id=1LQMFu0O5QZnc7nwr-nszbgG3peEEb7dg",
             "https://drive.google.com/uc?export=view&id=1LoGmcOOcrs5e_XwD4aBVB1QMUC3sfprw",
-            "https://drive.google.com/uc?export=view&id=1Kpxdcml6_U-KQt3htFoH2amYrEx6KN-S",
-            "https://drive.google.com/uc?export=view&id=1KqwuYvGdJVAhAIhcBAGxB-LONOpsnsIX",
-            "https://drive.google.com/uc?export=view&id=1KvowomZy_f3jhGZ2DOT-CLC-Ogmb5Uaa",
-            "https://drive.google.com/uc?export=view&id=1KY1IyTOo7x8BYe21CAH0_YnEzMm7lann",
-            "https://drive.google.com/uc?export=view&id=1LKduVVM-VFK8B2xks_i5A68AX4OpnEBB",
-            "https://drive.google.com/uc?export=view&id=1KPjzEfyS5IJkqCLV2VFmPZ7FYJeyNSxx",
-            "https://drive.google.com/uc?export=view&id=1L2uLs1CKgPSKOvOMbO9-LYMjFw8THcJy",
-            "https://drive.google.com/uc?export=view&id=1LGHyLzsAX8VQ7eJJv4dsO3e8tajmLA0S",
-            "https://drive.google.com/uc?export=view&id=1L_YWzWx4ohYc-AVZUCq_MyE-Ma_GEcnL",
-            "https://drive.google.com/uc?export=view&id=1Lhq9miy9NxSK73fLXQSHSRxAGcXRZXbk",
-            "https://drive.google.com/uc?export=view&id=1L9PlEUGLVGDNAWTuqJbXzY5AZIFzsFds",
+            "https://drive.google.com/uc?export=view&id=1Kpxdcml6_U-KQt3htFoH2amYrEx6KN-S", #6
+            "https://drive.google.com/uc?export=view&id=1SwsQVXb1cvmCkEgoBQdHXlRrFJGgF82j",
+            "https://drive.google.com/uc?export=view&id=1KvowomZy_f3jhGZ2DOT-CLC-Ogmb5Uaa",#8
+            "https://drive.google.com/uc?export=view&id=1KY1IyTOo7x8BYe21CAH0_YnEzMm7lann",#9
+            "https://drive.google.com/uc?export=view&id=1SxREajwPlxJsBGYOcdx3ETHgTE6Ru1mP",
+            "https://drive.google.com/uc?export=view&id=1T5EAgnxjuSOE83OHFc_hAJKbPllNexXs",
+            "https://drive.google.com/uc?export=view&id=1SvqWNwqeEAQXfOka2mEjAOSsseHF6ke2",#12
+            "https://drive.google.com/uc?export=view&id=1T6nWluHVoKUeYzWx8L6muXlS25EJ9DAS",
+            "https://drive.google.com/uc?export=view&id=1SmN514GuxGl9q37Aq-3N4ol8RQ7F4EOL",
+            "https://drive.google.com/uc?export=view&id=1T3jb20BNMF8I-cn4zdMcYE4PRa7Keg59",
+            "https://drive.google.com/uc?export=view&id=1StbhQnjDk0o5WePICHkoLZ2JA7O6Y6KG",
             "https://drive.google.com/uc?export=view&id=1LDZqLWqcX2Ck1M80T8eF9QC3-6TgcT8z",
             "https://drive.google.com/uc?export=view&id=1LDGXJNv2wPqaFco2S1MspVjr7DzN2XTc",
             "https://drive.google.com/uc?export=view&id=1LFC7j4lguVjH94I9HIs_fGIBZrh_DkGW",
