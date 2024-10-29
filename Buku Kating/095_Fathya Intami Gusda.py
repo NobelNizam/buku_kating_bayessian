@@ -719,7 +719,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Jadi admin ig mikfes.hmsd",
                 "sosmed": "@mregiiii_",
                 "kesan": "abangnya baik bangett",  
-                "pesan":"semnagat dan lancar terus kuliahnya bangg" # 6
+                "pesan":"semangat dan lancar terus kuliahnya bangg" # 6
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
@@ -1086,7 +1086,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "19",
                 "asal":"Kalianda",
                 "alamat": "Korpri",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Berenang",
                 "sosmed": "@tobiassiagian",
                 "kesan": "abangnya ramahh",  
                 "pesan":"semangat terus untuk segalanya abang"
@@ -1271,8 +1271,8 @@ elif menu == "Departemen Internal":
                 "nama": "Josua Panggabean",
                 "nim": "121450061",
                 "umur": "21",
-                "asal":"Pemantang Siantar",
-                "alamat": "Gerbang Barat",
+                "asal":"Siantar",
+                "alamat": "Kost Kiya, Gerbang Barat",
                 "hobbi": "Menonton dan lari",
                 "sosmed": "@josuapanggabean_",
                 "kesan": "abangnya baik",  
@@ -1284,7 +1284,7 @@ elif menu == "Departemen Internal":
                 "umur": "21",
                 "asal":"Lampung Selatan",
                 "alamat": "Natar",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Berkebun",
                 "sosmed": "@azizahksma15",
                 "kesan": "sepertinya baik dan ramah",  
                 "pesan":"semangat kuliahnya kak"
@@ -1295,7 +1295,7 @@ elif menu == "Departemen Internal":
                 "umur": "20",
                 "asal":"Pesawaran",
                 "alamat": "Airan",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Membaca",
                 "sosmed": "@meyrasty_",
                 "kesan": "Kakaknya baikk",  
                 "pesan":"semangat kuliahnya ya kak"# 1
@@ -1458,9 +1458,26 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1-Ppx6-Og0sHvMLHmslje_Rxc1omaTBAY",
+            "https://drive.google.com/uc?export=view&id=1-VjvJEQhDAd6Fchnx0NpD-nEoyRuCjXO",
+            "https://drive.google.com/uc?export=view&id=10DK-FqAkZmHGCxC2smgfxShFvUZSQpg3",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=10q4rKB1lkp7xCe_b8fViwL_C5zOfFXDR",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=10DK-FqAkZmHGCxC2smgfxShFvUZSQpg3",
+            "https://drive.google.com/uc?export=view&id=1-wQ3C2ILkH9LILSeitZze4bs6C1P2scQ",
+            "https://drive.google.com/uc?export=view&id=10IKtiygSuBg4LPUxr7-35-dpYK6tTBf3",
+            "https://drive.google.com/uc?export=view&id=10fG1-S4b0ZHsbpMm2nxkTbAi8_kNerkP",
+            "https://drive.google.com/uc?export=view&id=1-XbNuqzDWsxLeiPvYUnaZ3ILx4PG-qXQ",
+            "https://drive.google.com/uc?export=view&id=10oowmD9MsANEM4Wpvquz9kJN_PLMqnRW",
+            "https://drive.google.com/uc?export=view&id=10kfBaAR9sRCXo3ypUqMaR_Gs_EjpwNxA",
+            "https://drive.google.com/uc?export=view&id=1-YEioHA61kG33LEJVNeIcH-qAOyiP25L",
+            "https://drive.google.com/uc?export=view&id=10n8IeKl79JqZG8AOgZiuENby8wHHKx-r",
+            "https://drive.google.com/uc?export=view&id=1-RJIsQ2IEsaGuq-wGYbUDH-12E_VEBdz",
+            "https://drive.google.com/uc?export=view&id=1-RtAVwurZqlaYRj1X1Bu85dDirqR1C2X",
+            "https://drive.google.com/uc?export=view&id=1-Hp0GVFBhZ-VUV862DAmnt-flNWJ-mmO",
+            "https://drive.google.com/uc?export=view&id=1-8Y77tvRf9VtGxqUHadbHbiBd3vbVpZ5",  
         ]
         data_list = [
              {
@@ -1470,8 +1487,8 @@ elif menu == "Departemen MEDKRAF":
                 "asal": "Makassar",
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
-                "sosmed": "@",
-                "kesan": "  ",  
+                "sosmed": "@wayyulaja",
+                "kesan": "abangnya asikk dan baik ",  
                 "pesan":" semangatt terus abangg " # 1
             },
             {
