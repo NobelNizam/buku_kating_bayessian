@@ -1488,7 +1488,6 @@ elif menu == "Departemen SSD":
         ]
         display_images_with_data(gambar_urls, data_list)
     ssd()
-
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
