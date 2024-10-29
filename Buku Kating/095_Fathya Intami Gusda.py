@@ -1340,7 +1340,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@adriangaol",
                 "kesan": "baik dan ramah",  
-                "pesan":"semangat mengerjakan TA nya bang adrian"
+                "pesan":"semangat mengerjakan TA dan MSS nya bang adrian"
             },
             {
                 "nama": "Adisty Syawaida Ariyanto",
@@ -1428,7 +1428,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakaknya baik dan asikk",  
-                "pesan":"lancar terus kuliahnya ya kakkk"# 1
+                "pesan":"lancar terus kuliahnya ya kakak cantikk"# 1
             },
             {
                 "nama": "Dhafin Razaqa Luthfi",
@@ -1450,7 +1450,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@meylanielia",
                 "kesan": "Kakaknya baikkk",  
-                "pesan":"semangattt menjalani hari ya kak, semangat dan bahagia selaluuuu"# 1
+                "pesan":"semangattt menjalani hari ya kakak, semangat dan bahagia selaluuuu"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
