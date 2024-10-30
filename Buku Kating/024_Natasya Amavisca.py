@@ -194,6 +194,9 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1PMnQbaidao6YxyU3vPt0NDuBXn90St4B",#11
             "https://drive.google.com/uc?export=view&id=1PNPQY4fuslRsKLYN_Yy2cWjpB1ngNmmk",#12
             "https://drive.google.com/uc?export=view&id=1aHZTjU1azuTMxrRNVHyx1lJlX9Elel-C",#13
+            
+            
+            
         ]
         data_list = [
             {
@@ -637,7 +640,7 @@ elif menu == "Departemen PSDA":
         ]
         display_images_with_data(gambar_urls, data_list)
     psda()    
-
+       
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
