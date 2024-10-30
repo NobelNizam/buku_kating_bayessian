@@ -755,7 +755,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Membuka Wisata HMSD",
                 "sosmed": "@natanaeloks",
                 "kesan": "Abang ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya bang !!!"
+                "pesan":"semangat terus kuliahnya bang"
             },
             {
                 "nama": "Anwar Muslim",
@@ -1433,7 +1433,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Olahraga",
                 "sosmed": "@dhafinrzqa13",
                 "kesan": "Abang nya seru banget",  
-                "pesan":"semangat terus kuliahnya bangg, dan sukses selalu!"
+                "pesan":"semangat"
             },
             {
                 "nama": "Elia Meylani Simanjuntak",
@@ -1444,7 +1444,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Menyanyi",
                 "sosmed": "@meylanielia",
                 "kesan": "Kakak nya asik dan seru banget",  
-                "pesan":"semangat terus kuliahnya kak dan sukses terus kak !!!"
+                "pesan":"semangat!!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
