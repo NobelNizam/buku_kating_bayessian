@@ -659,7 +659,6 @@ elif menu == "Departemen PSDA":
                 "kesan": " kakak ternyata kembar  ",  
                 "pesan":" semangat terus kak kuliahnya " # 23
             },
-            },
         ]
         display_images_with_data(gambar_urls, data_list)
     psda()
@@ -922,7 +921,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan":"  " # 21
-            },,
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
