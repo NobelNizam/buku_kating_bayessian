@@ -116,8 +116,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kandis",
                 "hobbi" : "Mendengerkan musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan" : "Abang nya berkharisma banget",  
-                "pesan" :"semangat terus banggg"
+                "kesan" : "Abang gumi berkharisma banget, bagus banget publik speakingnya",  
+                "pesan" :"Semangat terus dan sukses terus kedepannya ya bang"
             },
             {
                 "nama"  : "Pandra Insani Putra Azwan",
@@ -127,8 +127,8 @@ if menu == "Kesekjenan":
                 "alamat": "Bawen 2",
                 "hobbi" : "Bermain gitar dan menyanyi",
                 "sosmed": "@pandrainsni27",
-                "kesan" : "Abang nya baik banget",  
-                "pesan" : "semangat terus kuliahnya bang"
+                "kesan" : "Bang pandra asik, dan seru banget",  
+                "pesan" : "semangat kuliahnya ya bang"
             },
             {
                 "nama"  : "Meliza Wulandari",
@@ -138,7 +138,7 @@ if menu == "Kesekjenan":
                 "alamat": "Kotabaru",
                 "hobbi" : "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan" : "Kakaknya baik banget",  
+                "kesan" : "Kakaknya baik, asik, seru banget",  
                 "pesan" : "semangat terus kuliahnya kakk"
             },
             {
@@ -332,7 +332,7 @@ elif menu == "Baleg":
                 "hobbi" : "Main Game",
                 "sosmed": "@berlyyanda",
                 "kesan" : "Kakak nya baik banget",  
-                "pesan" : "Semnagat kuliahnya kakkk"
+                "pesan" : "Semangat kuliahnya kakkk"
             },
             {
                 "nama"  : "Jeremia Susanto",
@@ -342,8 +342,8 @@ elif menu == "Baleg":
                 "alamat": "Billabong",
                 "hobbi" : "Memancing emosi",
                 "sosmed": "@jeremia_s_",
-                "kesan" : "Bang jere baik bangettt",  
-                "pesan" : "Semangat terus ya banggg"
+                "kesan" : "Bang jere baik, seru bangettt",  
+                "pesan" : "Semangat terus kuliahnya bang dan jaga kesehatan ya bangg"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -364,8 +364,8 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu",
                 "hobbi": "Nyanyi",
                 "sosmed": "@annisaluthfi_",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "kesan": "Kak lutfi publik speaking nya bagus banget, dan seru banget",  
+                "pesan":"semangat terus ya kakk, menyuarakan suara kami !!!"
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -375,7 +375,7 @@ elif menu == "Senator":
                 "alamat": "Kontrakan Kotabaru",
                 "hobbi": "Dengerin kak Lutfia nyanyi",
                 "sosmed": "@bintangtwinkle",
-                "kesan": "Abang ini asik saya suka belajar dengan dia",  
+                "kesan": "Bang bintang seru dan bagus banget publik speaking nhya",  
                 "pesan":"semangat terus kuliahnya bangg !!!"
             },
         ]
@@ -419,7 +419,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Khobam",
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "Abang nya seru bangettt",  
+                "kesan": "Bnag econ baik, dan ",  
                 "pesan":"semangat terus kuliahnya bangg"
             },
             {
@@ -924,7 +924,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak nya asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kak!!!"
+                "pesan":"semangat terus kuliahnya kakk!!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
