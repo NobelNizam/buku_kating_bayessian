@@ -664,19 +664,24 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # rafi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # annisa
+            "https://drive.google.com/uc?export=view&id=173n_sp5tCelkmZMmRGC0Nkv8NlqpuBgQ", # rafi
+            "https://drive.google.com/uc?export=view&id=17Rl0TNN57ZVMsEibp19IyhFJGhvuSfwu", # annisa
+
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ahmad
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # regi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Syalaisha
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # anwar
+
+            "https://drive.google.com/uc?export=view&id=15arE0GLU9Uu8B8zYAKmxkEdXcbT6q5iu", # regi
+            "https://drive.google.com/uc?export=view&id=11wL_gAVUSSX_6jlbmShsh6jnlJAWjvCT", # Syalaisha
+            "https://drive.google.com/uc?export=view&id=175QiKjYoEOfOGDTMvPT_MRtbNOOgMtm1", # anwar
+
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Deva
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # DindA
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # MARLETTA
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Rut Junita
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Syadza
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Eggi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Febiya
+
+            "https://drive.google.com/uc?export=view&id=17RQn0PCpApVin4qTuuG4YjeAUTh9Ql4Y", # DindA
+            "https://drive.google.com/uc?export=view&id=176bFDlah9NxCU5eYii5mRjsqzBMuwoPu", # MARLETTA
+            "https://drive.google.com/uc?export=view&id=121oPZ3Lydf9wR9M4i-XYUgMDjKRnqsms", # Rut Junita
+            "https://drive.google.com/uc?export=view&id=17Hx5YTqp7JR_IuLEdl--pGRNjJuJvM3j", # Syadza
+            "https://drive.google.com/uc?export=view&id=1cD8hK7NENS8onB4nmNpnb6fSuIpQ_jjn", # Eggi
+            "https://drive.google.com/uc?export=view&id=17B8Ce_LLlDM0pKoqoU121Z1f3GX_1Otc", # Febiya
+
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Happy Syahrul
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Aditya
         ]
@@ -1102,20 +1107,22 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Dimas 1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Catherine 2
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # M. Abar 3
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Rani 4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Rendra 5
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Salwa 6
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Yosia 7
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Ari 8
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Azizah 9
+            "https://drive.google.com/uc?export=view&id=152LHFBxa8LkpR53hUPe789omVVOvaeVc", # Dimas 1
+            "https://drive.google.com/uc?export=view&id=14trKRjj5XzQP4gphMDFEOtI1ek6I3VHJ", # Catherine 2
+            "https://drive.google.com/uc?export=view&id=157469hrJ547ULyC64kIa7GWQ6ka6gtuo", # M. Akbar 3
+            "https://drive.google.com/uc?export=view&id=15H-VhuMIsr7kA0bCdq_jBrtv1-0XTUfH", # Rani 4
+            "https://drive.google.com/uc?export=view&id=157suAlJLDKccUTUJbMtfgHF5XGQZM35h", # Rendra 5
+            "https://drive.google.com/uc?export=view&id=14akKdJjJs73MXqKH2mJaVfsOlIqwLXWT", # Salwa 6
+            "https://drive.google.com/uc?export=view&id=14qX3ZnSfwpFijOduLxKmotNncFwBVkQe", # Yosia 7
+            "https://drive.google.com/uc?export=view&id=14j53w4IWE1pFth5X4J4mfDZbZ4PH0zSL", # Ari 8
+            "https://drive.google.com/uc?export=view&id=1SiAul4wKOnRKMw5qG8ipZg9jwcgAXO9Z", # Azizah 9
+
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Dearni 10
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Meira 11
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Rendi 12
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Renti 13
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Josua 14
+
+            "https://drive.google.com/uc?export=view&id=14vJJbGm1-YwC2oraLF_WH5ApkMQjSq2e", # Meira 11
+            "https://drive.google.com/uc?export=view&id=14dTR3o-oJha0ne0Jf7UG0ifD2HLaLaue", # Rendi 12
+            "https://drive.google.com/uc?export=view&id=13nWdWwYlf8ng7ReTFSr3YHFnhPtfoX1a", # Renti 13
+            "https://drive.google.com/uc?export=view&id=1tBoLswQ20YM0nSAdf2jKrQylo1p9xjPC", # Josua 14
         ]
         data_list = [
             {
@@ -1279,17 +1286,19 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Adrian 1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Adisty 2
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Nabila 3
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Ahamad 4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Danang 5
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Farrel 6
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Tessa 7
+            "https://drive.google.com/uc?export=view&id=1X0e6hEzoP9cAbxIDTyZ6C6ElNCWw0NbT", # Adrian 1
+            "https://drive.google.com/uc?export=view&id=15cfXbVUmuJ4m_89XmBIshRrqKBYnVjEw", # Adisty 2
+            "https://drive.google.com/uc?export=view&id=1Wye99y2heoho3jFN7vUanwp5aGCKqvME", # Nabila 3
+            "https://drive.google.com/uc?export=view&id=1XS0jwAC1cmxBQISgbog1hLO4LMp-nJAz", # Ahmad 4
+            "https://drive.google.com/uc?export=view&id=1X6SWDB-uPzAa5FGAHGVxKQ_o2A0YPmsC", # Danang 5
+            "https://drive.google.com/uc?export=view&id=1X0awJwWoLJLAGs0pBJozZT1qsz3WFOqa", # Farrel 6
+            "https://drive.google.com/uc?export=view&id=1luQJBf5W3eRVY_3sOJDnSqnDUrSVtdyy", # Tessa 7
+
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Nabilah 8
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Alvia 9
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Dhafin 10
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Elia 11
+
+            "https://drive.google.com/uc?export=view&id=1X8MQt76Jmzdh6ywm6fjT_1kDS-6DWpiH", # Alvia 9
+            "https://drive.google.com/uc?export=view&id=1WwfHGea1TYb88WJVlYqoiTtVisqqiKNL", # Dhafin 10
+            "https://drive.google.com/uc?export=view&id=1XAWH96nRTl_GYs9COTFofTYBgb2tSJY4", # Elia 11
 
         ]
         data_list = [
@@ -1383,12 +1392,12 @@ elif menu == "Departemen SSD":
             },
             {
                 "nama": "Alvia Asrinda Br.Gintng",
-                "nim": " ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": " ",
-                "sosmed": "@",
+                "nim": "122450040",
+                "umur": "20",
+                "asal": "Simalungun, Sumut",
+                "alamat": "Pemda",
+                "hobbi": " Menulis",
+                "sosmed": "@tesakanias",
                 "kesan": "  ",  
                 "pesan":"  " # 9
             },
@@ -1421,25 +1430,30 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Wahyu
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Elok
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Arsyiah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Chibel
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Eka
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Najla
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Patricia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Rahma
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Try Yani
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Kaisar
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Dwi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Gym
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Nasywa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Priska
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Arsal
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Abit
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Akmal
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Hermawan
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Khusnun
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Wahyu tdk
+
+            "https://drive.google.com/uc?export=view&id=1vBOGQZb1HU-cWCUb2RbhCSLFwm8heE5f", # Elok
+
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Arsyiah tdk
+
+            "https://drive.google.com/uc?export=view&id=1vr5t7mL3QHyl59TzzTwKlhvyNIflvS6H", # Chintya
+
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Eka tdk
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Najla tdk
+
+            "https://drive.google.com/uc?export=view&id=1u5rQy9NqhwkhJdEo6k6COfJCVbwNQPiI", # Patricia
+            "https://drive.google.com/uc?export=view&id=1EYkg6JmU3ehWcoisi_WbbmVAp46upC2b", # Rahma
+            "https://drive.google.com/uc?export=view&id=15X7WwU6XrdZKsUMXT9NZNkR35LO1JsXl", # Try Yani
+            "https://drive.google.com/uc?export=view&id=15StBCV2kad6QgRAcZeIv60xRLDi9xvsv", # Kaisar
+            "https://drive.google.com/uc?export=view&id=1Gu458qC1kjJ87ir21GhVzvTToNTEK07J", # Dwi
+            "https://drive.google.com/uc?export=view&id=1G7FQKUgX8ab-bM9kTcjvk9gzCofNX9yj", # Gym
+            "https://drive.google.com/uc?export=view&id=15WtP-SdtLP2a8JxQMUCAWsHGbsTGNXJA", # Nasywa
+            "https://drive.google.com/uc?export=view&id=1HDF9s71In-7WdFP-gZvSTor0xp8aTx6-", # Priska
+            "https://drive.google.com/uc?export=view&id=15MGjvloc7FlAw0RcS6F4ycYyHlXywVbQ", # Arsal
+            "https://drive.google.com/uc?export=view&id=1tZu_kFOyOxpYC59OklFAlWhy6tIXF7q5", # Abit
+            "https://drive.google.com/uc?export=view&id=1JtZpC6fMnRJosv19nZRpjHqB2Ba_dEj0", # Akmal
+            "https://drive.google.com/uc?export=view&id=1KpJ8jtb-5PcoNgTHJ9XvvrX5gXz42gPd", # Hermawan
+            "https://drive.google.com/uc?export=view&id=1L49j75KMEZzYIvT_himjLcc9yu0y_iDk", # Khusnun
         ]
         data_list = [
             {
