@@ -395,10 +395,8 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=16bsavNxEILg3rz4xuVCBVZN_RPICxYsX", # Bang Deri
             "https://drive.google.com/uc?export=view&id=16rBR51Lp_MwHKDY2OJ_a6-kRF-27heZs", # Kak Okta
             "https://drive.google.com/uc?export=view&id=178aats7Tw_fCLirSLJ-FVrAI1nge1bTg", # Bang Deyvan
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Bang Ibnu Farhan
             "https://drive.google.com/uc?export=view&id=1-EXysfIIBunic0P_VphxtbPyROpKswND", # Kak Johannes
             "https://drive.google.com/uc?export=view&id=1690u3fW6Fr628MTKksPe3lrRACOR2Eov", # Bang Kemas
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Bang Leonard
             "https://drive.google.com/uc?export=view&id=16R3u2op_gAZRgmF0c7dj7mXzJ1zOq0B5", # Kak Presilia
             "https://drive.google.com/uc?export=view&id=17IlZkVx6jMCOl3gsKK2WMwq5FlAB8qXT", # Kak Rafa Aqilla
             "https://drive.google.com/uc?export=view&id=1-9A_hmnpAOJmUCbrgLnk09L813BxRzwr", # Bang Sahid Maulana
@@ -522,17 +520,6 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semngat terus kuliahnya bang" 
             },
             {
-                "nama": "Ibnu Farhan Al-Ghifari",
-                "nim": "  ",
-                "umur": "  ",
-                "asal": "  ",
-                "alamat": "  ",
-                "hobbi": "     ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"   " 
-            },
-            {
                 "nama": "Johannes Krisjon Silitonga",
                 "nim": "122450043",
                 "umur": "19",
@@ -553,17 +540,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@kemasverii",
                 "kesan": "Abang nya baik dan humble banget",  
                 "pesan": "Semangat terus bangg dan sukses selalu" 
-            },
-            {
-                "nama": "Leonard Andreas Napitupulu",
-                "nim": "  ",
-                "umur": "  ",
-                "asal": "  ",
-                "alamat": "  ",
-                "hobbi": "  ",
-                "sosmed": "@ ",
-                "kesan": "  ",  
-                "pesan":"   " 
             },
             {
                 "nama": "Presilia",
@@ -673,7 +649,6 @@ elif menu == "Departemen MIKFES":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1zCUwPpACjhziarhuBa6YUq0VH68-1cCZ", # Bang Rafi
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Kak Annisa Novantika
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Bang Mujadid Choirus
             "https://drive.google.com/uc?export=view&id=1X422lYSp9MRuelHjWTNTLa-7tOf81ZGt", # Bang Ahmad Sahidin
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Bang Fadhil Fitra
             "https://drive.google.com/uc?export=view&id=1Wyzut3jcc-hQW3an5lToyOkPjVD0VL91", # Bang Regi
@@ -718,17 +693,6 @@ elif menu == "Departemen MIKFES":
                 "pesan":" Semangat terus kuliahnya kak" 
             },
             {
-                "nama": "Mujadid Choirus Surya",
-                "nim": "  ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": "  ",
-                "sosmed": "@ ",
-                "kesan": "  ",  
-                "pesan":"  " 
-            },
-            {
                 "nama": "Ahmad Sahidin Akbar",
                 "nim": "122450044",
                 "umur": "20",
@@ -747,8 +711,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Game",
                 "sosmed": "@fadhilfwee",
-                "kesan": "  ",  
-                "pesan":"  " 
+                "kesan": "Abang nya baik dan asik banget",  
+                "pesan":"Semangat terus ya banggg" 
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
