@@ -700,15 +700,15 @@ elif menu == "Departemen MIKFES":
                 "pesan":"semangat dan lancar terus kuliahnya bang" # 4
             },
             {
-                "nama": "Fadhil Fitra Wijaya",
-                "nim": "122450082",
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450013",
                 "umur": "20",
-                "asal": "Bekasi",
-                "alamat": "Teluk Betung",
+                "asal": "Lampung",
+                "alamat": "Karang Anyar",
                 "hobbi": "Main Game",
-                "sosmed": "@fadhilfwee",
-                "kesan": "abangnya keliatan asik",  
-                "pesan":"semangatt ya bang" # 5
+                "sosmed": "@sudo.syahrulramadhannn",
+                "kesan": "abangnya baik ",  
+                "pesan":"sukses dan semangat terus bang" # 19
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -865,15 +865,15 @@ elif menu == "Departemen MIKFES":
                 "pesan":" semangat ya abangg  " # 15
             },
             {
-                "nama": "Happy Syahrul Ramadhan",
-                "nim": "122450013",
+                "nama": "Fadhil Fitra Wijaya",
+                "nim": "122450082",
                 "umur": "20",
-                "asal": "Lampung",
-                "alamat": "Karang Anyar",
+                "asal": "Bekasi",
+                "alamat": "Teluk Betung",
                 "hobbi": "Main Game",
-                "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": "abangnya baik ",  
-                "pesan":"sukses dan semangat terus bang" # 19
+                "sosmed": "@fadhilfwee",
+                "kesan": "abangnya keliatan asik",  
+                "pesan":"semangatt ya bang" # 5
             },
             {
                 "nama": "Mujadid Choirus Surya",
@@ -1319,16 +1319,16 @@ elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1xt7tMxfnc9LiTnlHrfmX_nQRcRexzAi5",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1y-GJBPzpUlGqAgWsIUqBhsFAjQk7g0RP",
+            "https://drive.google.com/uc?export=view&id=1xX4skLLv2dRSL1q99m1CAQtWMdzxrp04",
             "https://drive.google.com/uc?export=view&id=1y-WwhbjczH1lH0DYHseBGh_rb2W8JWU9",
             "https://drive.google.com/uc?export=view&id=1xuo3aDabCw6YiENEOJDSBQC-AqLRvtMD",
             "https://drive.google.com/uc?export=view&id=1xTWSZgbCrhHlApGR3HysBc7J36tK1i2p",
             "https://drive.google.com/uc?export=view&id=1xVLgGFoibgX0_70bnw_r01iNPtu4vNcA",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1xTHJaK1miyQXGVx1DeCBF4VQVmkytlwb",
             "https://drive.google.com/uc?export=view&id=1xmeCHCfLoNFh0N-rpcdhO7jOsJb074Kn",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1xz9y7wYaR1Mq0IPRE9NvPO0bON3qSElo",
         ]
         data_list = [
             {
