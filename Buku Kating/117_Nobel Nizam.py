@@ -1351,17 +1351,17 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Adrian
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Adisty
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Nabila
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Ahmad
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Danang
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Farrel
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Tessa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Nabilah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Aliva
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Dhafin
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Elia
+            "https://drive.google.com/uc?export=view&id=1n978aJvH3MO6O7i6WWuESs6EbeqDEeGf", #Bg Adrian
+            "https://drive.google.com/uc?export=view&id=1mF0toPXZcvtqprzN7VpikBBFP_I2D8Vu", #Kak Adisty
+            "https://drive.google.com/uc?export=view&id=1huaaHEOPgYufRqMssY4yY0VGI8Qnco3D", #Kak Nabila
+            "https://drive.google.com/uc?export=view&id=1j9k2OoLVzbE1gELtitYeYRWrpGBXHfI7", #Bg Ahmad
+            "https://drive.google.com/uc?export=view&id=1Xk2z-ESiVMGdPEIJBiBtzxOKAkJZs084", #Bg Danang
+            "https://drive.google.com/uc?export=view&id=1OVaw02mxdi1gmcXUikIGflkTr9t3tFL-", #Bg Farrel
+            "https://drive.google.com/uc?export=view&id=1hviN7krPzMZ49meWpa6Go5ECRJkGjMgS", #Kak Tessa
+            "https://drive.google.com/uc?export=view&id=1hajF0rnpDv66CQLP33BWfkIYk-4RRWoV", #Kak Nabilah
+            "https://drive.google.com/uc?export=view&id=1mrY18xNXlqODAau40SLGvEWKmHYvcsc4", #Kak Aliva
+            "https://drive.google.com/uc?export=view&id=1n-e-iWhqX3QRktIW4OdKhFDRn8vUCiMz", #Bg Dhafin
+            "https://drive.google.com/uc?export=view&id=1ZV6_p5CJ5YIM8jlZMoDgCG6tRpMW_Cg6", #Kak Elia
         ]
         data_list = [
             {
