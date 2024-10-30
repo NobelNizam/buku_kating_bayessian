@@ -969,7 +969,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Sumatera Barat",
                 "alamat": "Korpri",
-                "hobi": "dengerin musik",
+                "hobbi": "dengerin musik",
                 "sosmed": "@deaa.rsn",
                 "kesan": "Kakak nya sangat baik dan sangat menginspirasi dalam kehidupan",  
                 "pesan": "Tetap semangat dalam menjalani perkuliahannya kak"
@@ -980,7 +980,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "19",
                 "asal": "Bali",
                 "alamat": "Belwis",
-                "hobi": "Surving sambil snorkeling",
+                "hobbi": "Surving sambil snorkeling",
                 "sosmed": "@esteriars",
                 "kesan": "Kakak nya sangat menginspirasi dalam kehidupan ",  
                 "pesan": "Tetap semangat ya kak dalam menjalani dunia perkuliahan"
@@ -991,7 +991,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "19",
                 "asal": "Kepulauan Seribu",
                 "alamat": "Way Halim",
-                "hobi": "Main Paralayang",
+                "hobbi": "Main Paralayang",
                 "sosmed": "@nateee__15",
                 "kesan": "Kakak nya sangat baik dan sangat mengasyikkan ",  
                 "pesan": "Semangat terus kak dalam menjalani perkuliahannya dan jaga kesehatan ya kak"
@@ -1002,7 +1002,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Jakarta Timur",
                 "alamat": "Belwis",
-                "hobi": "Tidur",
+                "hobbi": "Tidur",
                 "sosmed": "@nvliaadinda",
                 "kesan": "Kakak nya sangat baik dan informatif dalam menjelaskan sesuatu",  
                 "pesan": "Jangan lupa untuk tetap semangat dalam menjalani dunia perkuliahan kak"
@@ -1013,7 +1013,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Bnadung",
                 "alamat": "Way Kandis",
-                "hobi": "Menjahit Baju",
+                "hobbi": "Menjahit Baju",
                 "sosmed": "@jasminednva",
                 "kesan": "Kakaknya sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
                 "pesan": "Semangat terus kak dalam menjalani hari-harinya"
@@ -1024,7 +1024,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Kalianda",
                 "alamat": "Korpri",
-                "hobi": "Berenang",
+                "hobbi": "Berenang",
                 "sosmed": "@tobiassiagian",
                 "kesan": "Abangnya sangat baik dan sangat mengasyikkan",  
                 "pesan": "Semangat kak dalam menjalani hari-harinya, semoga urusannya dalam dunia perkuliahan dapat diselesaikan dengan mudah"
@@ -1035,7 +1035,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "19",
                 "asal": "Makassar",
                 "alamat": "Pemda",
-                "hobi": "Main Bowling",
+                "hobbi": "Main Bowling",
                 "sosmed": "@yo_annamnk",
                 "kesan": "Kakak nyaSangat informatif dalam menjelaskan sesuatu",  
                 "pesan": "Tetap semangat kak dalam menjalani hari-harinya"
@@ -1046,7 +1046,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
-                "hobi": "Berenang",
+                "hobbi": "Berenang",
                 "sosmed": "@rzkdrnnn",
                 "kesan" : "Abangnya sangat informatif dalam menjelaskan sesuatu dan banyak memberikan motivasi",  
                 "pesan" : "Semoga kegiatannya di dalam maupun di luar perkuliahan tetap lancar dan tetap semangat bang"
@@ -1057,7 +1057,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Bandar lampung",
                 "alamat": "Bandar Lampung",
-                "hobi": "Berkuda",
+                "hobbi": "Berkuda",
                 "sosmed": "@arafiramadhanmaulana",
                 "kesan" : "Aabangnya sangat baik, informatif dalam menerangkan suatu permasalahan dan sangat menginspirasi",  
                 "pesan" : "Tetap semangat kak dalam menjalani harinya, semoga urusannya baik di akademik maupun non akademik dapat berjalan dengan lancar"
@@ -1068,7 +1068,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Muara Enim",
                 "alamat": "Korpri",
-                "hobi": "Tepuk Semangat",
+                "hobbi": "Tepuk Semangat",
                 "sosmed": "@u_yippy",
                 "kesan": "Kakak nya Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
                 "pesan": "Semoga selalu dilancarkan semua urusannya kak, jangan lupa untuk tetap semangat kak dalam menjalani kehidupan"
@@ -1079,7 +1079,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Padang",
                 "alamat": "Sukarame",
-                "hobi": "Membaca",
+                "hobbi": "Membaca",
                 "sosmed": "@chlfawww",
                 "kesan" : "Kakak nya sangat baik dan sangat menginspirasi dalam kehidupan",  
                 "pesan" : "Tetap semangat dalam menjalani perkuliahannya kak dan jaga kesehatan ya kak"
@@ -1090,7 +1090,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Sumatera Barat",
                 "alamat": "Sukarame",
-                "hobi": "Nonton youtube",
+                "hobbi": "Nonton youtube",
                 "sosmed": "@alfaritziirvan",
                 "kesan": "Abangnya sangat menginspirasi dalam kehidupan ",  
                 "pesan": "Tetap semangat kak dalam menjalani dunia perkuliahan"
@@ -1101,7 +1101,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Teluk Betung",
-                "hobi": "Bertemu anak pengmas",
+                "hobbi": "Bertemu anak pengmas",
                 "sosmed": "@izzalutfia",
                 "kesan" : "Kakak nya sangat baik dan sangat mengasyikkan ",  
                 "pesan" : "Semangat terus kak dalam menjalani perkuliahannya dan jaga kesehatan ya kak"
@@ -1112,7 +1112,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Rajabasa",
-                "hobi": "Mengaji",
+                "hobbi": "Mengaji",
                 "sosmed": "@alyaavanevi",
                 "kesan" : "Kakak nya sangat seru dan informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Tetap semangat dalam menjalani dunia perkuliahan kak"
@@ -1123,7 +1123,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Lampung Tengah",
                 "alamat": "Sukarame",
-                "hobi": "Duduk di wico",
+                "hobbi": "Duduk di wico",
                 "sosmed": "@rayths_",
                 "kesan" : "Abangnya sangat baik dan sangat informatif dalam menjelaskan sesuatu",  
                 "pesan" : "Semangat terus kak dalam menjalani hari-harinya bang"
@@ -1134,7 +1134,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Way Kanan",
                 "alamat": "Sukarame",
-                "hobi": "Tidur",
+                "hobbi": "Tidur",
                 "sosmed": "@tria_y062",
                 "kesan" : "Kakak nya sangat baik dan sangat mengasyikkan",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya"
