@@ -927,7 +927,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Jatimulyo",
                 "hobbi": "Nyari Solar",
                 "sosmed": "@yogyst",
-                "kesan": "Abang nya seru dan sangat informatif dalam memberikan banyak masukan",  
+                "kesan": "Bang yogy seru dan sangat informatif dalam memberikan banyak masukan",  
                 "pesan":"semangat terus kuliahnya ya banggg dan sukses selalu!!!"
             },
             {
