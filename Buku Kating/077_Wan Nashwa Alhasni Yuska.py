@@ -1361,17 +1361,6 @@ elif menu == "Departemen SSD":
                 "pesan":"sehat selalu kakk"# 1
             },
             {
-                "nama": "Kakak 4",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
-            },
-            {
                 "nama": "Ahmad Rizqi",
                 "nim": "122450138",
                 "umur": "20",
