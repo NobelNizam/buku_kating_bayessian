@@ -551,8 +551,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Belwis",
                 "hobbi": "Baca Webtoon",
                 "sosmed": "@rafaaqilla",
-                "kesan": "  ",  
-                "pesan":"  " # 16
+                "kesan": "kerenn",  
+                "pesan":" semangat belajarnya " # 16
             },
             {
                 "nama": "Sahid Maulana",
