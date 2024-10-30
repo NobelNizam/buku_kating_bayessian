@@ -1174,20 +1174,20 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Dimas
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Catherine
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Akbar
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Rani
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Rendra
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Salwa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Yosia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Sigit
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Azizah
+            "https://drive.google.com/uc?export=view&id=1xBj_MBINd4_WQN_UkFMMMs3JULDHliTD", #Bg Dimas
+            "https://drive.google.com/uc?export=view&id=1lK8RSTv-aZ5mf0wqHvYp_BKt6Ehe5Oou", #Kak Catherine
+            "https://drive.google.com/uc?export=view&id=1ydmZOxPXkY9prue1LcGgNhOfwPyjv-4W", #Bg Akbar
+            "https://drive.google.com/uc?export=view&id=1nUerNlDlMVmf069gfvWorlIR25pUhDPR", #Kak Rani
+            "https://drive.google.com/uc?export=view&id=1lgVDLT90-cHF0z_32LC7H0cnwp-x_g__", #Bg Rendra
+            "https://drive.google.com/uc?export=view&id=1s2p07W4h9TxTt4Z3k8yXST9Ak95MZn0j", #Kak Salwa
+            "https://drive.google.com/uc?export=view&id=1m7Jf4MbpKYgQxpiy59r8rzacii2FiEnz", #Bg Yosia
+            "https://drive.google.com/uc?export=view&id=1lCREZl-OcoDkht4VN_M5XOzIW46m87X4", #Bg Sigit
+            "https://drive.google.com/uc?export=view&id=1TwAJw93SXCrrWOEiJH4NfSNhVd03f4px", #Kak Azizah
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Dearni
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Meira
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Rendi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Renta
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Josua
+            "https://drive.google.com/uc?export=view&id=13DUTfvwwFj-ZSobye2s00yDrrR0rfr4E", #Kak Meira
+            "https://drive.google.com/uc?export=view&id=1QvoTPY0rmtITNuiIWkM-PUJ4ENZpiCkJ", #Bg Rendi
+            "https://drive.google.com/uc?export=view&id=1sav7deq-OMGp-73shXQNAx12p-5VJ5VK", #Kak Renta
+            "https://drive.google.com/uc?export=view&id=1taC2O1HNW-zVyQghaNZl8WYdja1IlEI5", #Bg Josua
         ]
         data_list = [
             {
