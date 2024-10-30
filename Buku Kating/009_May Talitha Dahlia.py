@@ -1554,6 +1554,17 @@ elif menu == "Departemen MEDKRAF":
                 "pesan" : "Semoga selalu dilancarkan semua urusannya ya kak"
             },
             {
+                "nama"  : "Eka Fidiya Putri",
+                "nim"   : "122450045",
+                "umur"  : "20",
+                "asal"  : "Natar, Lampung Selatan",
+                "alamat": "Natar, Lampung Selatan",
+                "hobbi" : "Menyibukkan Diri",
+                "sosmed": "@ekafdyaptri",
+                "kesan" : "Kakak nya baik dan ramah banget",  
+                "pesan" : "Semoga selalu dilancarkan semua urusannya ya kak"
+            },
+            {
                 "nama"  : "Najla Juwairia",
                 "nim"   : "122450037",
                 "umur"  : "19",
