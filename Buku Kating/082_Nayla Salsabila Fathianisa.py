@@ -818,9 +818,9 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=179XWbWjA0HJPAugtPThC7yIrY-RhiB1m",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=13arx-JTSiSNqadsn3rF6u9-pI2ITROJZ",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -1073,7 +1073,7 @@ elif menu == "Departemen Internal":
         ]
         data_list = [
             {
-                "nama": "Kakak 1",
+                "nama": "Dimas Rizky Ramadhan",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
