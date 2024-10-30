@@ -870,17 +870,6 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 20
             },
-            {
-                "nama": "Vita Anggraini",
-                "nim": "  ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": "  ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"  " # 21
-            },
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
@@ -1242,6 +1231,7 @@ elif menu == "Departemen Internal":
                 "kesan": "  ",  
                 "pesan":"  " # 8
             },
+            
             {
                 "nama": "Azizah Kusumah Putri",
                 "nim": "122450068",
@@ -1253,17 +1243,7 @@ elif menu == "Departemen Internal":
                 "kesan": "  ",  
                 "pesan":"  " # 9
             },
-            {
-                "nama": "Dearni Monica Br Manik",
-                "nim": " ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": " ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"  " # 10
-            },
+
             {
                 "nama": "Meira Listyaningrum",
                 "nim": "122450011",
@@ -1275,6 +1255,7 @@ elif menu == "Departemen Internal":
                 "kesan": "  ",  
                 "pesan":"  " # 11
             },
+
             {
                 "nama": "Rendi Alexander Hutagalung",
                 "nim": "122450057",
@@ -1286,6 +1267,7 @@ elif menu == "Departemen Internal":
                 "kesan": "  ",  
                 "pesan":"  " # 12
             },
+
             {
                 "nama": "Renta Siahaan",
                 "nim": "122450070",
@@ -1416,17 +1398,7 @@ elif menu == "Departemen SSD":
                 "kesan": "  ",  
                 "pesan":"  " # 8
             },
-            {
-                "nama": "Alvia Asrinda Br.Gintng",
-                "nim": " ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": " ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"  " # 9
-            },
+
             {
                 "nama": "Dhafin Razaqa Luthfi",
                 "nim": "122450133",
