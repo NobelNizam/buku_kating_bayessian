@@ -648,7 +648,7 @@ elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1zCUwPpACjhziarhuBa6YUq0VH68-1cCZ", # Bang Rafi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Kak Annisa Novantika
+            "https://drive.google.com/uc?export=view&id=17neg-xHjAZdOJ8VNP6QkvBbaXZHrW2GN", # Kak Annisa Novantika
             "https://drive.google.com/uc?export=view&id=1X422lYSp9MRuelHjWTNTLa-7tOf81ZGt", # Bang Ahmad Sahidin
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Bang Fadhil Fitra
             "https://drive.google.com/uc?export=view&id=1Wyzut3jcc-hQW3an5lToyOkPjVD0VL91", # Bang Regi
@@ -666,10 +666,10 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=13SUL50sHyPQ6-FGfAylyRNivmTWkk1Qo", # Kak Febiya
             "https://drive.google.com/uc?export=view&id=1z41N0_bf0PrASz_RB3pVJxkuuZGKM9z-", # Bang Happy Syahrul
             "https://drive.google.com/uc?export=view&id=1zGxreA6YogJr7Ax3ro1ZhddqIsvAVe5K", # Bang Randa
-            "https://drive.google.com/uc?export=view&id=17neg-xHjAZdOJ8VNP6QkvBbaXZHrW2GN", # Kak Vita Anggraini
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Kak Vita Anggraini
             
         ]
-        data_list = [
+        data_list = [     
             {
                 "nama": "Rafi Fadhlillah",
                 "nim": "121450143",
@@ -958,7 +958,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Batam, Kepulauan Riau",
                 "alamat": "Belwis",
-                "hobi": "Menggambar",
+                "hobbi": "Menggambar",
                 "sosmed": "@bastiansilaban_",
                 "kesan": "Abang nya Sangat informatif dalam menerangkan sesuatu dan sangat menginspirasi",  
                 "pesan": "Semoga selalu dilancarkan semua urusannya bang, dan tetap semangat bang dalam menjalani kehidupan"
@@ -1138,7 +1138,7 @@ elif menu == "Departemen Eksternal":
                 "sosmed": "@tria_y062",
                 "kesan" : "Kakak nya sangat baik dan sangat mengasyikkan",  
                 "pesan" : "Semangat kak dalam menjalani hari-harinya"
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
