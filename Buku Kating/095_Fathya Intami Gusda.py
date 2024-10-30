@@ -1359,7 +1359,7 @@ elif menu == "Departemen SSD":
                 "umur": "21",
                 "asal":"Simalungun",
                 "alamat": "Airan",
-                "hobbi": "",
+                "hobbi": "Menghitung uang",
                 "sosmed": "@zhjung",
                 "kesan": "baikk dan ramah kakaknyaa",  
                 "pesan":"semangat kuliahnya yaa kakak "# 1
