@@ -673,17 +673,6 @@ elif menu == "Departemen MIKFES":
                 "pesan":"  " # 2
             },
             {
-                "nama": "Mujadid Choirus Surya",
-                "nim": "  ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": "  ",
-                "sosmed": "@ ",
-                "kesan": "  ",  
-                "pesan":"  " # 3
-            },
-            {
                 "nama": "Ahmad Sahidin Akbar",
                 "nim": "122450044",
                 "umur": "20",
@@ -705,6 +694,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 5
             },
+            
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
                 "nim": "122450031",
@@ -716,6 +706,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 6
             },
+
             {
                 "nama": "Syalaisha Andina Putriansyah",
                 "nim": "122450121",
@@ -727,17 +718,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 7
             },
-            {
-                "nama": "Natanael Oktavianus Partahan Sihombing",
-                "nim": "121450107",
-                "umur": "20",
-                "asal": "Jakarta",
-                "alamat": "Kemiling",
-                "hobbi": "Membuka Wisata HMSD",
-                "sosmed": "@natanaeloks",
-                "kesan": "  ",  
-                "pesan":"  " # 8
-            },
+
             {
                 "nama": "Anwar Muslim",
                 "nim": "122450117",
@@ -749,6 +730,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 9
             },
+
             {
                 "nama": "Deva Anjani Khayyuninafsyah",
                 "nim": "122450014",
@@ -760,6 +742,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 10
             },
+
             {
                 "nama": "Dinda Nababan",
                 "nim": "122450120",
@@ -771,6 +754,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 11
             },
+
             {
                 "nama": "Marleta Cornelia Leander",
                 "nim": "122450092",
@@ -848,17 +832,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 18
             },
-            {
-                "nama": "Happy Syahrul Ramadhan",
-                "nim": "122450013",
-                "umur": "20",
-                "asal": "Lampung",
-                "alamat": "Karang Anyar",
-                "hobbi": "Main Game",
-                "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": "  ",  
-                "pesan":"  " # 19
-            },
+
             {
                 "nama": "Randa Andriana Putra",
                 "nim": "122450083",
