@@ -1566,6 +1566,7 @@ elif menu == "Departemen MEDKRAF":
                 "kesan": " ",  
                 "pesan":" "
             },
+
             {
                 "nama": "Muhammad Arsal Ranjana Utama",
                 "nim": "121450111",
@@ -1577,6 +1578,7 @@ elif menu == "Departemen MEDKRAF":
                 "kesan": " ",  
                 "pesan":" "# 1
             },
+
             {
                 "nama": "Abit Ahmad Oktarian",
                 "nim": "122450042",
@@ -1588,6 +1590,7 @@ elif menu == "Departemen MEDKRAF":
                 "kesan": " ",  
                 "pesan":" "
             },
+
             {
                 "nama": "Akmal Faiz Abdillah",
                 "nim": "122450114",
@@ -1599,6 +1602,7 @@ elif menu == "Departemen MEDKRAF":
                 "kesan": " ",  
                 "pesan":" "# 1
             },
+            
             {
                 "nama": "Hermawan Manurung",
                 "nim": "122450069",
