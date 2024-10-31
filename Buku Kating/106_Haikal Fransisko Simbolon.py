@@ -1402,21 +1402,28 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1dVuvFXENLh6csJQ6iwaNjgRm9crbNAtx", #Bg Adrian
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Adisty
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Nabila
-            "https://drive.google.com/uc?export=view&id=1fLCviEJa-QVraVBdyjZtsyuoEXju-Bv0", #Bg Ahmad
-            "https://drive.google.com/uc?export=view&id=1fKc_CQXP_RU18_hI3hbsm_JY4S3rCB74", #Bg Danang
-            "https://drive.google.com/uc?export=view&id=1e9qucRKQK7I_eeMw5WMQJ__RRSJ2VUHR", #Bg Farrel
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Tessa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Nabilah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Aliva
-            "https://drive.google.com/uc?export=view&id=1dvWd_9DCUfS56gbdO3RjQ2N31tgLyX2V", #Bg Dhafin
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Elia
+            "https://drive.google.com/uc?export=view&id=1lr3Jyd4TOmzm3zHd448-neWr2qxNI_wQ",
+            "https://drive.google.com/uc?export=view&id=1TOorjBfejp2KENN7rpn99MCflH0SNoUL",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #3 kosong
+            "https://drive.google.com/uc?export=view&id=1BZwgwK6ltuA1E_OdqkOk9g4PfF-2--Nl", 
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #5 kosong
+            "https://drive.google.com/uc?export=view&id=1Y28i69Ih0MujTdyDA8CboWO61AT1vqzC",
+            "https://drive.google.com/uc?export=view&id=1TIfI104UfZQu-KZf6tmhh8kmZEhrGcsv",
+            "https://drive.google.com/uc?export=view&id=1Ot3Rw15kMC6CMGs35k_QWtLpLDHVP6cc",
+            "https://drive.google.com/uc?export=view&id=1M21xxe9j5C6Mu0jXEu9nMDVzmx_8qpgw",
+            "https://drive.google.com/uc?export=view&id=1NeE1nrYk66oQR3GDrWYCaijr-s9bfsBd",
+            "https://drive.google.com/uc?export=view&id=1O3mcWOg6ZCC6QaE0dPb-_zUq59mGQaS3",
+            "https://drive.google.com/uc?export=view&id=1ETeKwfeqEcedJCjI1weoAk1YM6MzbdND", #12
+            "https://drive.google.com/uc?export=view&id=1sULi6TM7_eRUWSKkuv-9RQ73lRzV1e8g",
+            "https://drive.google.com/uc?export=view&id=1QdCDUCBAzz46YTJYecVb9kWiQExjh-p-",
+            "https://drive.google.com/uc?export=view&id=1YH0YlHm0csCETCfSH0LKpMfFPA8Gs6sc",
+            "https://drive.google.com/uc?export=view&id=1GRau9TxTpUXJwAY8hzyTfiZf8oCWkYF2",
+            "https://drive.google.com/uc?export=view&id=1b6YVSgx3kN0tmtDU8JOUB6H6yWj0GAnB",
+            "https://drive.google.com/uc?export=view&id=1uk_FzqXk4pHELnTNTYTFgYmVI-Yfmlgv",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-<<<<<<< HEAD
                 "nama": "Wahyudiyanto",
                 "nim": "121450040",
                 "umur": "22",
@@ -1437,54 +1444,22 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@elokfiola",
                 "kesan": " ",  
                 "pesan":" "# 1
-=======
-                "nama": "Andrian Agustinus Lumban Gaol",
-                "nim": "121450090",
-                "umur": "21",
-                "asal": "Panjibako",
-                "alamat": "Jl. Bel",
-                "hobbi": "Mencari Uang",
-                "sosmed": "@andriangaol",
-                "kesan": "  ",  
-                "pesan":"  " # 1
             },
             {
-                "nama": "Adisty Syawaida Ariyanto",
-                "nim": "121450136",
-                "umur": "23",
-                "asal": "Metro",
-                "alamat": "Sukarame",
-                "hobbi": "Nonton film",
-                "sosmed": "@adistysa_",
-                "kesan": "  ",  
-                "pesan":"  " # 2
->>>>>>> e6af4966bdf979d6cbb0f1545b54c7126f7bddfe
-            },
-            {
-                "nama": "Nabila Azhari",
-                "nim": "121450029",
+                "nama": "Arsyiah Azahra",
+                "nim": "121450035",
                 "umur": "21",
-<<<<<<< HEAD
                 "asal":"Bandar Lampung",
                 "alamat": "Tanjung Senang",
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah.",
                 "kesan": " ",  
                 "pesan":" "
-=======
-                "asal": "Simalungun",
-                "alamat": "Airan",
-                "hobbi": "Menghitung Uang",
-                "sosmed": "@zhjung",
-                "kesan": "  ",  
-                "pesan":"  " # 3
->>>>>>> e6af4966bdf979d6cbb0f1545b54c7126f7bddfe
             },
             {
-                "nama": "Ahmad Rizqi",
-                "nim": "122450138",
+                "nama": "Cintya Bella",
+                "nim": "122450066",
                 "umur": "20",
-<<<<<<< HEAD
                 "asal":"Bandar Lampung",
                 "alamat": "Teluk",
                 "hobbi": "Ngegym",
@@ -1513,53 +1488,11 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@patriciadiajeng",
                 "kesan": " ",  
                 "pesan":" "# 1
-=======
-                "asal": "Bukit Tingi",
-                "alamat": "Airan",
-                "hobbi": "badminton",
-                "sosmed": "@ahmad.ris45",
-                "kesan": "  ",  
-                "pesan":"  " # 4
             },
             {
-                "nama": "Danang Hilal Kurniawan",
-                "nim": "122450085",
-                "umur": "21",
-                "asal": "Bandar Lampung",
-                "alamat": "Airan",
-                "hobbi": "Touring",
-                "sosmed": "@dananghk_",
-                "kesan": "  ",  
-                "pesan":"  " # 5
-            },
-            {
-                "nama": "Farrel Julio Akbar",
-                "nim": "122450110",
+                "nama": "Rahma Neliyana",
+                "nim": "122450036",
                 "umur": "20",
-                "asal": "Bogor",
-                "alamat": "Lapas",
-                "hobbi": "Bebas",
-                "sosmed": "@farel_julio",
-                "kesan": "  ",  
-                "pesan":"  " # 6
-            },
-            {
-                "nama": "Tessa Kania Sagala",
-                "nim": "122450040",
-                "umur": "20",
-                "asal": "Simalungun",
-                "alamat": "Pemda",
-                "hobbi": "Menulis",
-                "sosmed": "@tesakanias",
-                "kesan": "  ",  
-                "pesan":"  " # 7
->>>>>>> e6af4966bdf979d6cbb0f1545b54c7126f7bddfe
-            },
-            {
-                "nama": "Nabilah Andika Fitriati",
-                "nim": "121450139",
-                "umur": "20",
-<<<<<<< HEAD
                 "asal":"Lampung",
                 "alamat": "Jl.Pembangunan 5, Sukarame",
                 "hobbi": "Makan Geprek",
@@ -1633,7 +1566,6 @@ elif menu == "Departemen MEDKRAF":
                 "kesan": " ",  
                 "pesan":" "
             },
-
             {
                 "nama": "Muhammad Arsal Ranjana Utama",
                 "nim": "121450111",
@@ -1645,7 +1577,6 @@ elif menu == "Departemen MEDKRAF":
                 "kesan": " ",  
                 "pesan":" "# 1
             },
-
             {
                 "nama": "Abit Ahmad Oktarian",
                 "nim": "122450042",
@@ -1657,7 +1588,6 @@ elif menu == "Departemen MEDKRAF":
                 "kesan": " ",  
                 "pesan":" "
             },
-
             {
                 "nama": "Akmal Faiz Abdillah",
                 "nim": "122450114",
@@ -1669,7 +1599,6 @@ elif menu == "Departemen MEDKRAF":
                 "kesan": " ",  
                 "pesan":" "# 1
             },
-            
             {
                 "nama": "Hermawan Manurung",
                 "nim": "122450069",
@@ -1702,47 +1631,6 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@i",
                 "kesan": " ",  
                 "pesan":" "
-=======
-                "asal": "Kedaton",
-                "alamat": "Kedaton",
-                "hobbi": "Tidur",
-                "sosmed": "@nabilahanftr",
-                "kesan": "  ",  
-                "pesan":"  " # 8
-            },
-            {
-                "nama": "Alvia Asrinda Br.Gintng",
-                "nim": " ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": " ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"  " # 9
-            },
-            {
-                "nama": "Dhafin Razaqa Luthfi",
-                "nim": "122450133",
-                "umur": "20",
-                "asal": "Bandar Lampung",
-                "alamat": "Jl. Nangkal",
-                "hobbi": "Olahraga",
-                "sosmed": "@dhafinrzqa13",
-                "kesan": "  ",  
-                "pesan":"  " # 10
-            },
-            {
-                "nama": "Elia Meylani Simanjuntak",
-                "nim": "122450026",
-                "umur": "20",
-                "asal": "Bekasi",
-                "alamat": "Korpri",
-                "hobbi": "Main Alat Musik",
-                "sosmed": "@meylanielia",
-                "kesan": "  ",  
-                "pesan":"  " # 11
->>>>>>> e6af4966bdf979d6cbb0f1545b54c7126f7bddfe
             },
         ]
         display_images_with_data(gambar_urls, data_list)
