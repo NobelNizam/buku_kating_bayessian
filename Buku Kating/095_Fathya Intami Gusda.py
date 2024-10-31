@@ -1461,7 +1461,6 @@ elif menu == "Departemen MEDKRAF":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1-Ppx6-Og0sHvMLHmslje_Rxc1omaTBAY",
             "https://drive.google.com/uc?export=view&id=1-VjvJEQhDAd6Fchnx0NpD-nEoyRuCjXO",
-            "https://drive.google.com/uc?export=view&id=10DK-FqAkZmHGCxC2smgfxShFvUZSQpg3",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=10q4rKB1lkp7xCe_b8fViwL_C5zOfFXDR",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
