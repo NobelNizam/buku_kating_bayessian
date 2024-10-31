@@ -1136,9 +1136,9 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Tidur",
                 "sosmed": "@tria_y062",
-                "kesan" : "Kakak nya sangat baik dan sangat mengasyikkan",  
-                "pesan" : "Semangat kak dalam menjalani hari-harinya"
-            }
+                "kesan" : "Kak yuna baik, lembut, dan humble banget",  
+                "pesan" : "Semangat kak dalam menjalani kuliahnya"
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     eksternal()
