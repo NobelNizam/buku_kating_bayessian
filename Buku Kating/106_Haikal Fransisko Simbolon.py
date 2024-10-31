@@ -388,14 +388,11 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1QZFUpsxUKmk9BrRW3uJnLUVHmrQmlIpM", #Bg Deri
             "https://drive.google.com/uc?export=view&id=1cxVfzzrd_YcGfAvI8PLcczSERD1dU39B", #Kak Oktavia
             "https://drive.google.com/uc?export=view&id=1SMvJrB-HaWkgH0Ck1ZHWBhF-QXzyr_on", #Bg Deyvan
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Ibnu
             "https://drive.google.com/uc?export=view&id=1UDHFH-HDrzJUJK9xYdzrOXwBYPawZySj", #Bg Jo
             "https://drive.google.com/uc?export=view&id=1U2kpMXU1PrWqQmWSq5mwZcJ3WcWWJm1E", #Bg Kemas
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg leonard
             "https://drive.google.com/uc?export=view&id=1ZJoKibhydoyU_CR67mRU0A1VK8jROS0l", #Kak Presilia
             "https://drive.google.com/uc?export=view&id=1PY-lHddyZV04kjiC7DKpMFhMOzULHinl", #Kak rafa
             "https://drive.google.com/uc?export=view&id=1d18Y4jQyWBjX0aYZLa6eQjDlml3dLbPR", #Bg Sahid
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Vanessa
             "https://drive.google.com/uc?export=view&id=1dCVTtYt2k3yvrRsTA7EgNWIVUaeVUQlF", #Bg Ateng
             "https://drive.google.com/uc?export=view&id=1czEtR2Oh-TR0wIcJXqYwIkik-ASyKO16", #Bg Gede
             "https://drive.google.com/uc?export=view&id=1qYxaf7JqbMduHmg3xsYzM4K65JiG9Jlw", #Kak Jaclin
@@ -514,17 +511,6 @@ elif menu == "Departemen PSDA":
                 "pesan":"  " # 10
             },
             {
-                "nama": "Ibnu Farhan Al-Ghifari",
-                "nim": "  ",
-                "umur": "  ",
-                "asal": "  ",
-                "alamat": "  ",
-                "hobbi": "     ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"   " # 11
-            },
-            {
                 "nama": "Johannes Krisjon Silitonga",
                 "nim": "122450043",
                 "umur": "19",
@@ -547,17 +533,6 @@ elif menu == "Departemen PSDA":
                 "pesan":"  " # 13
             },
             {
-                "nama": "Leonard Andreas Napitupulu",
-                "nim": "  ",
-                "umur": "  ",
-                "asal": "  ",
-                "alamat": "  ",
-                "hobbi": "  ",
-                "sosmed": "@ ",
-                "kesan": "  ",  
-                "pesan":"   " # 14
-            },
-            {
                 "nama": "Presilia",
                 "nim": "122450081",
                 "umur": "20",
@@ -576,8 +551,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Belwis",
                 "hobbi": "Baca Webtoon",
                 "sosmed": "@rafaaqilla",
-                "kesan": "  ",  
-                "pesan":"  " # 16
+                "kesan": "kerenn",  
+                "pesan":" semangat belajarnya " # 16
             },
             {
                 "nama": "Sahid Maulana",
@@ -589,17 +564,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@sahid_maulana",
                 "kesan": "  ",  
                 "pesan":"  " # 17
-            },
-            {
-                "nama": "Vanessa Olivia Rose",
-                "nim": "121450108",
-                "umur": "20",
-                "asal": "Jakarta",
-                "alamat": "Perum Korpri",
-                "hobbi": "Belajar",
-                "sosmed": "@roselivnes__",
-                "kesan": "  ",  
-                "pesan":"  " # 18
             },
             {
                 "nama": "M. Farhan Athaulloh",
@@ -709,17 +673,6 @@ elif menu == "Departemen MIKFES":
                 "pesan":"  " # 2
             },
             {
-                "nama": "Mujadid Choirus Surya",
-                "nim": "  ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": "  ",
-                "sosmed": "@ ",
-                "kesan": "  ",  
-                "pesan":"  " # 3
-            },
-            {
                 "nama": "Ahmad Sahidin Akbar",
                 "nim": "122450044",
                 "umur": "20",
@@ -741,6 +694,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 5
             },
+            
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
                 "nim": "122450031",
@@ -752,6 +706,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 6
             },
+
             {
                 "nama": "Syalaisha Andina Putriansyah",
                 "nim": "122450121",
@@ -763,17 +718,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 7
             },
-            {
-                "nama": "Natanael Oktavianus Partahan Sihombing",
-                "nim": "121450107",
-                "umur": "20",
-                "asal": "Jakarta",
-                "alamat": "Kemiling",
-                "hobbi": "Membuka Wisata HMSD",
-                "sosmed": "@natanaeloks",
-                "kesan": "  ",  
-                "pesan":"  " # 8
-            },
+
             {
                 "nama": "Anwar Muslim",
                 "nim": "122450117",
@@ -785,6 +730,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 9
             },
+
             {
                 "nama": "Deva Anjani Khayyuninafsyah",
                 "nim": "122450014",
@@ -796,6 +742,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 10
             },
+
             {
                 "nama": "Dinda Nababan",
                 "nim": "122450120",
@@ -807,6 +754,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 11
             },
+
             {
                 "nama": "Marleta Cornelia Leander",
                 "nim": "122450092",
@@ -884,17 +832,7 @@ elif menu == "Departemen MIKFES":
                 "kesan": "  ",  
                 "pesan":"  " # 18
             },
-            {
-                "nama": "Happy Syahrul Ramadhan",
-                "nim": "122450013",
-                "umur": "20",
-                "asal": "Lampung",
-                "alamat": "Karang Anyar",
-                "hobbi": "Main Game",
-                "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": "  ",  
-                "pesan":"  " # 19
-            },
+
             {
                 "nama": "Randa Andriana Putra",
                 "nim": "122450083",
@@ -905,17 +843,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@randaandriana_",
                 "kesan": "  ",  
                 "pesan":"  " # 20
-            },
-            {
-                "nama": "Vita Anggraini",
-                "nim": "  ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": "  ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"  " # 21
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1278,6 +1205,7 @@ elif menu == "Departemen Internal":
                 "kesan": "  ",  
                 "pesan":"  " # 8
             },
+            
             {
                 "nama": "Azizah Kusumah Putri",
                 "nim": "122450068",
@@ -1289,17 +1217,7 @@ elif menu == "Departemen Internal":
                 "kesan": "  ",  
                 "pesan":"  " # 9
             },
-            {
-                "nama": "Dearni Monica Br Manik",
-                "nim": " ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": " ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"  " # 10
-            },
+
             {
                 "nama": "Meira Listyaningrum",
                 "nim": "122450011",
@@ -1311,6 +1229,7 @@ elif menu == "Departemen Internal":
                 "kesan": "  ",  
                 "pesan":"  " # 11
             },
+
             {
                 "nama": "Rendi Alexander Hutagalung",
                 "nim": "122450057",
@@ -1322,6 +1241,7 @@ elif menu == "Departemen Internal":
                 "kesan": "  ",  
                 "pesan":"  " # 12
             },
+
             {
                 "nama": "Renta Siahaan",
                 "nim": "122450070",
@@ -1452,17 +1372,7 @@ elif menu == "Departemen SSD":
                 "kesan": "  ",  
                 "pesan":"  " # 8
             },
-            {
-                "nama": "Alvia Asrinda Br.Gintng",
-                "nim": " ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": " ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"  " # 9
-            },
+
             {
                 "nama": "Dhafin Razaqa Luthfi",
                 "nim": "122450133",
@@ -1488,7 +1398,7 @@ elif menu == "Departemen SSD":
         ]
         display_images_with_data(gambar_urls, data_list)
     ssd()
-
+    
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
@@ -1506,6 +1416,28 @@ elif menu == "Departemen MEDKRAF":
         ]
         data_list = [
             {
+<<<<<<< HEAD
+                "nama": "Wahyudiyanto",
+                "nim": "121450040",
+                "umur": "22",
+                "asal":"Makassar",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton Film",
+                "sosmed": "@wayuraja",
+                "kesan": " ",  
+                "pesan":" "
+            },
+            {
+                "nama": "Elok Fiola",
+                "nim": "122450051",
+                "umur": "19",
+                "asal":"Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobbi": "Ngedit",
+                "sosmed": "@elokfiola",
+                "kesan": " ",  
+                "pesan":" "# 1
+=======
                 "nama": "Andrian Agustinus Lumban Gaol",
                 "nim": "121450090",
                 "umur": "21",
@@ -1526,22 +1458,62 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@adistysa_",
                 "kesan": "  ",  
                 "pesan":"  " # 2
+>>>>>>> e6af4966bdf979d6cbb0f1545b54c7126f7bddfe
             },
             {
                 "nama": "Nabila Azhari",
                 "nim": "121450029",
                 "umur": "21",
+<<<<<<< HEAD
+                "asal":"Bandar Lampung",
+                "alamat": "Tanjung Senang",
+                "hobbi": "Nugas",
+                "sosmed": "@arsyiah.",
+                "kesan": " ",  
+                "pesan":" "
+=======
                 "asal": "Simalungun",
                 "alamat": "Airan",
                 "hobbi": "Menghitung Uang",
                 "sosmed": "@zhjung",
                 "kesan": "  ",  
                 "pesan":"  " # 3
+>>>>>>> e6af4966bdf979d6cbb0f1545b54c7126f7bddfe
             },
             {
                 "nama": "Ahmad Rizqi",
                 "nim": "122450138",
                 "umur": "20",
+<<<<<<< HEAD
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk",
+                "hobbi": "Ngegym",
+                "sosmed": "@cintyabella28",
+                "kesan": " ",  
+                "pesan":" "# 1
+            },
+            {
+                "nama": "Najla Juwairia",
+                "nim": "122450037",
+                "umur": "19",
+                "asal": "Sumatera Utara",
+                "alamat": "Airan",
+                "hobbi": "Menulis, Membaca, Fangirling",
+                "sosmed": "@nanana_minjoo",
+                "kesan": " ",  
+                "pesan":" "
+            },
+            {
+                "nama": "Patricia Leonrea Diajeng Putri",
+                "nim": "122450050",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Jatimulyo",
+                "hobbi": "Nyubit orang",
+                "sosmed": "@patriciadiajeng",
+                "kesan": " ",  
+                "pesan":" "# 1
+=======
                 "asal": "Bukit Tingi",
                 "alamat": "Airan",
                 "hobbi": "badminton",
@@ -1581,11 +1553,156 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@tesakanias",
                 "kesan": "  ",  
                 "pesan":"  " # 7
+>>>>>>> e6af4966bdf979d6cbb0f1545b54c7126f7bddfe
             },
             {
                 "nama": "Nabilah Andika Fitriati",
                 "nim": "121450139",
                 "umur": "20",
+<<<<<<< HEAD
+                "asal":"Lampung",
+                "alamat": "Jl.Pembangunan 5, Sukarame",
+                "hobbi": "Makan Geprek",
+                "sosmed": "@rahmanellyana",
+                "kesan": " ",  
+                "pesan":" "
+            },
+            {
+                "nama": "Try Yani Rizki Nur Rohmah",
+                "nim": "122450020",
+                "umur": "20",
+                "asal":"Lampung Barat",
+                "alamat": "Korpri",
+                "hobbi": "Bernyanyi dan Menonton",
+                "sosmed": "@tryyaniciaaa",
+                "kesan": " ",  
+                "pesan":" "# 1
+            },
+            {
+                "nama": "Muhammad Kaisar Firdaus",
+                "nim": "121450135",
+                "umur": "21",
+                "asal":"Pesawaran",
+                "alamat": "Pulau Damar",
+                "hobbi": "Masih nyari",
+                "sosmed": "@dino_lapet",
+                "kesan": " ",  
+                "pesan":" "
+            },
+            {
+                "nama": "Dwi Ratna Anggraeni",
+                "nim": "122450008",
+                "umur": "20",
+                "asal":"Jambi",
+                "alamat": "Pemda",
+                "hobbi": "Dengerin Musik",
+                "sosmed": "@dwiratnn_",
+                "kesan": " ",  
+                "pesan":" "# 1
+            },
+            {
+                "nama": "Gymnastiar Al Khoarizmy",
+                "nim": "122450096",
+                "umur": "20",
+                "asal":"Serang",
+                "alamat": "Lapangan Golf",
+                "hobbi": "Nyari tuyul baskat",
+                "sosmed": "@jimnn.as",
+                "kesan": " ",  
+                "pesan":" "
+            },
+            {
+                "nama": "Nasywa Nur Afifah",
+                "nim": "122450125",
+                "umur": "20",
+                "asal":"Bekasi",
+                "alamat": "Jalan Durian 2",
+                "hobbi": "Bersih-bersih",
+                "sosmed": "@nsywanaf",
+                "kesan": " ",  
+                "pesan":" "# 1
+            },
+            {
+                "nama": "Priska Silvia Ferantiana",
+                "nim": "122450053",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Jalan Nangka 2",
+                "hobbi": "Karaoke",
+                "sosmed": "@prskslv",
+                "kesan": " ",  
+                "pesan":" "
+            },
+
+            {
+                "nama": "Muhammad Arsal Ranjana Utama",
+                "nim": "121450111",
+                "umur": "21",
+                "asal":"Depok",
+                "alamat": "Jalan Nangka 3",
+                "hobbi": "Koleksi Parfum",
+                "sosmed": "@arsal.utama",
+                "kesan": " ",  
+                "pesan":" "# 1
+            },
+
+            {
+                "nama": "Abit Ahmad Oktarian",
+                "nim": "122450042",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Rajabasa",
+                "hobbi": "Main uno",
+                "sosmed": "@abitahmad",
+                "kesan": " ",  
+                "pesan":" "
+            },
+
+            {
+                "nama": "Akmal Faiz Abdillah",
+                "nim": "122450114",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Perumahan Griya Sukarame",
+                "hobbi": "Tidur",
+                "sosmed": "@_akmal.faiz",
+                "kesan": " ",  
+                "pesan":" "# 1
+            },
+            
+            {
+                "nama": "Hermawan Manurung",
+                "nim": "122450069",
+                "umur": "20",
+                "asal":"Bogor",
+                "alamat": "jalan dekat tol",
+                "hobbi": "Bengong",
+                "sosmed": "@hermawan.mnrng",
+                "kesan": " ",  
+                "pesan":" "
+            },
+            {
+                "nama": "Khusnun Nisa",
+                "nim": "122450078",
+                "umur": "20",
+                "asal":"Muara Pilu, Bakauheni",
+                "alamat": "Belwis",
+                "hobbi": "Berantakin kamar",
+                "sosmed": "@khusnun_nisa335",
+                "kesan": " ",  
+                "pesan":" "# 1
+            },
+            {
+                "nama": "Kakak 1",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": " ",  
+                "pesan":" "
+=======
                 "asal": "Kedaton",
                 "alamat": "Kedaton",
                 "hobbi": "Tidur",
@@ -1625,6 +1742,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@meylanielia",
                 "kesan": "  ",  
                 "pesan":"  " # 11
+>>>>>>> e6af4966bdf979d6cbb0f1545b54c7126f7bddfe
             },
         ]
         display_images_with_data(gambar_urls, data_list)
