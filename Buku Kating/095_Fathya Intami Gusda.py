@@ -1318,17 +1318,17 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1xt7tMxfnc9LiTnlHrfmX_nQRcRexzAi5",
-            "https://drive.google.com/uc?export=view&id=1y-GJBPzpUlGqAgWsIUqBhsFAjQk7g0RP",
-            "https://drive.google.com/uc?export=view&id=1xX4skLLv2dRSL1q99m1CAQtWMdzxrp04",
-            "https://drive.google.com/uc?export=view&id=1y-WwhbjczH1lH0DYHseBGh_rb2W8JWU9",
-            "https://drive.google.com/uc?export=view&id=1xuo3aDabCw6YiENEOJDSBQC-AqLRvtMD",
-            "https://drive.google.com/uc?export=view&id=1xTWSZgbCrhHlApGR3HysBc7J36tK1i2p",
-            "https://drive.google.com/uc?export=view&id=1xVLgGFoibgX0_70bnw_r01iNPtu4vNcA",
+            "https://drive.google.com/uc?export=view&id=1YEUjefayL0mYkgVb5rtqLKiwHIDC-VmK",
+            "https://drive.google.com/uc?export=view&id=1Y6YyDvPNJh1zvlqOcTdw6zFX7hlUCuja",
+            "https://drive.google.com/uc?export=view&id=1XyIUwr712NYLAjl89YfpPjWBZzqQbK51",
+            "https://drive.google.com/uc?export=view&id=1YNgFZtwSLPxQIldaerhcPMRAYTzcmKPI",
+            "https://drive.google.com/uc?export=view&id=1YJNjpivdxImUmO2SUDJQCpf-etEAZh2F",
+            "https://drive.google.com/uc?export=view&id=1Y5fOtiV7C3uD5fjTaDGzTTsB1laWl6Ed",
+            "https://drive.google.com/uc?export=view&id=1Xt5wi-yNIGtvCM23Ubh1S2Nv6adpl1Rf",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1xTHJaK1miyQXGVx1DeCBF4VQVmkytlwb",
-            "https://drive.google.com/uc?export=view&id=1xmeCHCfLoNFh0N-rpcdhO7jOsJb074Kn",
-            "https://drive.google.com/uc?export=view&id=1xz9y7wYaR1Mq0IPRE9NvPO0bON3qSElo",
+            "https://drive.google.com/uc?export=view&id=1Y3ZWAKs514NxXIUEICziNgNCPcfB5ZLO",
+            "https://drive.google.com/uc?export=view&id=1Y1rj18c24HQ_PGFzYBWwYMohwm4zyWBH",
+            "https://drive.google.com/uc?export=view&id=1YRxdBoxZ61ATTxPphZHdcFd2gRjaVYjg",
         ]
         data_list = [
             {
@@ -1348,7 +1348,7 @@ elif menu == "Departemen SSD":
                 "umur": "23",
                 "asal":"Metro",
                 "alamat": "Sukarame",
-                "hobbi": "",
+                "hobbi": "Nonton Film",
                 "sosmed": "@adistysa_",
                 "kesan": "cantik dan ramah",  
                 "pesan":"semangat terus sampai wisuda ya kakak"# 1
@@ -1461,7 +1461,6 @@ elif menu == "Departemen MEDKRAF":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1-Ppx6-Og0sHvMLHmslje_Rxc1omaTBAY",
             "https://drive.google.com/uc?export=view&id=1-VjvJEQhDAd6Fchnx0NpD-nEoyRuCjXO",
-            "https://drive.google.com/uc?export=view&id=10DK-FqAkZmHGCxC2smgfxShFvUZSQpg3",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=10q4rKB1lkp7xCe_b8fViwL_C5zOfFXDR",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
