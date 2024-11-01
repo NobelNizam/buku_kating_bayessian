@@ -1492,24 +1492,24 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Wahyu
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Elok
+            "https://drive.google.com/uc?export=view&id=1HabgVJasr2BLi9kdFDlv68RlgF6f7rJ8", #Bg Wahyu
+            "https://drive.google.com/uc?export=view&id=1_nJaIb55wvZkZPBVGCU-jvfHXT3Co3cr", #Kak Elok
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Arsyiah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Chibel
+            "https://drive.google.com/uc?export=view&id=1tWjcjARhA2H2Pabxu7coTelp7NuhdAtQ", #Kak Chibel
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Eka
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Najla
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Patricia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Rahma
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Try Yani
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Kaisar
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Dwi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Gym
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Nasywa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Priska
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Arsal
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Abit
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Akmal
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Hermawan
+            "https://drive.google.com/uc?export=view&id=1_pDfjKuq1UZaAY4i0uEyHxk4WaC3c6aI", #Kak Patricia
+            "https://drive.google.com/uc?export=view&id=1ErbESH99DVf0KZAG-GdSHp2Y95m4s13T", #Kak Rahma
+            "https://drive.google.com/uc?export=view&id=1_iAJ44a65WQFPecqpmQKOHgfj0nH7_QD", #Kak Try Yani
+            "https://drive.google.com/uc?export=view&id=1vdsnm5nbwG5NGMBvMs1AmciHLo09-SET", #Bg Kaisar
+            "https://drive.google.com/uc?export=view&id=1GHDCG4Q64VSMDYy85M3HwK77OCxAWbwE", #Kak Dwi
+            "https://drive.google.com/uc?export=view&id=1G3kVvtpO_HL2W6nVEoc__8n_GJ3pxM_D", #Bg Gym
+            "https://drive.google.com/uc?export=view&id=12mXgSiKF7ZgXMyRb_hpM-Udn2ayL49-Q", #Kak Nasywa
+            "https://drive.google.com/uc?export=view&id=1HAFmc6K-BDOKvbDNxd-ifQBnww_r4Rbl", #Kak Priska
+            "https://drive.google.com/uc?export=view&id=1rG35d1N-meXdgh1Yge2NwdqrGR8LZLl8", #Bg Arsal
+            "https://drive.google.com/uc?export=view&id=1_yVWwed41xzBubmi2gKQBQwS6QYXUfh8", #Bg Abit
+            "https://drive.google.com/uc?export=view&id=1JuGewzaLpS5Kva6WdHEBEsM57fz7K78Y", #Bg Akmal
+            "https://drive.google.com/uc?export=view&id=1KRE6ltDSFrZNoBQJW6zDj6N_7WF6YF_m", #Bg Hermawan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Khusnun
         ]
         data_list = [
