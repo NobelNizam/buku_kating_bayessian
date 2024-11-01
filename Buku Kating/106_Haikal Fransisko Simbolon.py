@@ -1272,11 +1272,11 @@ elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1dVuvFXENLh6csJQ6iwaNjgRm9crbNAtx", #Bg Adrian
-            "https://drive.google.com/uc?export=view&id=1eTNCbr_s2J8cofyeKydCEqOlMxqYGPht", #Kak Adisty
+            "https://drive.google.com/uc?export=view&id=1eJvmBWvKp5dUjSjpGOEuFamOTcJPOErO", #Kak Adisty
             "https://drive.google.com/uc?export=view&id=1eTNCbr_s2J8cofyeKydCEqOlMxqYGPht", #Kak Nabila
             "https://drive.google.com/uc?export=view&id=1fLCviEJa-QVraVBdyjZtsyuoEXju-Bv0", #Bg Ahmad
-            "https://drive.google.com/uc?export=view&id=1fKc_CQXP_RU18_hI3hbsm_JY4S3rCB74", #Bg Danang
-            "https://drive.google.com/uc?export=view&id=1e9qucRKQK7I_eeMw5WMQJ__RRSJ2VUHR", #Bg Farrel
+            "https://drive.google.com/uc?export=view&id=11ulv2m3i1leirV5GVWTCMdNJMDx9rUuj", #Bg Danang
+            "https://drive.google.com/uc?export=view&id=11ngfWqIMR-CgV3jNV1syjjPz-sqFRknU", #Bg Farrel
             "https://drive.google.com/uc?export=view&id=1dvWUBvrrTufOQOGn2VLw9jlu19tA0FJr", #Kak Tessa
             "https://drive.google.com/uc?export=view&id=1eAp7zGIA20sBI9CyiF1em3mbfINGrehD", #Kak Nabilah
             "https://drive.google.com/uc?export=view&id=1fLdrUUYyh9TtjyF6pAFnsW2w3eUiXsit", #Kak Aliva
