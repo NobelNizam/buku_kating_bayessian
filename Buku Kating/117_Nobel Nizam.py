@@ -1355,13 +1355,13 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1mF0toPXZcvtqprzN7VpikBBFP_I2D8Vu", #Kak Adisty
             "https://drive.google.com/uc?export=view&id=1huaaHEOPgYufRqMssY4yY0VGI8Qnco3D", #Kak Nabila
             "https://drive.google.com/uc?export=view&id=1j9k2OoLVzbE1gELtitYeYRWrpGBXHfI7", #Bg Ahmad
-            "https://drive.google.com/uc?export=view&id=1Xk2z-ESiVMGdPEIJBiBtzxOKAkJZs084", #Bg Danang
-            "https://drive.google.com/uc?export=view&id=1OVaw02mxdi1gmcXUikIGflkTr9t3tFL-", #Bg Farrel
+            "https://drive.google.com/uc?export=view&id=1KCcp5q4_t5BfvuHbe5lQu2TaZm3pqSb8", #Bg Danang
+            "https://drive.google.com/uc?export=view&id=1CDXTxs2oRWBqxTVYzPqRBYfrEx9c8TFb", #Bg Farrel
             "https://drive.google.com/uc?export=view&id=1hviN7krPzMZ49meWpa6Go5ECRJkGjMgS", #Kak Tessa
             "https://drive.google.com/uc?export=view&id=1hajF0rnpDv66CQLP33BWfkIYk-4RRWoV", #Kak Nabilah
             "https://drive.google.com/uc?export=view&id=1mrY18xNXlqODAau40SLGvEWKmHYvcsc4", #Kak Aliva
             "https://drive.google.com/uc?export=view&id=1n-e-iWhqX3QRktIW4OdKhFDRn8vUCiMz", #Bg Dhafin
-            "https://drive.google.com/uc?export=view&id=1ZV6_p5CJ5YIM8jlZMoDgCG6tRpMW_Cg6", #Kak Elia
+            "https://drive.google.com/uc?export=view&id=1XCmQZISp9PgT_TdpFmpfwSGh7LniM68i", #Kak Elia
         ]
         data_list = [
             {
