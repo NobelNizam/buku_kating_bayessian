@@ -1372,7 +1372,17 @@ elif menu == "Departemen SSD":
                 "kesan": "  ",  
                 "pesan":"  " # 8
             },
-
+            {
+                "nama": "Alvia Asrinda Br.Gintng",
+                "nim": "122450077",
+                "umur": "20",
+                "asal":"Binjai",
+                "alamat": "Korpri",
+                "hobbi": "Nonton Windah",
+                "sosmed": "@alviagnting",
+                "kesan": "kakaknyaa lucuuu pipinyaa",  
+                "pesan":"kan mari kita nonton windut bersama"
+            },
             {
                 "nama": "Dhafin Razaqa Luthfi",
                 "nim": "122450133",
