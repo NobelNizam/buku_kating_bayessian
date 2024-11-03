@@ -193,10 +193,8 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1H1Z-boU0aeqaHHA1qCfKFIPrp6LO2MYc",
             "https://drive.google.com/uc?export=view&id=1Uebf5D2vac3mVT2PHTHnEINa-ftEYQ1A",
             "https://drive.google.com/uc?export=view&id=1VyyGio0yM8ZlEsYadMKaUO08904e_utg",
-
-
         ]
-        data_list = [
+        data_list =[
              {
                 "nama": "Tri Murniya Ningsih",
                 "nim": "121450038",
@@ -273,6 +271,7 @@ elif menu == "Baleg":
                 "sosmed": "@fleurnsh",
                 "kesan": "",  
                 "pesan": ""
+            },
             {
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
@@ -686,7 +685,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1cXxQTKmC57p6ZP6QJyTfA88ED0BJ72SE", #happy
             "https://drive.google.com/uc?export=view&id=1yPvO4a1UEVafC2jjI789GjRHat7-LTrb", #vita
             
-            
+
         ]
         data_list = [
             {
@@ -739,7 +738,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "19",
                 "asal": "Palembang",
                 "alamat": "Jl. Permadi Sukarame",
-                "hobbi": "Jadi admin ig mikfes.hmsd",
+                "hobbi": "Jadi admin ig mikfes hmsd",
                 "sosmed": "@mregiiii_",
                 "kesan": " abang asprak ads  ",  
                 "pesan":" semangat terus bang jadi asprak " # 6
@@ -877,17 +876,6 @@ elif menu == "Departemen MIKFES":
                 "pesan":"rekomendasiin drakor yang bikin emosi dong kak" # 18
             },
             {
-                "nama": "Happy Syahrul Ramadhan",
-                "nim": "122450013",
-                "umur": "20",
-                "asal": "Lampung",
-                "alamat": "Karang Anyar",
-                "hobbi": "Main Game",
-                "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": " namanya lucu bang   ",  
-                "pesan":" semangat terus bang kuliahnya " # 19
-            },
-            {
                 "nama": "Randa Andriana Putra",
                 "nim": "122450083",
                 "umur": "21",
@@ -899,6 +887,17 @@ elif menu == "Departemen MIKFES":
                 "pesan":" Berkembang gimana tuh bang hobinya?" # 20
             },
             {
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450013",
+                "umur": "20",
+                "asal": "Lampung",
+                "alamat": "Karang Anyar",
+                "hobbi": "Main Game",
+                "sosmed": "@sudo.syahrulramadhannn",
+                "kesan": " namanya lucu bang   ",  
+                "pesan":" semangat terus bang kuliahnya " # 19
+            },
+            {
                 "nama": "Vita Anggraini",
                 "nim": "  ",
                 "umur": " ",
@@ -908,7 +907,7 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan":"  " # 21
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
@@ -1179,6 +1178,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1RbJqWP_KPokqGmM1Do3VJ4bzSLOlvohC",
             "https://drive.google.com/uc?export=view&id=1mP3wtGPmh59G5Gq4pGcZU7PeZJNw-v7F",
             "https://drive.google.com/uc?export=view&id=1tS6AU09LHqdIQ5UynigH-YrFF5S6L6SK",
+        
         ]
         data_list = [
             {
@@ -1282,7 +1282,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama": "Dearni Monica Br Manik",
-                "nim": "122450000
+                "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
