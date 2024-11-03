@@ -617,9 +617,9 @@ elif menu == "Departemen MIKFES":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1bMbKxhIZWAddzfTqIH-e0_AygdKrcm9e", #Bg Rafi
             "https://drive.google.com/uc?export=view&id=1bKsSIPcHPptzZ2ja7LN4NXgzI-u0qzY4", #Kak Annisa
-            "https://drive.google.com/uc?export=view&id=1ageKRM6M0JX6kJGn7WAsGagR5ayUSpfG", #Bg Mujadid
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Mujadid
             "https://drive.google.com/uc?export=view&id=1cFV1XA1o7qQc97iFElA5hAao8mXSjnrA", #Bg Ahmad Sahidin
-            "https://drive.google.com/uc?export=view&id=1c8VGWi8vlB6KIdxQsfSeGJKiKKjx2OUA", #Bg Fadhil
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Fadhil
             "https://drive.google.com/uc?export=view&id=1cORQ_9bJwCn22QXfYCFJQ_6PlY6M9Xrm", #Bg Regi
             "https://drive.google.com/uc?export=view&id=1bpJ2L7acmWKOsEdwVbDjyhZqF_tR9zeg", #Kak Syalaisha
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Natanael
@@ -627,15 +627,14 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1aq7W1x7627RhSwkHmIFG4LaDg1UqBc7G", #Kak Deva
             "https://drive.google.com/uc?export=view&id=1cC_pvSLLqtOFiAk-AXzldB3C7-Sqe81E", #Kak Dinda
             "https://drive.google.com/uc?export=view&id=1beSZGRlpCpqxMZfRiPJJQW6ogmfqeJyi", #Kak Marleta
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Rut Junita
+            "https://drive.google.com/uc?export=view&id=1akL5qQlLKNmmUu6_JVOYjouKBYisQqwp", #Kak Rut Junita
             "https://drive.google.com/uc?export=view&id=1cNoI-BBUMCOCV8Tj4Z23kIe-AyIeFRlE", #Kak Syadza
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Abdurrahman
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Aditya
+            "https://drive.google.com/uc?export=view&id=1ageKRM6M0JX6kJGn7WAsGagR5ayUSpfG", #Bg Aditya
             "https://drive.google.com/uc?export=view&id=1apsAS1N2RmVukj1WfQZKByFDJk5uXYGc", #Bg Eggi
             "https://drive.google.com/uc?export=view&id=1buQlY10Zcm9rjE2hDvXeR0YmjweBaQlV", #Kak Febiya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Bg Happy
+            "https://drive.google.com/uc?export=view&id=1c8VGWi8vlB6KIdxQsfSeGJKiKKjx2OUA", #Bg Happy
             "https://drive.google.com/uc?export=view&id=1bDXQ3iQEwiDiB0RkQl-bQWtyS7TsGW-j", #Bg Randa
-            "https://drive.google.com/uc?export=view&id=1akL5qQlLKNmmUu6_JVOYjouKBYisQqwp", #Kak Vita
         ]
         data_list = [
             {
@@ -659,6 +658,17 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@anovavona",
                 "kesan": "Kakak nya baik, keren, asik",  
                 "pesan": "semangat kuliah nya kak, bentar lagi nya ye kan kak, sukses selalu" # 2
+            },
+            {
+                "nama": "Mujajid Choirus Surya",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Abang ini asik",  
+                "pesan":"semangat terus kuliahnya Bang !!!"
             },
             {
                 "nama": "Ahmad Sahidin Akbar",
@@ -706,7 +716,17 @@ elif menu == "Departemen MIKFES":
                 "kesan": "Kakak nya baik, tapi agak pendiam dikit, kembaran kak Andini",  
                 "pesan": "Semangat terus kak, tolong berikan saya tanda perbedaan kakak dengan kak Andini" # 7
             },
-
+            {
+                "nama": "Natanael Oktavianus Partahan Sihombing",
+                "nim": "121450107",
+                "umur": "20",
+                "asal":"Jakarta",
+                "alamat": "Kemiling",
+                "hobbi": "Membuka Wisata HMSD",
+                "sosmed": "@natanaeloks",
+                "kesan": "Belum bertemu abngnya",  
+                "pesan":"Semangat aja bang dan semoga kita ketemu"# 1
+            },
             {
                 "nama": "Anwar Muslim",
                 "nim": "122450117",
@@ -831,6 +851,17 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@randaandriana_",
                 "kesan": "Abangnya keren, baik, asik juga ",  
                 "pesan": "Sukses terus bang, semangat menjalani dunia yang penuh drama ini" # 20
+            },
+            {
+                "nama": "Vita Anggraini",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobbi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Saya belum bertemu kakak",  
+                "pesan":"semangat terus kuliahnya ya kakk!!!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
