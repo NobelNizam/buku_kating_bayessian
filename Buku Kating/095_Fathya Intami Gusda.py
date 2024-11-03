@@ -1466,7 +1466,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton",
                 "sosmed": "@wayyulaja",
                 "kesan": "abangnya asikk dan baik ",  
-                "pesan":" semangatt terus abangg " # 1
+                "pesan":" semangatt terus abangg, semoga dimudahkan sampai lulus " # 1
             },
             {
                 "nama": "Elok Fiola",
@@ -1587,7 +1587,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nyari tuyul buzzcut",
                 "sosmed": "@jimnn.as",
                 "kesan": "abangnya ramah  ",  
-                "pesan":"semangatt ya abanggg " # 12
+                "pesan":"semangatt ya abanggg, bahagia selaluu " # 12
             },
             {
                 "nama": "Nasywa Nur Afifah",
@@ -1653,7 +1653,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Bengong",
                 "sosmed": "@hermawan.mnrng",
                 "kesan": "abangnya asikk ",  
-                "pesan":"semangattt ya bang " # 18
+                "pesan":"semangattt ya bang, sukses dan bahagaia selaluuu " # 18
             },
             {
                 "nama": "Khusnun Nisa",
