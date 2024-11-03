@@ -115,7 +115,7 @@ if menu == "Kesekjenan":
                 "alamat": "Kandis",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "Abang Gumi selain ada kharismanya ada kocaknya juga",  
+                "kesan": "Abang Gumi selain ada kharismanya ada kocaknya jugaa",  
                 "pesan":"smgt terus menjadi Kahim bang"
             },
             {
