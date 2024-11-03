@@ -117,7 +117,7 @@ if menu == "Kesekjenan":
                 "hobbi" : "Mendengerkan musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan" : "Abang gumi berkharisma banget, bagus banget publik speakingnya",  
-                "pesan" : "Semangat terus dan sukses terus kedepannya ya bang dalam memimpin himpunan"
+                "pesan" : "Semangat terus dan sukses kedepannya ya bang dalam memimpin himpunan"
             },
             {
                 "nama"  : "Pandra Insani Putra Azwan",
@@ -127,8 +127,8 @@ if menu == "Kesekjenan":
                 "alamat": "Bawen 2",
                 "hobbi" : "Bermain gitar dan menyanyi",
                 "sosmed": "@pandrainsni27",
-                "kesan" : "Bang pandra asik, dan serius",  
-                "pesan" : "semangat kuliahnya ya bang"
+                "kesan" : "Bang pandra asik, dan serius banget",  
+                "pesan" : "Fokus terus mengerjakan TA nya banggg"
             },
             {
                 "nama"  : "Meliza Wulandari",
@@ -139,7 +139,7 @@ if menu == "Kesekjenan":
                 "hobbi" : "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
                 "kesan" : "Kakaknya baik, asik, seru banget",  
-                "pesan" : "semangat terus kuliahnya kakk"
+                "pesan" : "Semoga kakak semakin sukses, dan semangat mengerjakan TA nya kakk"
             },
             {
                 "nama"  : "Putri Maulida Chairani",
@@ -149,8 +149,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi" : "Dengerin bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan" : "Kakak nya baik, seru banget",  
-                "pesan" : "Semangat terus kakk"
+                "kesan" : "Kakak nya baik, pintar dan seru banget",  
+                "pesan" : "Teruslah menyebarkan ilmu yang kakak miliki"
             },
             {
                "nama"  : "Hartiti Fadilah",
@@ -160,8 +160,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobbi" : "Nyanyi",
                 "sosmed": "@hrtfdlh",
-                "kesan" : "Kakak nya baik dan humble banget",  
-                "pesan" : "Semangat kuliahnya kakk"
+                "kesan" : "Kak Hartiti humble dan asik banget",  
+                "pesan" : "Semakin sukses dan berkembang kedepannya kakk"
             },
             {
                 "nama"  : "Nadilla Andara Putri",
@@ -171,8 +171,8 @@ if menu == "Kesekjenan":
                 "alamat": "KotaBaru",
                 "hobbi" : "Membaca",
                 "sosmed": "@ndillaandr26",
-                "kesan" : "Kakak nya baik, seru, dan humble banget",  
-                "pesan" : "Semangat kuliahnya kakk, dan jaga kesehatan kakkk"
+                "kesan" : "Kak Nadilla baik, dan tegas banget",  
+                "pesan" : "Semangat ngasprak nya kakk, dan semangat terus kedepannya"
 
             },
         ]
@@ -210,8 +210,8 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi" : "Ngerjain TA",
                 "sosmed": "@trimurniyaa_",
-                "kesan" : "Kakak nya bagus banget publik speaking nya, baik dan seru banget",  
-                "pesan" : "semangat terus ya kakkk, semoga TA nya cepet selesai"
+                "kesan" : "Kak Niya bagus banget publik speaking nya, sangat menginspirasi",  
+                "pesan" : "Tetaplah menjadi orang yang menginsoirasi bagi kami semua, dan semangat mengerjakan TA nya kak"
             },
             {
                "nama"  : "Annisa Cahyani Surya",
