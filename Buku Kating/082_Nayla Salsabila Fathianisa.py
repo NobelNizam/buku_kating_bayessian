@@ -392,13 +392,12 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1irQpcxvbwUeVGeZKa6S6HyNLgfZ_Ovxs",
             "https://drive.google.com/uc?export=view&id=1LR4fnwV4om8GN7vXeuF4ROjp7hrQusTG",
             "https://drive.google.com/uc?export=view&id=1Otr4L5pJpkcEYEf3hs-cSlYc6y4cDcRG",
-            "https://drive.google.com/uc?export=view&id=1EQEo5CJWYf-RA_PFb9Ly6VXt_yz54vSG",
             "https://drive.google.com/uc?export=view&id=1k8tb50EN-YFUA6Arp3wDtSwSvqvMkJpT",
+            "https://drive.google.com/uc?export=view&id=1EQEo5CJWYf-RA_PFb9Ly6VXt_yz54vSG",
             "https://drive.google.com/uc?export=view&id=1WoCEZRpNQdBSwKW5t3VKTvJYekj-08-B",
             "https://drive.google.com/uc?export=view&id=1UUGBJ3SeJIZrK94HhSOOogCOJ6gYy_Bt",
             "https://drive.google.com/uc?export=view&id=11eMGkmVDDloVrTQXQ5pG7XECpwxRxCa_",
             "https://drive.google.com/uc?export=view&id=1XIilrVa2Hd0DFvEMPQPCwP8Fsq6GBLd3",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             
         ]
         data_list = [
@@ -630,7 +629,7 @@ elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1fWjT-Tvm33VFI-WamFx85VR1ChuKnnl8",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1mmSwvczZRcdi8IiAQy6euMK7KjjghYLz",
             "https://drive.google.com/uc?export=view&id=1fgBnIlwwhoqbTvRWt7GXJ-81yhj8nOiJ",
             "https://drive.google.com/uc?export=view&id=1MowNipC77L6v-KkcV1K4ZsBfx-reM8Ng",
             "https://drive.google.com/uc?export=view&id=13B8DIvW-woeV91aIC48THGtNMhAmPRQI",
@@ -642,8 +641,8 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=19iWXVEuGEk81NxxcCgJhs_3KFPWa31Rl",
             "https://drive.google.com/uc?export=view&id=1SNcSv9oYAIPevkAIyTPARHAZz9_VpDxB",
             "https://drive.google.com/uc?export=view&id=1TeFj9nO96Z-2tEp9ZZTo_jpJs4fJ6N4n",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1sn-OSW8v-BROlHpTP1bz2FBH_cdgzEUZ",
+            "https://drive.google.com/uc?export=view&id=1jCG40MKRpm-xZlGthUN5R0OTcnO0At2G",
         ]
         data_list = [  
             {
