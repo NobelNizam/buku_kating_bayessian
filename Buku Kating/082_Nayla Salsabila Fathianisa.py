@@ -810,6 +810,50 @@ elif menu == "Departemen MIKFES":
                 "kesan": "Abang nya baikk",  
                 "pesan":"Semangat kuliahnya bangg" # 15
             },
+            {
+                "nama": "Randa Andriana Putra",
+                "nim": "122450083",
+                "umur": "21",
+                "asal": "Banten",
+                "alamat": "Sukarame",
+                "hobbi": "Tidur dan Berkembang",
+                "sosmed": "@randaandriana_",
+                "kesan": "Abangnya baikk, kerenn",  
+                "pesan":"Semangat yaa bang ngejalanin hari-hari nyaa"
+            },
+            {
+                "nama": "Natanael Oktavianus Partahan Sihombing",
+                "nim": "121450107",
+                "umur": "20",
+                "asal": "Jakarta",
+                "alamat": "Kemiling",
+                "hobbi": "Membuka Wisata HMSD",
+                "sosmed": "@natanaeloks",
+                "kesan": "Abangnya keren",  
+                "pesan":"Semangat selalu kuliahnya ya bang" 
+            },
+            {
+                "nama": "Abdurrahman Al-atsary",
+                "nim": "121450128",
+                "umur": "23",
+                "asal": "Bandar Lampung",
+                "alamat": "Perumnas Way Kandis",
+                "hobbi": "Membaca",
+                "sosmed": "@rahmn_abdr",
+                "kesan": "Abangnya baik",  
+                "pesan": "Semangat kuliah dan sukses terus bang" 
+            },
+            {
+                "nama": "Fadhil Fitra Wijaya",
+                "nim": "122450082",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Teluk Betung",
+                "hobbi": "Main Game",
+                "sosmed": "@fadhilfwee",
+                "kesan": "Abangnya kerenn",  
+                "pesan": "Bahagia selalu yaa bangg" 
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     mikfes()
@@ -1539,7 +1583,7 @@ elif menu == "Departemen MEDKRAF":
             {
                 "nama": "Priska Silvia Ferantiana",
                 "nim": "122450053",
-                "umur": " ",
+                "umur": "20",
                 "asal": "Palembang",
                 "alamat": "Jalan Nangka 2",
                 "hobbi": "Karaoke",
