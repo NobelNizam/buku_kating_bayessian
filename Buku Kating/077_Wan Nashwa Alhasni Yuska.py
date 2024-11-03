@@ -641,6 +641,7 @@ elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1f1rT0k32ZDRTLtz8JDv0qm-HmS_WkKNM", #Rafi Fadhlillah
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Mujajid
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Annisa Novantika
             "https://drive.google.com/uc?export=view&id=1KMbsCJNs9zE_XJBxxWKBKia8lUAxl2oy", #Ahmad Sahidin Akbar
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Fadhil Fitra Wijaya
