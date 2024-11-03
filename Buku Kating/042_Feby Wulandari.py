@@ -1514,7 +1514,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton Film",
                 "sosmed": "@wayuraja",
                 "kesan": "abang terlihat pendiam",  
-                "pesan":"semangat ngerjain TA nya bang"
+                "pesan":"semangat ngerjain TA nya bang!"
             },
             {
                 "nama": "Elok Fiola",
