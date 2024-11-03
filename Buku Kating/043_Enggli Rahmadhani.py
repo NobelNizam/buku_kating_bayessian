@@ -1450,7 +1450,7 @@ elif menu == "Departemen SSD":
         	},
     	]
      display_images_with_data(gambar_urls, data_list)
-     ssd()
+    ssd()
 
 
 
@@ -1689,6 +1689,6 @@ elif menu == "Departemen MEDKRAF":
         	},
     	]
         display_images_with_data(gambar_urls, data_list)
-        medkraf()
+    medkraf()
 
 
