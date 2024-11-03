@@ -554,6 +554,17 @@ elif menu == "Departemen PSDA":
                 "pesan": "Semangat terus bang dan sukses selalu" # 17
             },
             {
+                "nama": "Vanessa Olivia Rose",
+                "nim": "121450108",
+                "umur": "20",
+                "asal":"Jakarta",
+                "alamat": "Perum Korpri",
+                "hobbi": "Belajar",
+                "sosmed": "@roselivnes__",
+                "kesan": "Kakak ini asik",  
+                "pesan":"semangat terus kuliahnya kak"# 1
+            },
+            {
                 "nama": "M. Farhan Athaulloh",
                 "nim": "121450117",
                 "umur": "21",
@@ -864,14 +875,14 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Vita Anggraini",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Saya belum bertemu kakak",  
-                "pesan": "semangat terus kuliahnya ya kakk!!!"
+                "nim": "-",
+                "umur": "-",
+                "asal": "-",
+                "alamat": "-",
+                "hobbi": "-",
+                "sosmed": "-",
+                "kesan": "Kakak ini belum diwawancarai",  
+                "pesan": "-"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1139,12 +1150,11 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1aHo-MKBtkODhOrau6rwXJyUXfpxvzy1f", #Bg Yosia
             "https://drive.google.com/uc?export=view&id=1aKCnRVLudFuPLLnwF5Yla9z6isjjFoOk", #Kak Renta
             "https://drive.google.com/uc?export=view&id=1_gtjlI64Y4jfjINx_hq_6oVmJCcf6t3B", #Bg Sigit
+            "https://drive.google.com/uc?export=view&id=1_dYPu4CHVinpmFMSYtS_uxhMByb98iJS", #Bg Josua
             "https://drive.google.com/uc?export=view&id=1_jvIsQyVgiH28TIWWucfEAgOmsoGT9dF", #Kak Azizah
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Dearni
             "https://drive.google.com/uc?export=view&id=1aZzwHPX96OK_hjig-rTnHuV4_zmibPam", #Kak Meira
             "https://drive.google.com/uc?export=view&id=1a9iLYfc-VLMFmbq9JRchJf1siH862DOG", #Bg Rendi
-            "https://drive.google.com/uc?export=view&id=1aKCnRVLudFuPLLnwF5Yla9z6isjjFoOk", #Kak Renta
-            "https://drive.google.com/uc?export=view&id=1_dYPu4CHVinpmFMSYtS_uxhMByb98iJS", #Bg Josua
         ]
         data_list = [
             {
@@ -1300,8 +1310,8 @@ elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1dVuvFXENLh6csJQ6iwaNjgRm9crbNAtx", #Bg Adrian
-            "https://drive.google.com/uc?export=view&id=1eJvmBWvKp5dUjSjpGOEuFamOTcJPOErO", #Kak Adisty
-            "https://drive.google.com/uc?export=view&id=1eTNCbr_s2J8cofyeKydCEqOlMxqYGPht", #Kak Nabila
+            "https://drive.google.com/uc?export=view&id=1eTNCbr_s2J8cofyeKydCEqOlMxqYGPht", #Kak Adisty
+            "https://drive.google.com/uc?export=view&id=1eJvmBWvKp5dUjSjpGOEuFamOTcJPOErO", #Kak Nabila
             "https://drive.google.com/uc?export=view&id=1fLCviEJa-QVraVBdyjZtsyuoEXju-Bv0", #Bg Ahmad
             "https://drive.google.com/uc?export=view&id=11ulv2m3i1leirV5GVWTCMdNJMDx9rUuj", #Bg Danang
             "https://drive.google.com/uc?export=view&id=11ngfWqIMR-CgV3jNV1syjjPz-sqFRknU", #Bg Farrel
@@ -1458,7 +1468,6 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1WL-bXtSxXpAkQHGyTDTD9WKpnFnntDvz",
             "https://drive.google.com/uc?export=view&id=1WBNsWi_7JOck8D1TntDXErTO0MI0Eryy",
             "https://drive.google.com/uc?export=view&id=1WUYCbqf6MZR0s-b3dIadMFJ9P5WJtny5",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
