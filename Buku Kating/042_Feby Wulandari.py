@@ -885,17 +885,6 @@ elif menu == "Departemen MIKFES":
                 "pesan":" Berkembang gimana tuh bang hobinya?" # 20
             },
             {
-                "nama": "Randa Andriana Putra",
-                "nim": "122450083",
-                "umur": "21",
-                "asal": "Banten",
-                "alamat": "Sukarame",
-                "hobbi": "Tidur dan Berkembang",
-                "sosmed": "@randaandriana_",
-                "kesan": "  ",  
-                "pesan":"  " # 19
-            },
-            {
                 "nama": "Happy Syahrul Ramadhan",
                 "nim": "122450013",
                 "umur": "20",
@@ -905,7 +894,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@sudo.syahrulramadhannn",
                 "kesan": " namanya lucu bang   ",  
                 "pesan":"semangat terus bang kuliahnya", # 19
-                "pesan":"semangat terus bang kuliahnya" # 20
             },
             {
                 "nama": "Vita Anggraini",
@@ -1021,8 +1009,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Halim",
                 "hobbi": "Main Paralayang",
                 "sosmed": "@nateee_15",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"Ajakin saya terjun paralayang sih kak"
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Novelia Adinda",
