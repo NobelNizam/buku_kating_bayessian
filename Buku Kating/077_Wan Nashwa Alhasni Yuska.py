@@ -1332,8 +1332,8 @@ elif menu == "Departemen SSD":
                 "nim": "121450090",
                 "umur": "21",
                 "asal":"SidiKalang",
-                "alamat": "Gg.sakum",
-                "hobbi": "Dekat Penjara",
+                "alamat": "Deket penjara",
+                "hobbi": "nyari hobi",
                 "sosmed": "@adriangaol",
                 "kesan": "aabang ini keren cklie",  
                 "pesan":"semangat mengerjakan TA nya bangg"
@@ -1432,10 +1432,21 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal":"Bandar Lampung",
                 "alamat": "Jl. Nangka 1",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Olahraga",
                 "sosmed": "@dhafinrzqa13",
                 "kesan": "abangnya baikk",  
                 "pesan":"semoga sukses bang"# 1
+            },
+            {
+                "nama": "Elia Meylani Simajuntak",
+                "nim": "122450026",
+                "umur": "20",
+                "asal":"Bekasi",
+                "alamat": "korpri",
+                "hobbi": "Main Alat Musik",
+                "sosmed": "@meylanielia",
+                "kesan": "kakaknya kaya orang cinaa",  
+                "pesan":"kakaknya keren bgt bisa main alat musikk"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
