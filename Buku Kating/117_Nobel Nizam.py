@@ -394,6 +394,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1I23yiRTlScVgYL1V-MP4KWGuEkmFivMs",# kak rafa
             "https://drive.google.com/uc?export=view&id=1HUp1mfRUtlbr7P8QSpRds_A9RBMIr8I2",# bg sahid
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1o1bCt7WTlrRSTs8CsLnGFOFvOOLo3h3p",# bg ateng
             "https://drive.google.com/uc?export=view&id=1o5lmDMv0g12zV4ErDSoZ47-6HrInrUtU",# bg gede
             "https://drive.google.com/uc?export=view&id=1oMbx7MBmnbO2y3Qve2-xzTWMi30LGVhs",# kak jaclin
@@ -502,7 +503,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Devyan Loxefal",
-                "nim": "121450128",
+                "nim": "121450148",
                 "umur": "21",
                 "asal": "Duri, Riau",
                 "alamat": "Kobam Pulau Damar",
@@ -568,6 +569,17 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Vanessa Olivia Rose",
+                "nim": "121450108",
+                "umur": "20",
+                "asal": "Jakarta",
+                "alamat": "Perum Korpri",
+                "hobbi": "Belajar",
+                "sosmed": "@roselivnes__",
+                "kesan": "tidak terwawancarai",
+                "pesan": "semangatt selalu kakk vanesss", 
+            },
+            {
+                "nama": "Leonard Andreas Napitupulu",
                 "nim": "-",
                 "umur": "-",
                 "asal": "-",
@@ -708,14 +720,14 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Fadhil Fitra Wijaya",
-                "nim": "-",
-                "umur": "-",
-                "asal": "-",
-                "alamat": "-",
-                "hobbi": "-",
-                "sosmed": "-",
-                "kesan": "tidak terwawancarai",  
-                "pesan": "-" 
+                "nim": "122450082",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Teluk Betung",
+                "hobbi": "Main Game",
+                "sosmed": "@fadhilfwee",
+                "kesan": "tidak terwawancarai",
+                "pesan": "-", 
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -741,14 +753,14 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Natanael Oktavianus Partahan Sihombing",
-                "nim": "-",
-                "umur": "-",
-                "asal": "-",
-                "alamat": "-",
-                "hobbi": "-",
-                "sosmed": "-",
-                "kesan": "tidak terwawancarai",  
-                "pesan": "-"
+                "nim": "121450107",
+                "umur": "20",
+                "asal": "Jakarta",
+                "alamat": "Kemiling",
+                "hobbi": "Membuka Wisata HMSD",
+                "sosmed": "@natanaeloks",
+                "kesan": "tidak terwawancarai",
+                "pesan": "-", 
             },
             {
                 "nama": "Anwar Muslim",
@@ -818,14 +830,14 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Abdurrahman Al-atsary",
-                "nim": "-",
-                "umur": "-",
-                "asal": "-",
-                "alamat": "-",
-                "hobbi": "-",
-                "sosmed": "-",
-                "kesan": "tidak terwawancarai",  
-                "pesan": "-"
+                "nim": " 121450128",
+                "umur": "23",
+                "asal": "Bandar Lampung",
+                "alamat": "Perumnas Way Kandis",
+                "hobbi": "Membaca",
+                "sosmed": "@rahmn_abdr",
+                "kesan": "tidak terwawancarai",
+                "pesan": "-", 
             },
             {
                 "nama": "Aditya Rahman",
