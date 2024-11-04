@@ -185,11 +185,11 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1sFVXW5X8EPBiHDjct1nm0DIb9lMup9IO",#Kak Annisa 2
             "https://drive.google.com/uc?export=view&id=1sAGHoaJSDa5lPrwzJsw-gI3DLeLQSTT5",#Kak Wulan 3
             "https://drive.google.com/uc?export=view&id=1sEfiG20SD4Da4DH_QKicsbbPDzRPbnY2",#Kak Anisa Dini 4
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Claudhea 5 tdkk
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Anisa Fitri 9 tdkkk
             "https://drive.google.com/uc?export=view&id=1sbhCBn8VEfjoR7P_JmujOYUC1xEXvXtw",#Bg Feryadi 6
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Renisha 7 tdkk
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Claudhea 5 tdkk
             "https://drive.google.com/uc?export=view&id=1sMPVvu_OSSvzgmXBK5Ye5_O15Cis41eB",#Bg Mirzan 8
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Anisa Fitri 9 tdkkk
             "https://drive.google.com/uc?export=view&id=1s0pHIF6FXEnQQuCWwahrRISJJQzSslRe",#Kak Dhea 10
             "https://drive.google.com/uc?export=view&id=1sHMAzr72lwVgJODeKHb_iIEZokRNl2Cw",#Bg Fahrul 11
             "https://drive.google.com/uc?export=view&id=1sR0opJmtuDCiO4oosQImElMxA-k-P0PS",#Kak Berliana 12
@@ -567,7 +567,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "  ",
                 "hobbi": "     ",
                 "sosmed": "@",
-                "kesan": " tidak terwanwancarai ",  
+                "kesan": " tidak terwawancarai ",  
                 "pesan":"   " # 11
             },
             {
@@ -667,23 +667,18 @@ elif menu == "Departemen MIKFES":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=173n_sp5tCelkmZMmRGC0Nkv8NlqpuBgQ", # rafi
             "https://drive.google.com/uc?export=view&id=17Rl0TNN57ZVMsEibp19IyhFJGhvuSfwu", # annisa
-
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # mujadid
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ahmad
-
             "https://drive.google.com/uc?export=view&id=15arE0GLU9Uu8B8zYAKmxkEdXcbT6q5iu", # regi
             "https://drive.google.com/uc?export=view&id=11wL_gAVUSSX_6jlbmShsh6jnlJAWjvCT", # Syalaisha
             "https://drive.google.com/uc?export=view&id=175QiKjYoEOfOGDTMvPT_MRtbNOOgMtm1", # anwar
-
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Deva
-
             "https://drive.google.com/uc?export=view&id=17RQn0PCpApVin4qTuuG4YjeAUTh9Ql4Y", # DindA
             "https://drive.google.com/uc?export=view&id=176bFDlah9NxCU5eYii5mRjsqzBMuwoPu", # MARLETTA
             "https://drive.google.com/uc?export=view&id=121oPZ3Lydf9wR9M4i-XYUgMDjKRnqsms", # Rut Junita
             "https://drive.google.com/uc?export=view&id=17Hx5YTqp7JR_IuLEdl--pGRNjJuJvM3j", # Syadza
             "https://drive.google.com/uc?export=view&id=1cD8hK7NENS8onB4nmNpnb6fSuIpQ_jjn", # Eggi
             "https://drive.google.com/uc?export=view&id=17B8Ce_LLlDM0pKoqoU121Z1f3GX_1Otc", # Febiya
-
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Happy Syahrul
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Aditya
         ]
