@@ -534,6 +534,17 @@ elif menu == "Departemen PSDA":
                 "pesan": "Sukses terus bang dan ajarin saya lagi tentang codingan " # 13
             },
             {
+                "nama": "Leonard Andreas Napitupulu",
+                "nim": "-",
+                "umur": "-",
+                "asal": "-",
+                "alamat": "-",
+                "hobbi": "-",
+                "sosmed": "-",
+                "kesan": "Abang ini belum terwawancarai",  
+                "pesan": "-" # 14
+            },
+            {
                 "nama": "Presilia",
                 "nim": "122450081",
                 "umur": "20",
