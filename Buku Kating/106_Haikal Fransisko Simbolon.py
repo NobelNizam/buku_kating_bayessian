@@ -502,7 +502,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Devyan Loxefal",
-                "nim": "121450128",
+                "nim": "121450148",
                 "umur": "18",
                 "asal": "Duri, Riau",
                 "alamat": "Kobam Pulau Damar",
