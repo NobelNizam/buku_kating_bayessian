@@ -522,8 +522,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "-",
                 "hobbi": "-",
                 "sosmed": "-",
-                "kesan": "-",  
-                "pesan":"-" # 11
+                "kesan": "belum diwawancarai",  
+                "pesan":"belum diwawancarai" # 11
             },
             {
                 "nama": "Johannes Krisjon Silitonga",
@@ -555,8 +555,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "-",
                 "hobbi": "-",
                 "sosmed": "- ",
-                "kesan": "-",  
-                "pesan":"-" # 14
+                "kesan": "belum diwawancarai",  
+                "pesan":"belum diwawancarai" # 14
             },
             {
                 "nama": "Presilia",
@@ -667,7 +667,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1eu4q2gOXJzzBCDl52XKH5OSelVrseIDO", #rafi
             "https://drive.google.com/uc?export=view&id=1fjdjkO8TiA8yVBJPxNserCOQGEbZYp2T", #anisa
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_" # Mujadid
-            "https://drive.google.com/uc?export=view&id=1M5wkOBIQTuXosiTZiEgPoc1fKhgD_5wL", #ahmad 
+            "https://drive.google.com/uc?export=view&id=/1M5wkOBIQTuXosiTZiEgPoc1fKhgD_5wL", #ahmad 
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #fadil
             "https://drive.google.com/uc?export=view&id=1JR26P9OjQ8lwLcGlfDx5V3VMI2RknsWi", #regi 
             "https://drive.google.com/uc?export=view&id=10kWxeGQGCju9d-gXW6Um2_o-XQfYLULY", #syalaisha
@@ -682,8 +682,8 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1fpTPVkpRYndBpuugkYWpcNYYbj1ns5-1", #adit
             "https://drive.google.com/uc?export=view&id=1-uHLUsN3xYMhRThT1QYamcfVOlO2qoft", #eggi
             "https://drive.google.com/uc?export=view&id=1-Z6xiMPzd2Z7yBKSeoT0QGYnyv0bwjmt", #febiya
-            "https://drive.google.com/uc?export=view&id=1g69JH8bRNmP4fvzmaAXetiX4f3ZACZvm", #randa
             "https://drive.google.com/uc?export=view&id=1cXxQTKmC57p6ZP6QJyTfA88ED0BJ72SE", #happy
+            "https://drive.google.com/uc?export=view&id=1g69JH8bRNmP4fvzmaAXetiX4f3ZACZvm", #randa
             "https://drive.google.com/uc?export=view&id=1yPvO4a1UEVafC2jjI789GjRHat7-LTrb", #vita
         ]
         data_list =   [
@@ -717,8 +717,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "-",
                 "hobbi": "",
                 "sosmed": "",
-                "kesan": "-",  
-                "pesan":"-"
+                "kesan": "belum diwawancarai",  
+                "pesan":"belum diwawancarai"
             },
             {
                 "nama": "Ahmad Sahidin Akbar",
@@ -739,8 +739,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Game",
                 "sosmed": "@fadhilfwee",
-                "kesan": " keren bang hobinya main game ",  
-                "pesan":"  semangat terus bang kuliahnya " # 5
+                "kesan": " keren bang hobinya main game",  
+                "pesan":"ayo kita mabar bang" # 5
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -886,17 +886,6 @@ elif menu == "Departemen MIKFES":
                 "pesan":"rekomendasiin drakor yang bikin emosi dong kak" # 18
             },
             {
-                "nama": "Randa Andriana Putra",
-                "nim": "122450083",
-                "umur": "21",
-                "asal": "Banten",
-                "alamat": "Sukarame",
-                "hobbi": "Tidur dan Berkembang",
-                "sosmed": "@randaandriana_",
-                "kesan": "Abang kyk orang Sunda ",  
-                "pesan":" Berkembang gimana tuh bang hobinya?" # 20
-            },
-            {
                 "nama": "Happy Syahrul Ramadhan",
                 "nim": "122450013",
                 "umur": "20",
@@ -908,15 +897,26 @@ elif menu == "Departemen MIKFES":
                 "pesan":"selalu happy ya bang kuliahnya!", # 19
             },
             {
+                "nama": "Randa Andriana Putra",
+                "nim": "122450083",
+                "umur": "21",
+                "asal": "Banten",
+                "alamat": "Sukarame",
+                "hobbi": "Tidur dan Berkembang",
+                "sosmed": "@randaandriana_",
+                "kesan": "Abang kyk orang Sunda ",  
+                "pesan":" Berkembang gimana tuh bang hobinya?" # 20
+            },
+            {
                 "nama": "Vita Anggraini",
-                "nim": "  ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
-                "hobbi": "  ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"  " # 21
+                "nim": "-",
+                "umur": "-",
+                "asal": "-",
+                "alamat": "-",
+                "hobbi": "-",
+                "sosmed": "-",
+                "kesan": "belum diwawancarai",  
+                "pesan" : "belum diwawancarai" # 21
             }
         ]
         display_images_with_data(gambar_urls, data_list)
