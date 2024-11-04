@@ -1107,8 +1107,8 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton youtube, main game",
                 "sosmed": "@alfaritziirvan",
-                "kesan": "tidak terwawancarai", # non-wwc
-                "pesan": "-"
+                "kesan": "gede banget kak irvan sigmaa",
+                "pesan": "hati-hati dijalan ya bang bnyk begal di sukarame"
             },
             {
                 "nama": "Izza Lutfia",
