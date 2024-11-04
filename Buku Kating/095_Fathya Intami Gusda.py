@@ -764,8 +764,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Game",
                 "sosmed": "@fadhilfwee",
-                "kesan": "abangnya keliatan asik",  
-                "pesan":"semangatt terus ya abang" #
+                "kesan": "tidak terwawancarai",  
+                "pesan":"-" #
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
@@ -907,7 +907,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "-",
                 "hobbi": "-",
                 "sosmed": "-",
-                "kesan": "Kakak ini belum diwawancarai",  
+                "kesan": "tidak terwawancarai",  
                 "pesan": "-"
             },
         ]
@@ -1353,12 +1353,12 @@ elif menu == "Departemen SSD":
                 "hobbi": "Nyari hobi",
                 "sosmed": "@andriangaol",
                 "kesan": "baik dan ramah",  
-                "pesan":"semangat mengerjakan TA dan MSS nya bang adrian"
+                "pesan":"semangat mengerjakan TA dan MSS nya bang andrian"
             },
             {
                 "nama": "Adisty Syawalda Ariyanto",
                 "nim": "121450136",
-                "umur": "23",
+                "umur": "22",
                 "asal":"Metro",
                 "alamat": "Sukarame",
                 "hobbi": "Nonton Film",
