@@ -7,7 +7,7 @@ import seaborn as sns
 st.title("Data Analysis App")
 st.write("This app allows you to perform data analysis tasks based on Kelompok08's project.")
 # Load data
-url = "https://github.com/NobelNizam/buku_kating_bayessian/tree/main/tools/Pendataan Peserta Magang CEO HMSD 2024 (Responses) - Form Responses 1.csv"
+url = "https://github.com/NobelNizam/buku_kating_bayessian/blob/main/tools/Pendataan%20Peserta%20Magang%20CEO%20HMSD%202024%20(Responses)%20-%20Form%20Responses%201.csv"
 data = pd.read_csv(url)
 # Display dataset
 if st.checkbox("Show Data"):
