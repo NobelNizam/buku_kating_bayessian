@@ -1302,7 +1302,6 @@ elif menu == "Departemen Internal":
                 "kesan": "Kakaknya baik, keren, pinter, agak pendiam",  
                 "pesan": "Semangat terus kuliahnya kak" # 9
             },
-
             {
                 "nama": "Meira Listyaningrum",
                 "nim": "122450011",
