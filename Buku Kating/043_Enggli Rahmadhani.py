@@ -900,9 +900,9 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1ZTATTGKpXtqjp2OpqqHK1_x-4eGWWede", #kk novelia
             "https://drive.google.com/uc?export=view&id=1Z_zaVZzHdekJNqksjx-wfi-0z0oaeYop", #kak ratu
             "https://drive.google.com/uc?export=view&id=1EdaD_8KZXnHuiHQwgxMc9KrkEcy-EC9F", #bg tobias edison
-            "https://drive.google.com/uc?export=view&id=1Y_Mi8Ua6AeJkyXPHMnrcDjhr8qrh_Ubb", #kk yohana
+            "https://drive.google.com/uc?export=view&id=1QDiaEo5yv3kCXltUkpkXUy5bPnQkrV0e", #kk yohana
             "https://drive.google.com/uc?export=view&id=1_Uh3V-5NIGz7EvWYTCJpMa5MnSfHCyoV", #bgrizky
-            "https://drive.google.com/uc?export=view&id=15rp5WDIY4epYEFGN4r8DcX4IIFCy2Bg0", #bg raffy
+            "https://drive.google.com/uc?export=view&id=1InOoK-SqDg4eOK67QFxl0l8UYGJLRmcL", #bg raffy
             "https://drive.google.com/uc?export=view&id=1ayRI02yD7yJfm8w5G-5Gomrd-o9IL9Gg", #kk asa
             "https://drive.google.com/uc?export=view&id=1gaEHVhNYA7CAiCIDOXh3rhIW1u0VQeO-", #kk chalifia
             "https://drive.google.com/uc?export=view&id=1aS0mHxxCmdR4W1I3g5LPOvypeaqVbLGB", #bg irvan
@@ -1145,7 +1145,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1MngchzGP8gclFUAI0O9grfXx7cN-mUcU", #kk rani
             "https://drive.google.com/uc?export=view&id=1SOzJhusBvImxE4qPghMm-d6KwkUduQo_", #bg rendra
             "https://drive.google.com/uc?export=view&id=1MkMeVYQ_U6R9pj99FbkQeGK_3N_d4r5a", #kk salwa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=17-trc3h8kMbWphAeLPLU_az7VaOOIZKF", #bg yosia
             "https://drive.google.com/uc?export=view&id=1Mjcdko_wYmq8_DMhj3az-VJHnJL7A_b9", #bg ari sigit
             "https://drive.google.com/uc?export=view&id=1MqORMMTEGium_xQhMS0DxMTlFbqI_thp", #kk azizah
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -1468,7 +1468,7 @@ elif menu == "Departemen MEDKRAF":
         	"https://drive.google.com/uc?export=view&id=1F8Fll0mUA-ux_VS_LNlvkinBYLM0iV0r", #kk rahma
         	"https://drive.google.com/uc?export=view&id=18u_F_IyvQ3RtBUoILj_fL6uvqLJTp2Wz", #kk cya
         	"https://drive.google.com/uc?export=view&id=1dTpVvk36TyEbjDx6ICDa6mHlQE9zZUh1", #bg kaisar
-        	"https://drive.google.com/uc?export=view&id=1MRmNwCx9KDOmXKw3n1-nayUQ2nz542IK", #kk ratna
+        	"https://drive.google.com/uc?export=view&id=1udFXK4ha9W1NV0anyKZYs9REG68d_Ttc", #kk ratna
         	"https://drive.google.com/uc?export=view&id=1Fv48PteYrQbFkqykcFg_JSBDLFRm7Vfi", #bg gymnas
         	"https://drive.google.com/uc?export=view&id=1uHri5_bPqmQ7HwN7un-bM0T4jUjt49J0", #kk nasywa
         	"https://drive.google.com/uc?export=view&id=1uXWGWr_Y1pFXpJvlUO3mRCxOtjR1n3yA", #kk priska
