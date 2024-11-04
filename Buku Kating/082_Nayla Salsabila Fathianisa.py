@@ -380,7 +380,7 @@ elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1Bfi7j-Na9RkP5qvsIwx6lpLzoH5P6oB6",
-            "https://drive.google.com/uc?export=view&id=1FQ7_WDX669QX-xBNljoIXa301HG5DffA",
+            "https://drive.google.com/uc?export=view&id=1CGtDF9MmFwX2XVLkjO3gvlUPSzMVfX7J",
             "https://drive.google.com/uc?export=view&id=1Q5u9m_fwcvmavzuWMsDCayRTW-k933Ec",
             "https://drive.google.com/uc?export=view&id=1piMpmkiZTXjieilRj_GoJBwULRXwqAe1",
             "https://drive.google.com/uc?export=view&id=1gpiHWPs1pRMVIiZCTlSBQlXVEmu7yR-Z",
@@ -655,7 +655,7 @@ elif menu == "Departemen MIKFES":
                 "hobbi": "Olahraga",
                 "sosmed": "@rafadhilillahh13",
                 "kesan": "Abang nya baik",  
-                "pesan":"Semangat kuliah nya bang" # 1
+                "pesan":"Semangat kuliah nya bangg" # 1
             },
             {
                 "nama": "Annisa Novantika",
