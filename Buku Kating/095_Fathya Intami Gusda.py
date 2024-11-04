@@ -1211,7 +1211,7 @@ elif menu == "Departemen Internal":
                 "pesan":"semoga lancar terus kuliahnya ya kak!, semangkaaa!!"# 1
             },
             {
-                "nama": "Yosia Reatare Banurea",
+                "nama": "Yosia Letare Banurea",
                 "nim": "121450149",
                 "umur": "20",
                 "asal":"Dairi, Sumatera Utara",
