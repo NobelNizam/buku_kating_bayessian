@@ -1479,6 +1479,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1lcPE8TN2gRMss0TvkMHGCRCKBUfSiMNp",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #3 kosong
             "https://drive.google.com/uc?export=view&id=1CO-K8V4MC5iG3Jj18CEcic051nivwTyO", 
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #5 kosong
             "https://drive.google.com/uc?export=view&id=1VS-3BZXnIWfF0l-1_kWWLFyUxxcRiRQA",
             "https://drive.google.com/uc?export=view&id=1WQFklP5v1FZou85KCSOFoLzzsTf-Mj2y",
@@ -1538,6 +1539,17 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@cintyabella28",
                 "kesan": "Kakaknya keren banget, tinggi, baik dan tidak sombong",  
                 "pesan": "Semangat ngegym nya kak, kapan ngegym bareng? wkwk"# 1
+            },
+            {
+                "nama": "Eka Fidiya Putri",
+                "nim": "122450045",
+                "umur": "20",
+                "asal":"Natar",
+                "alamat": "Natar",
+                "hobbi": "Menyibukkan Diri",
+                "sosmed": "@ekafdyaptri",
+                "kesan": "Kakak ini belum diwawancarai",  
+                "pesan": "Semangat terus kuliahnya kak"
             },
             {
                 "nama": "Najla Juwairia",
