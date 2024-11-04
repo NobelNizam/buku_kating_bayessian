@@ -672,6 +672,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1-88TmSJ3BdjGLBqiaupCrS-b5T0ixH75", #Febiya Jomy Pratiwi
             "https://drive.google.com/uc?export=view&id=1cajJug9A4Wv5zHL3XC_WOOOFJNkATTuQ", #Happy Syahrul Ramadhan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Randa Andriana Putra
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kk vita
         ]
         data_list = [
             {
@@ -765,7 +766,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Anwar Muslim",
                 "nim": "122450117",
-                "umur": "18",
+                "umur": "21",
                 "asal":"Bukittinggi",
                 "alamat": "Korpri",
                 "hobbi": "ML (Machine Learning)",
@@ -893,6 +894,17 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@randaandriana_",
                 "kesan": "abangnya baik",  
                 "pesan":"abangnya sehari tidur berapa jam bang" 
+            },
+            {
+                "nama": "Vita Anggraini",
+                "nim": "-",
+                "umur": "-",
+                "asal": "-",
+                "alamat": "-",
+                "hobbi": "-",
+                "sosmed": "-",
+                "kesan": "Kakak ini belum diwawancarai",  
+                "pesan": "-"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
