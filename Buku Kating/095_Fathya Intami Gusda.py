@@ -1176,7 +1176,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Main sepeda ke gunung",
                 "sosmed": "@akbar_restika",
                 "kesan": "abangnya ramah dan baik",  
-                "pesan":"sukses terus abangg"# 1
+                "pesan":"sukses terus abangg, lancar sampai lulus ya bangg"# 1
             },
             {
                 "nama": "Rani Puspita Sari",
@@ -1187,7 +1187,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Mendengarkan musik",
                 "sosmed": "@rannipu",
                 "kesan": "Kakaknya seru",  
-                "pesan":"semangat terus kakak kuliahnyaaa!!, "
+                "pesan":"semangat terus kakak kuliahnyaaa!!, sukses terus kak "
             },
             {
                 "nama": "Rendra Eka Prayoga",
@@ -1598,7 +1598,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Bersih-bersih",
                 "sosmed": "@nsywanaf",
                 "kesan": "kakaknya baikkk ",  
-                "pesan":"semangat terus untuk ksemua kegiatannya kakak cantikk" # 13
+                "pesan":"semangat terus untuk semua kegiatannya kakak cantikk" # 13
             },
             {
                 "nama": "Priska Silvia Ferantiana",
@@ -1653,13 +1653,13 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Bengong",
                 "sosmed": "@hermawan.mnrng",
                 "kesan": "abangnya asikk ",  
-                "pesan":"semangattt ya bang, sukses dan bahagaia selaluuu " # 18
+                "pesan":"semangattt ya bang, sukses dan bahagiiia selaluuu " # 18
             },
             {
                 "nama": "Khusnun Nisa",
                 "nim": "122450078",
                 "umur": "20",
-                "asal": "Muara Pilu, Bakauhuni",
+                "asal": "Muara Pilu, Bakauheni",
                 "alamat": "Belwis",
                 "hobbi": "Berantakin kamar",
                 "sosmed": "@khusnun_nisa335",
