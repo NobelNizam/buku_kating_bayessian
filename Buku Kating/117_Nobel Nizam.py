@@ -102,8 +102,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1cd1vUD4JQ_WgSzMZxFaXTndy-MkhFCIz", # bang gumi
             "https://drive.google.com/uc?export=view&id=10UxWL15C0o56M45tRsUz8765XSb2GXCf", # bang pandra
             "https://drive.google.com/uc?export=view&id=1UJnNpXJk9KLQD0owheULnKZNOucM30YW", # kak melinza
-            "https://drive.google.com/uc?export=view&id=1Ec9kbnOViKj0rX6sRmXhs4OfOPWpK7SZ", # kak titi
             "https://drive.google.com/uc?export=view&id=1ay9-1LMfY88KdqDoDcwyl8MV9ch2qoUF", # kak maulida
+            "https://drive.google.com/uc?export=view&id=1Ec9kbnOViKj0rX6sRmXhs4OfOPWpK7SZ", # kak titi
             "https://drive.google.com/uc?export=view&id=1_Ci5pwAUqLzSq3yc_LOlnZugMYtm_Il4", # kak nadila
         ]
         data_list = [
@@ -141,17 +141,6 @@ if menu == "Kesekjenan":
                 "pesan": "sehat-sehat ya kak, semoga bisa kami riuhkan dengan teman-temannya!"
             },
             {
-                "nama": "Hartiti Fadhilah",
-                "nim": "121450031",
-                "umur": "21",
-                "asal": "Palembang",
-                "alamat": "Pemda",
-                "hobbi": "Nyanyi",
-                "sosmed": "@hartfdlh",
-                "kesan": "kak titi keren tau, kek kharismanya unik gitu",  
-                "pesan": "semoga dapat jodoh dan lulus dari itera dengan mudah ya kak!"
-            },
-            {
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
@@ -161,6 +150,17 @@ if menu == "Kesekjenan":
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "kak lida asik dan seruu",  
                 "pesan": "ajak aku ngobrol soal itera dong kak"
+            },
+            {
+                "nama": "Hartiti Fadhilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal": "Palembang",
+                "alamat": "Pemda",
+                "hobbi": "Nyanyi",
+                "sosmed": "@hartfdlh",
+                "kesan": "kak titi keren tau, kek kharismanya unik gitu",  
+                "pesan": "semoga dapat jodoh dan lulus dari itera dengan mudah ya kak!"
             },
             {
                 "nama": "Nadilla Andhara Putri",
