@@ -462,8 +462,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Rajabasa",
                 "hobbi": "Nitip shalat",
                 "sosmed": "@eksantyfebriana",
-                "kesan": " kakaknya  ",  
-                "pesan":"  " # 5
+                "kesan": " kakaknya elegaan ",  
+                "pesan":" semoga kedepannya nggak nitip shalat lagi ya kak " # 5
             },
             {
                 "nama": "Farahanum Afifah Ardiansyah",
@@ -789,7 +789,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Lapas",
                 "hobbi": "Membaca jurnal dari Bu Mika",
                 "sosmed": "@dindanababan_",
-                "kesan": "  ",  
+                "kesan": " kakaknya lucuu ",  
                 "pesan":" baca jurnalnya jangan kedeketan sama mata ya kak nanti sakit matanya " # 8
             },
             {
@@ -800,7 +800,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gg. Nangka 3",
                 "hobbi": "Review Jurnal Bu Mika",
                 "sosmed": "@marletacornelia",
-                "kesan": "  ",  
+                "kesan": " kakaknya cantik sekalii ",  
                 "pesan":" kasih tips supaya suka ngereview jurnal kak " # 9
             },
             {
@@ -811,8 +811,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Gg. Nangka 3",
                 "hobbi": "Menghitung Akurasi",
                 "sosmed": "@junitaa_0406",
-                "kesan": "  ",  
-                "pesan":"  " # 10
+                "kesan": " kakaknya keliatan kalemm ",  
+                "pesan":" hobi kakak kereenn terus nanti ajarin aku yaa " # 10
             },
             {
                 "nama": "Syadza Puspadari Azhar",
@@ -822,8 +822,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Belwis",
                 "hobbi": "Membangkitkan bilangan",
                 "sosmed": "@puspadrr",
-                "kesan": "  ",  
-                "pesan":"  " # 11
+                "kesan": " kakaknya kalem pendiaam ",  
+                "pesan":" kak gimana cara membangkitkan bilangan? " # 11
             },
             {
                 "nama": "Eggi Satria",
@@ -833,8 +833,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi": "Ngoding WISATA",
                 "sosmed": "@egistr",
-                "kesan": "  ",  
-                "pesan":"  " # 12
+                "kesan": " abangnya seruu ",  
+                "pesan":" ajarin aku ngoding WISATA kak " # 12
             },
             {
                 "nama": "Febiya Jomy Pratiwi",
@@ -844,8 +844,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl Kelengkeng Raya",
                 "hobbi": "Review Jurnal",
                 "sosmed": "@pratiwifebiya",
-                "kesan": "  ",  
-                "pesan":"  " # 13
+                "kesan": " kakaknya keliatan kalem sama pinteerr ",  
+                "pesan":" Semangat jurnalnya kak " # 13
             },
             {
                 "nama": "Happy Syahrul Ramadhan",
@@ -855,8 +855,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Karang Anyar",
                 "hobbi": "Main Game",
                 "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": "  ",  
-                "pesan":"  " # 14
+                "kesan": " abangnya emang terlihatdiem diem pintar ",  
+                "pesan":" bang jangan begadang bang main gamenya " # 14
             },
             {
                 "nama": "Aditya Rahman",
@@ -866,8 +866,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobbi": "Ngoding Wisata",
                 "sosmed": "@sudo.syahrulramadhannn",
-                "kesan": "  ",  
-                "pesan":"  " # 15
+                "kesan": " abangnya keliatan rapiihh ",  
+                "pesan":" semangat terus bang ngodingnyaa " # 15
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1396,8 +1396,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Pemda",
                 "hobbi": "Menulis",
                 "sosmed": "@tesakanias",
-                "kesan": "  ",  
-                "pesan":"  " # 7
+                "kesan": " kakaknya kalem ",  
+                "pesan":" kakak suka nulis cerita ya kak? " # 7
             },
             {
                 "nama": "Nabilah Andika Fitriati",
@@ -1407,8 +1407,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Kedaton",
                 "hobbi": "Tidur",
                 "sosmed": "@nabilahanftr",
-                "kesan": "  ",  
-                "pesan":"  " # 8
+                "kesan": " kakak keliatan tegas ",  
+                "pesan":" jangn kelamaan tidurnya ya kak " # 8
             },
             {
                 "nama": "Alvia Asrinda Br.Gintng",
@@ -1418,8 +1418,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Pemda",
                 "hobbi": " Menulis",
                 "sosmed": "@tesakanias",
-                "kesan": "  ",  
-                "pesan":"  " # 9
+                "kesan": " kakaknya keliatan kalem, tenangg gituu ",  
+                "pesan":" nulis apa itu kak? " # 9
             },
             {
                 "nama": "Dhafin Razaqa Luthfi",
@@ -1429,8 +1429,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Nangkal",
                 "hobbi": "Olahraga",
                 "sosmed": "@dhafinrzqa13",
-                "kesan": "  ",  
-                "pesan":"  " # 10
+                "kesan": " orangnya pendiem ",  
+                "pesan":" sehat selalu bang " # 10
             },
             {
                 "nama": "Elia Meylani Simanjuntak",
@@ -1440,8 +1440,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobbi": "Main Alat Musik",
                 "sosmed": "@meylanielia",
-                "kesan": "  ",  
-                "pesan":"  " # 11
+                "kesan": " kakaknya periaang, cantik lagi ",  
+                "pesan":" kakak bisanya main alat musik apa kak? " # 11
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1450,7 +1450,7 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=19mhrnMRkHdyBxj4_8TcuWaSMALZpTSpF", # Wahyu 1 tdk
+            "https://drive.google.com/uc?export=view&id=19mhrnMRkHdyBxj4_8TcuWaSMALZpTSpF", # Wahyu 1
 
             "https://drive.google.com/uc?export=view&id=1vBOGQZb1HU-cWCUb2RbhCSLFwm8heE5f", # Elok 2
 
