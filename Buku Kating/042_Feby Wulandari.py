@@ -667,7 +667,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1eu4q2gOXJzzBCDl52XKH5OSelVrseIDO", #rafi
             "https://drive.google.com/uc?export=view&id=1fjdjkO8TiA8yVBJPxNserCOQGEbZYp2T", #anisa
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_" # Mujadid
-            "https://drive.google.com/uc?export=view&id=/1M5wkOBIQTuXosiTZiEgPoc1fKhgD_5wL", #ahmad 
+            "https://drive.google.com/uc?export=view&id=1M5wkOBIQTuXosiTZiEgPoc1fKhgD_5wL", #ahmad 
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #fadil
             "https://drive.google.com/uc?export=view&id=1JR26P9OjQ8lwLcGlfDx5V3VMI2RknsWi", #regi 
             "https://drive.google.com/uc?export=view&id=10kWxeGQGCju9d-gXW6Um2_o-XQfYLULY", #syalaisha
