@@ -1145,7 +1145,7 @@ elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1K4s6zWGY-T_ciS0Gl-mtQtfH9scJOHEY",#dimas
-            "https://drive.google.com/uc?export=view&id=1jNiRLMS-91g2rff47JUUme27B1BpzRWA",#cetrin
+            "https://drive.google.com/uc?export=view&id=1jlvous0r0MxeGiUOOZ9p3mGyYJZIGrIW",#cetrin
             "https://drive.google.com/uc?export=view&id=1K8q7JVpKXT0P4_mBojra5jKRGxLjtOA1",#akbar
             "https://drive.google.com/uc?export=view&id=1KCwyIaBPtvPiJezKcIRouist1rS0J6Qy",#rani
             "https://drive.google.com/uc?export=view&id=1K2lvNmwkrYL3pE7MQAAGcoC7kBikRmkY",#rendera
