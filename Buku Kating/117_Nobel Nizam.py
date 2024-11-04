@@ -704,7 +704,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "-",
                 "hobbi": "-",
                 "sosmed": "-",
-                "kesan": "tidak terwawancarai",  
+                "kesan": "tidak terwawancarai", # non-wwc
                 "pesan": "-"
             },
             {
@@ -902,7 +902,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "-",
                 "hobbi": "-",
                 "sosmed": "-",
-                "kesan": "tidak terwawancarai",  
+                "kesan": "tidak terwawancarai", # non-wwc
                 "pesan": "-"
             },
         ]
