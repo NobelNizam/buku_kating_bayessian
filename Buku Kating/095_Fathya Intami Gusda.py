@@ -764,8 +764,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Game",
                 "sosmed": "@fadhilfwee",
-                "kesan": "abangnya keliatan asik",  
-                "pesan":"semangatt terus ya abang" #
+                "kesan": "tidak terwawancarai",  
+                "pesan":"-" #
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
@@ -907,7 +907,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "-",
                 "hobbi": "-",
                 "sosmed": "-",
-                "kesan": "Kakak ini belum diwawancarai",  
+                "kesan": "tidak terwawancarai",  
                 "pesan": "-"
             },
         ]
