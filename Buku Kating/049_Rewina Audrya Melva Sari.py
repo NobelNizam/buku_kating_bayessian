@@ -1452,6 +1452,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Najla 6 tdk
 
             "https://drive.google.com/uc?export=view&id=1u5rQy9NqhwkhJdEo6k6COfJCVbwNQPiI", # Patricia 7
+            
             "https://drive.google.com/uc?export=view&id=1EYkg6JmU3ehWcoisi_WbbmVAp46upC2b", # Rahma 8
             "https://drive.google.com/uc?export=view&id=15X7WwU6XrdZKsUMXT9NZNkR35LO1JsXl", # Try Yani 9
             "https://drive.google.com/uc?export=view&id=15StBCV2kad6QgRAcZeIv60xRLDi9xvsv", # Kaisar 10
@@ -1496,7 +1497,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Tanjung Senang",
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah._",
-                "kesan": "  ",  
+                "kesan": " tidak terwawancarai ",  
                 "pesan":"  " # 3
             },
             {
@@ -1518,7 +1519,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Natar, lampung Selatan",
                 "hobbi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
-                "kesan": "  ",  
+                "kesan": " belum wawancaraa ",  
                 "pesan":"  " # 5
             },
             {
@@ -1529,7 +1530,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Airan",
                 "hobbi": "Menulis, Membaca, fangirling",
                 "sosmed": "@nanana_minjoo",
-                "kesan": "  ",  
+                "kesan": " kakaknya baikk  ",  
                 "pesan":" kakak fangirl siapa kak? " # 6
             },
             {
@@ -1632,7 +1633,7 @@ elif menu == "Departemen MEDKRAF":
                 "pesan":" aku mau liat koleksi parfum abang boleh nggak bang? " # 15
             },
             {
-                "nama": "A'bit Ahmad Oktarian",
+                "nama": "Abit Ahmad Oktarian",
                 "nim": "122450042",
                 "umur": "19",
                 "asal": "Bandar Lampung",
