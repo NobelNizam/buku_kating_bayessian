@@ -269,7 +269,7 @@ elif menu == "Baleg":
                 "alamat": "Teluk Betung",
                 "hobbi": "Mendengar musik ",
                 "sosmed": "@fleurnsh",
-                "kesan": "cantiiikkkk",  
+                "kesan": "kakaknya diem diem aja waktu wawancaraa",  
                 "pesan": "semangat kerjanya kak"
             },
             {
