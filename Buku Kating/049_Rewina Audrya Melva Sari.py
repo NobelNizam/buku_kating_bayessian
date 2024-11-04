@@ -1251,7 +1251,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Berenang di Laut",
                 "sosmed": "@rexander",
                 "kesan": "abangnya lucuu",  
-                "pesan":"bang apakah kamu bisa ngambang dilaut bang"# 12
+                "pesan":"abang rekomendasi laut yang indah bang"# 12
             },
             {
                 "nama": "Renta Siahaan",
@@ -1261,8 +1261,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi": "Membaca dan Memancing",
                 "sosmed": "@renita.shn",
-                "kesan": "kakaknya cantiii hihi",  
-                "pesan":"kakaknya mirip temenku sekilas tw"# 13
+                "kesan": "kakaknya cantikk",  
+                "pesan":"mancing apa kak?"# 13
             },
             {
                 "nama": "Josua Panggabean",
@@ -1272,8 +1272,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gya Kos",
                 "hobbi": "Nonton Film",
                 "sosmed": "@josuapanggabean16_",
-                "kesan": "abangnya kece",  
-                "pesan":"semangat dan sehat selalu bang"# 14
+                "kesan": "abangnya kece abiss",  
+                "pesan":"film favorit abang apa bang?"# 14
             },
         ]
         display_images_with_data(gambar_urls, data_list)
