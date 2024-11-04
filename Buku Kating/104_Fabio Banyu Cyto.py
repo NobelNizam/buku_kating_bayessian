@@ -102,8 +102,8 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1hR6n7vwLyy_3foU73bI78QlDZdyact69", #Bang Gumilang
             "https://drive.google.com/uc?export=view&id=13Gelrkr1u6OCfXa7xpSmpls251skyMid", #Bang Pandra
             "https://drive.google.com/uc?export=view&id=1tUR5FwDIVbF4ZJJIBFGg0MmS6jbLEZ9H", #Kak Meliza
-            "https://drive.google.com/uc?export=view&id=1mFNePDj3QNbftyRODlZ9e6iajLfMux7g", #Kak hartiti
-            "https://drive.google.com/uc?export=view&id=1jhFZFXD1pz6lmTAw7oxxmyarhldNgBLE", #Kak putri
+            "https://drive.google.com/uc?export=view&id=1jhFZFXD1pz6lmTAw7oxxmyarhldNgBLE", #Kak hartiti
+            "https://drive.google.com/uc?export=view&id=1mFNePDj3QNbftyRODlZ9e6iajLfMux7g", #Kak putri
             "https://drive.google.com/uc?export=view&id=1-YRvgLgnSfRRW7vSYjo0vmJmn8eu9wrS", #Kak Nadilla
         ]
         # capek anjay plis omagaaaaa
@@ -142,18 +142,6 @@ if menu == "Kesekjenan":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Hartiti Fadhilah",
-                "nim": "121450031",
-                "umur": "21",
-                "asal":"Palembang",
-                "alamat": "Pemda",
-                "hobbi": "Nyanyi",
-                "sosmed": "@hartfdlh",
-                "kesan": "Kakaknya asik dan murah senyum guyss",  
-                "pesan":"Semoga dimudahkan dalam menyelesaikan perkuliahannya kakak"
-
-            },
-            {
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
@@ -163,6 +151,18 @@ if menu == "Kesekjenan":
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "kakaknya pintar dalam menjawab pertanyaan",  
                 "pesan":"Semoga kakak selalu aktif dan semangat"
+
+            },
+            {
+                "nama": "Hartiti Fadhilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobbi": "Nyanyi",
+                "sosmed": "@hartfdlh",
+                "kesan": "Kakaknya asik dan murah senyum guyss",  
+                "pesan":"Semoga dimudahkan dalam menyelesaikan perkuliahannya kakak"
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -205,7 +205,7 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobbi": "Ngerjain TA",
                 "sosmed": "@trimurniaa",
-                "kesan": "Asik banget kakak orangnya",  
+                "kesan": "kakak nia, Asik banget orangnya",  
                 "pesan":"Semoga dilancarkan segala urusannya, fokus dengan apa yang dituju kak nanti keasikan buat peraturan di baleg wkwkwkw"
             },
             {
@@ -1343,8 +1343,8 @@ elif menu == "Departemen SSD":
                 "nama": "Andrian Agustinus Lumban Gaol",
                 "nim": "121450090",
                 "umur": "21",
-                "asal": "Panjibako",
-                "alamat": "Jl. Bel",
+                "asal": "Sidikalang",
+                "alamat": "dekat penjara",
                 "hobbi": "Mencari Uang",
                 "sosmed": "@andriangaol",
                 "kesan": "Bang Andrian Kekar banget bang, pasti sering ngegym",  
