@@ -309,7 +309,7 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Claudhea Angeliani",
-                "nim": "121450024",
+                "nim": "121450124",
                 "umur": "21",
                 "asal":"Lampung Timur",
                 "alamat": "Lampung Timur",
@@ -330,7 +330,7 @@ elif menu == "Baleg":
                 "pesan":"Semangatt semester 5 nya kakak!"
             },
             {
-                "nama": "Renisha Putri Giyani",
+                "nama": "Renisha Putri Giani",
                 "nim": "122450079",
                 "umur": "21",
                 "asal":"Bandar Lampung",
@@ -353,7 +353,7 @@ elif menu == "Senator":
         ]
         data_list = [
             {
-                "nama": "Annisa Lutfia Alifia",
+                "nama": "Annisa Luthfi Alifia",
                 "nim": "121450093",
                 "umur": "22",
                 "asal":"Lampung Tengah",
@@ -401,7 +401,6 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1JONpUAWAkZfP4fiwx-Q0j3DSwvuzY0n6",
             "https://drive.google.com/uc?export=view&id=1MlTCbQqZL86QZfwJu3EIYKwV1lyBAHnv",
             "https://drive.google.com/uc?export=view&id=1JR-gceVRXZRA6D_3AbGiCb1TlhihlgVT",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             
         ]
         data_list = [
@@ -494,7 +493,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat kuliahnya dan hari-harinya ya abang "# 1
             },
             {
-                "nama": "Oktavia Nurwenda Puspita Sari",
+                "nama": "Oktavia Nurwinda Puspita Sari",
                 "nim": "122450041",
                 "umur": "18",
                 "asal":"Lampung Timur",
@@ -505,8 +504,8 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat dan bahagia selalu kakak cantikk"
             },
             {
-                "nama": "Devyan Loxefal",
-                "nim": "122450128",
+                "nama": "Deyvan Loxefal",
+                "nim": "121450148",
                 "umur": "21",
                 "asal":"Duri, Riau",
                 "alamat": "Kobam, Pulau Damar",
@@ -624,17 +623,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@syalaisha.i_",
                 "kesan": "Kakaknya murah senyum",  
                 "pesan":"semangat ya kakak!!"
-            },
-            {
-                "nama": "Vanessa Olivia Rose",
-                "nim": "121450108",
-                "umur": "20",
-                "asal":"Jakarta",
-                "alamat": "Korpri",
-                "hobbi": "Belajar",
-                "sosmed": "@roselivnes__",
-                "kesan": "Kakaknya terlihat seru dan asik",  
-                "pesan":"semangat mss, dan lomba-lomba kedepannya kakak cantikk kakak!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1025,7 +1013,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"semangat pengmas dan kuliahnya ya kakak cantikk"
             },
             {
-                "nama": "Bastian Heskia",
+                "nama": "Bastian Heskia Silaban",
                 "nim": "122450130",
                 "umur": "21",
                 "asal":"Batam, Kepulauan Riau",
@@ -1036,7 +1024,7 @@ elif menu == "Departemen Eksternal":
                 "pesan":"semangat untuk seluruh kegiatan dan kuliahnya abang !!!"# 1
             },
             {
-                "nama": "Esteria Rohanauli Sidaur",
+                "nama": "Esteria Rohanauli Sidauruk",
                 "nim": "122450025",
                 "umur": "19",
                 "asal":"Bali",
@@ -1158,7 +1146,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama": "Catherine Firdhasari Maulina Sinaga",
-                "nim": "121450071",
+                "nim": "121450072",
                 "umur": "20",
                 "asal":"Sumatera Utara",
                 "alamat": "Airan",
@@ -1180,7 +1168,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama": "Rani Puspita Sari",
-                "nim": "122450022",
+                "nim": "122450030",
                 "umur": "20",
                 "asal":"Metro",
                 "alamat": "Rajabasa",
@@ -1213,7 +1201,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama": "Yosia Reatare Banurea",
-                "nim": "121450049",
+                "nim": "121450149",
                 "umur": "20",
                 "asal":"Dairi, Sumatera Utara",
                 "alamat": "Gerbang Barat",
@@ -1309,7 +1297,7 @@ elif menu == "Departemen SSD":
         ]
         data_list = [
             {
-                "nama": "Adrian Agustinus Lumban Gaol",
+                "nama": "Andrian Agustinus Lumban Gaol",
                 "nim": "121450090",
                 "umur": "21",
                 "asal":"Sindi Kalang",
@@ -1320,7 +1308,7 @@ elif menu == "Departemen SSD":
                 "pesan":"semangat mengerjakan TA dan MSS nya bang adrian"
             },
             {
-                "nama": "Adisty Syawaida Ariyanto",
+                "nama": "Adisty Syawalda Ariyanto",
                 "nim": "121450136",
                 "umur": "23",
                 "asal":"Metro",
@@ -1398,10 +1386,10 @@ elif menu == "Departemen SSD":
             },
             {
                 "nama": "Alvia Asrinda Br Ginting",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
+                "nim": "122450077",
+                "umur": "20",
+                "asal":"Binjai",
+                "alamat": "Korpri",
                 "hobbi": "Nonton",
                 "sosmed": "@alviagnting",
                 "kesan": "Kakaknya baik dan asikk",  
@@ -1603,7 +1591,7 @@ elif menu == "Departemen MEDKRAF":
             {
                 "nama": "Priska Silvia Ferantiana",
                 "nim": "122450053",
-                "umur": " ",
+                "umur": " 20",
                 "asal": "Palembang",
                 "alamat": "Jalan Nangka 2",
                 "hobbi": "Karaoke",
