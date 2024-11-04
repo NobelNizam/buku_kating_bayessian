@@ -1668,7 +1668,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur"  : "20",
                 "asal"  : "Bandar Lampung",
                 "alamat": "Rajabasa",
-                "hobbi" : "Main uno",
+                "hobbi" : "Main Uno",
                 "sosmed": "@abitahmad",
                 "kesan" : "Bang abit baik, humble, dan merangkul banget",  
                 "pesan" : "Terus berkembang ya bang kedepannya"
