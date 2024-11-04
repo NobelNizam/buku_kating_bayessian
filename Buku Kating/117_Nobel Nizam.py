@@ -394,6 +394,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1I23yiRTlScVgYL1V-MP4KWGuEkmFivMs",# kak rafa
             "https://drive.google.com/uc?export=view&id=1HUp1mfRUtlbr7P8QSpRds_A9RBMIr8I2",# bg sahid
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1o1bCt7WTlrRSTs8CsLnGFOFvOOLo3h3p",# bg ateng
             "https://drive.google.com/uc?export=view&id=1o5lmDMv0g12zV4ErDSoZ47-6HrInrUtU",# bg gede
             "https://drive.google.com/uc?export=view&id=1oMbx7MBmnbO2y3Qve2-xzTWMi30LGVhs",# kak jaclin
@@ -502,7 +503,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Devyan Loxefal",
-                "nim": "121450128",
+                "nim": "121450148",
                 "umur": "21",
                 "asal": "Duri, Riau",
                 "alamat": "Kobam Pulau Damar",
