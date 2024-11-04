@@ -1403,7 +1403,7 @@ elif menu == "Departemen SSD":
             	"hobbi": "Menulis",
             	"sosmed": "@tesakanias",
             	"kesan": "kakkk tesaa seruuu  ",  
-            	"pesan":"ajarin saya berbisnis saya kak " # 7
+            	"pesan":"ajarin saya berbisnis ya kak " # 7
         	},
         	{
             	"nama": "Nabilah Andika Fitriati",
