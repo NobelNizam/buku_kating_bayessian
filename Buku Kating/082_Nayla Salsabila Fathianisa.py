@@ -201,7 +201,7 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal":"Bogor",
                 "alamat": "Raden Saleh",
-                "hobbi": "Ngerjain TAr",
+                "hobbi": "Ngerjain TA",
                 "sosmed": "@trimurniaa_",
                 "kesan": "Kakak pembawaannya asik",  
                 "pesan":"Semangat ngerjain TA nya ya kak, semoga lancar selalu ^^"
@@ -214,7 +214,7 @@ elif menu == "Baleg":
                 "alamat": "Belwis, Way Huwi",
                 "hobbi": "Membaca novel",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Kakak nya cantikk",  
+                "kesan": "Kakak nya cantikk, trus ramahh",  
                 "pesan":"Semoga lancar sempro nya yaa kak"# 1
             },
             {
@@ -388,11 +388,11 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1WzVTZgj42mEGebTBhJN9cR6nEwEVLLXE",
             "https://drive.google.com/uc?export=view&id=1U2yqC5_XbzwVaSApWFLqfs_hgKWiaW7k",
             "https://drive.google.com/uc?export=view&id=1LDdhIlE4unUMWjp53OUP1wMCeszQX0b8",
-            "https://drive.google.com/uc?export=view&id=1SWjZ5z7mFrSf7AtW1TVzpFM_IOfBjKNX",
             "https://drive.google.com/uc?export=view&id=1irQpcxvbwUeVGeZKa6S6HyNLgfZ_Ovxs",
             "https://drive.google.com/uc?export=view&id=1LR4fnwV4om8GN7vXeuF4ROjp7hrQusTG",
-            "https://drive.google.com/uc?export=view&id=1Otr4L5pJpkcEYEf3hs-cSlYc6y4cDcRG",
+            "https://drive.google.com/uc?export=view&id=1SWjZ5z7mFrSf7AtW1TVzpFM_IOfBjKNX",
             "https://drive.google.com/uc?export=view&id=1k8tb50EN-YFUA6Arp3wDtSwSvqvMkJpT",
+            "https://drive.google.com/uc?export=view&id=1Otr4L5pJpkcEYEf3hs-cSlYc6y4cDcRG",
             "https://drive.google.com/uc?export=view&id=1EQEo5CJWYf-RA_PFb9Ly6VXt_yz54vSG",
             "https://drive.google.com/uc?export=view&id=1WoCEZRpNQdBSwKW5t3VKTvJYekj-08-B",
             "https://drive.google.com/uc?export=view&id=1UUGBJ3SeJIZrK94HhSOOogCOJ6gYy_Bt",
@@ -493,7 +493,7 @@ elif menu == "Departemen PSDA":
                 "nama": "Oktavia Nurwenda Puspita Sari",
                 "nim": "122450041",
                 "umur": "20",
-                "asal":"Lampung T..",
+                "asal":"Lampung Timur",
                 "alamat": "Way Huwi",
                 "hobbi": "Ngeliatin tingkah orang",
                 "sosmed": "@_oktavianrwnda_",
@@ -502,7 +502,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Devyan Loxefal",
-                "nim": "121450128",
+                "nim": "121450148",
                 "umur": "21",
                 "asal":"Duri, Riau",
                 "alamat": "Kobam Pulau Damar",
@@ -510,17 +510,6 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@depanloo",
                 "kesan": "Abang nya seruu trus asik jugaa",  
                 "pesan":"semangat terus kuliahnya bangg"# 1
-            },
-            {
-                "nama": "Presilia",
-                "nim": "122450081",
-                "umur": "20",
-                "asal":"Bekasi",
-                "alamat": "Kota Baru",
-                "hobbi": "Dengar me Adams",
-                "sosmed": "@presiliang",
-                "kesan": "Kakak nya baikk",  
-                "pesan":"Bahagia dan jaga kesehatan selalu yaa kak"
             },
             {
                 "nama": "Johannes Khrisjon Silotonga",
@@ -545,15 +534,15 @@ elif menu == "Departemen PSDA":
                 "pesan":"Semangat terus kuliahnya bangg"
             },
             {
-                "nama": "Sahid Maulana",
-                "nim": "122450109",
-                "umur": "21",
-                "asal":"Depok",
-                "alamat": "Jl. Airan Raya",
-                "hobbi": "Dengerin MCR",
-                "sosmed": "@sahid_maul19",
-                "kesan": "Abangnya baikk",  
-                "pesan":"Semangat selalu bang"
+                "nama": "Presilia",
+                "nim": "122450081",
+                "umur": "20",
+                "asal":"Bekasi",
+                "alamat": "Kota Baru",
+                "hobbi": "Dengar The Adams",
+                "sosmed": "@presiliang",
+                "kesan": "Kakak nya baikk",  
+                "pesan":"Bahagia dan jaga kesehatan selalu yaa kak"
             },
             {
                 "nama": "Rafa Aqilla Jungjungan",
@@ -565,6 +554,17 @@ elif menu == "Departemen PSDA":
                 "sosmed": "@rafaaqilla",
                 "kesan": "Kakak nya baikk",  
                 "pesan":"Semangat terus kuliahnya kakak"
+            },
+            {
+                "nama": "Sahid Maulana",
+                "nim": "122450109",
+                "umur": "21",
+                "asal":"Depok",
+                "alamat": "Jl. Airan Raya",
+                "hobbi": "Dengerin MCR",
+                "sosmed": "@sahid_maul19",
+                "kesan": "Abangnya baikk",  
+                "pesan":"Semangat selalu bang"
             },
             {
                 "nama": "M. Farhan Athaulloh",
@@ -887,7 +887,7 @@ elif menu == "Departemen Eksternal":
                 "nama": "Yogy Sae Tama",
                 "nim": "121450041",
                 "umur": "21",
-                "asal":"Burkinapso",
+                "asal":"Tangerang",
                 "alamat": "Jatimulyo",
                 "hobbi": "Nyari solar",
                 "sosmed": "@yogyst",
@@ -1292,9 +1292,9 @@ elif menu == "Departemen SSD":
                 "nama": "Adrian Agustinus Lumban Gaol",
                 "nim": "121450090",
                 "umur": "21",
-                "asal":"Panjibako",
-                "alamat": "",
-                "hobbi": "Mainn Bola, Belajar",
+                "asal":"Sidikalang",
+                "alamat": "Dekat penjara lapas",
+                "hobbi": "Nyari-nyari hobi",
                 "sosmed": "@adriangaol",
                 "kesan": "Abangnya kerenn trus ramah juga",  
                 "pesan":"Semangat nyusun tugas akhirnya yaa bang"
@@ -1302,10 +1302,10 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Adisty Syawaida Ariyanto",
                 "nim": "121450136",
-                "umur": "23",
+                "umur": "22",
                 "asal":"Metro",
                 "alamat": "Sukarame",
-                "hobbi": "",
+                "hobbi": "Nonton film",
                 "sosmed": "@adistysa_",
                 "kesan": "Kakaknya cantikk",  
                 "pesan":"Semangatt yaa kak ngerjain tugas akhirnyaa, jaga kesehatann"
@@ -1316,7 +1316,7 @@ elif menu == "Departemen SSD":
                 "umur": "21",
                 "asal":"Simalungun",
                 "alamat": "Airan",
-                "hobbi": "",
+                "hobbi": "Menghitung uang",
                 "sosmed": "@zhjung",
                 "kesan": "Kakaknya kerenn, ramah juga",  
                 "pesan":"Semangat selalu kakk buat tugas akhirnyaa"
@@ -1338,7 +1338,7 @@ elif menu == "Departemen SSD":
                 "umur": "21",
                 "asal":"Bandar Lampung",
                 "alamat": "Airan",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Jalan-jalan",
                 "sosmed": "@dananghk_",
                 "kesan": "Abangnya kerenn, baik jugaa",  
                 "pesan":"Semangat ngeasprak nya ya bangg"
@@ -1348,8 +1348,8 @@ elif menu == "Departemen SSD":
                 "nim": "122450110",
                 "umur": "20",
                 "asal":"Bogor",
-                "alamat": "Lapas",
-                "hobbi": "Mainn Bola, Belajar",
+                "alamat": "Jl. Lapas",
+                "hobbi": "Supporteran",
                 "sosmed": "@farrel__julio",
                 "kesan": "Abangnya kerenn, trus ramahh",  
                 "pesan":"Semangat kuliahnya bangg"
@@ -1360,7 +1360,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal":"Simalungun",
                 "alamat": "Pemda",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Menulis",
                 "sosmed": "@tesakanias",
                 "kesan": "Kakaknya asikk",  
                 "pesan":"Bahagia dan jaga kesehatan selalu yaa kakk"
@@ -1368,22 +1368,22 @@ elif menu == "Departemen SSD":
             {
                 "nama": "Nabilah Andika Fitriati",
                 "nim": "121450139",
-                "umur": "20",
+                "umur": "21",
                 "asal":"Kedaton",
                 "alamat": "Kedaton",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Tidur",
                 "sosmed": "@nabilahanftr",
                 "kesan": "Kakaknya baikk",  
                 "pesan":"Semangat selalu kakakk"
             },
             {
                 "nama": "Alvia Asrinda Br Ginting",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nim": "122450077",
+                "umur": "20",
+                "asal":"Binjai",
+                "alamat": "Korpri",
+                "hobbi": "Nonton Windah",
+                "sosmed": "@alviagnting",
                 "kesan": "Kakaknya ramahh, baik banget",  
                 "pesan":"Semangat yaa kak kuliahnyaa"
             },
@@ -1393,7 +1393,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal":"Bandar Lampung",
                 "alamat": "Jl. Nangka 1",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Olahraga",
                 "sosmed": "@dhafinrzqa13",
                 "kesan": "Abangnya baikk",  
                 "pesan":"Semangat selalu bangg"
@@ -1403,8 +1403,8 @@ elif menu == "Departemen SSD":
                 "nim": "122450026",
                 "umur": "20",
                 "asal":"Bekasi",
-                "alamat": "korpri",
-                "hobbi": "Mainn Bola, Belajar",
+                "alamat": "Korpri",
+                "hobbi": "Menyanyi",
                 "sosmed": "@meylanielia",
                 "kesan": "Kakaknya ramahh, baik banget",  
                 "pesan":"Bahagia selalu kakakk"
@@ -1443,8 +1443,8 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "22",
                 "asal": "Makassar",
                 "alamat": "Sukarame",
-                "hobbi": "Nonton",
-                "sosmed": "@wayyulaja",
+                "hobbi": "Nonton Film",
+                "sosmed": "@wayuraja",
                 "kesan": "Abangnya asikk orangnya ",  
                 "pesan":"Semangat buat tugas akhirnya bangg"
             },
@@ -1460,15 +1460,15 @@ elif menu == "Departemen MEDKRAF":
                 "pesan":"Semangatt dan bahagia selalu yaa kakk" # 2
             },
             {
-                 "nama": "Arsyiah Azahra",
+                "nama": "Arsyiah Azahra",
                 "nim": "121450035",
                 "umur": "21",
                 "asal": "Bandar Lampung",
                 "alamat": "Tanjung Senang",
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah._",
-                "kesan": "Kakaknya ramahh",  
-                "pesan":"Semangatt kuliah dan buat tugas akhirnya kakk" 
+                "kesan": "Tidak terwawancarai",  
+                "pesan":"Semangatt kuliah kakk" 
             },
             {
                 "nama": "Cintya Bella",
@@ -1519,7 +1519,7 @@ elif menu == "Departemen MEDKRAF":
                 "nim": "122450036",
                 "umur": "20",
                 "asal": "Lampung",
-                "alamat": "Jl. Pembangunan Sukarame",
+                "alamat": "Jl. Pembangunan 5, Sukarame",
                 "hobbi": "Makan geprek",
                 "sosmed": "@rahmanellyana",
                 "kesan": "Kakaknya ramahh dan baik sekalii",  
@@ -1552,7 +1552,7 @@ elif menu == "Departemen MEDKRAF":
                 "nim": "122450008",
                 "umur": "20",
                 "asal": "Jambi",
-                "alamat": "Jalan Durian 5 Pemda",
+                "alamat": "Pemda",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@dwiratnn_",
                 "kesan": "Kakaknya seruu",  
