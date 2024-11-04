@@ -116,8 +116,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kandis",
                 "hobbi": "Dengerin musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Kakak sesuai namanya, berkharisma",  
+                "pesan":"Terus semangat pantang mundur kak menghadapi TA"# 1
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
@@ -127,8 +127,8 @@ if menu == "Kesekjenan":
                 "alamat": "Bawen 2",
                 "hobbi": "Main gitar",
                 "sosmed": "@pndrinsni27",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "  ",  
+                "pesan":"  "# 1
             },
             {
                 "nama": "Meiza Wulandari",
@@ -138,8 +138,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Nonton drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "  ",  
+                "pesan":"  "# 1
             },
             {
                 "nama": "Hartiti Fadhilah",
@@ -150,7 +150,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nyanyi",
                 "sosmed": "@hartfdlh",
                 "kesan": "Kakak keliatan kalem",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":" kakak suka nyanyi lagu apa kak?"# 1
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -158,10 +158,10 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Panyukumbah, Sumatera Barat",
                 "alamat": "Nangka 4",
-                "hobbi": "Dengerin panda gitaran",
+                "hobbi": "Dengerin pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "  ",  
+                "pesan":"  "# 1
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -171,8 +171,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Membaca",
                 "sosmed": "@nadillaandr26",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "  ",  
+                "pesan":" kakak baca komik atau apa kak?"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -205,7 +205,7 @@ elif menu == "Baleg":
                 "hobbi": "Ngerjain TA",
                 "sosmed": "@trimurniaa",
                 "kesan": "kakaknya asikk sama publik speakingnya bagus banget",  
-                "pesan":"Semangat terus ya kak!" #1
+                "pesan":"semoga lancar ya kak ngerjain TA nya" #1
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -216,7 +216,7 @@ elif menu == "Baleg":
                 "hobbi": "Membaca Novel",
                 "sosmed": "@annisacahyanisurya",
                 "kesan": "kakaknya kalem sekalii",  
-                "pesan":"terus semangat kak, TA nya lancar ya kak" #2
+                "pesan":" Rekomendasiin Novel yang seru kak" #2
             },
             {
                 "nama": "Wulan Sabina",
@@ -227,7 +227,7 @@ elif menu == "Baleg":
                 "hobbi": "Nonton drakor",
                 "sosmed": "@wlsbn0",
                 "kesan": "kakaknya cantiikkk",  
-                "pesan":"semoga dilancarin ya kak TA kakaak" #3
+                "pesan":" rekomendasiin drakor dong kak" #3
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -260,7 +260,7 @@ elif menu == "Baleg":
                 "hobbi": "Membaca buku",
                 "sosmed": "@fer_yulius",
                 "kesan": "abang Ferdy kalem sekalii",  
-                "pesan":"semangat terus bangg" #6
+                "pesan":"-" #6
             },
             {
                 "nama": "Renisha Putri Giyani",
@@ -1482,7 +1482,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "22",
                 "asal": "Makassar",
                 "alamat": "Sukarame",
-                "hobbi": "Nonton Film",
+                "hobbi": "Nonton",
                 "sosmed": "@wayuraja",
                 "kesan": "  ",  
                 "pesan":"  " # 1
