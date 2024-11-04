@@ -390,8 +390,8 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1milyviJTSNNpPWj-BUVi9fDe7_5vWHS4", #bg deyvan
             "https://drive.google.com/uc?export=view&id=1gNXSrVqVW-jUFtXpc831tT1k3G7GBthU", #bg jo
             "https://drive.google.com/uc?export=view&id=1tWJQYvKFugiUuevNWzIb7RvwahuSOew-", #bg kemas
-            "https://drive.google.com/uc?export=view&id=1UN1CR6dtF2rH0Se7k1W52WLvVsslp71_", #kk presilia
-            "https://drive.google.com/uc?export=view&id=11QchWf_zn207-Jafl_Yfji8_OKZLXzML", #kk rafa aqila
+            "https://drive.google.com/uc?export=view&id=11QchWf_zn207-Jafl_Yfji8_OKZLXzML", #kk presilia
+            "https://drive.google.com/uc?export=view&id=1UN1CR6dtF2rH0Se7k1W52WLvVsslp71_", #kk rafa 
             "https://drive.google.com/uc?export=view&id=1pLsJDTfppEoviRWxm7-1hgmrTm8uauGh", #bg sahid
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kk vanessa
             "https://drive.google.com/uc?export=view&id=1FVvR13zCZwsouNX_NOf4WKj-IWV9KV_9", #bg ateng
