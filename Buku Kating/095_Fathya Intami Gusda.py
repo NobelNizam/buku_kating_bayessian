@@ -686,7 +686,7 @@ elif menu == "Departemen MIKFES":
                 "asal": "Lubuk Linggau",
                 "alamat": "Jl. Nangka 4",
                 "hobbi": "Olahraga",
-                "sosmed": "@rafadhilillahh13",
+                "sosmed": "@rafidhilillahh13",
                 "kesan": "abangnya baik dan ramah",  
                 "pesan":"semangat abang kuliahnyaa, semoga lancar terus segala urusannya sampai lulus nantii" # 1
             },
