@@ -1511,8 +1511,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Tanjung Senang",
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah._",
-                "kesan": "ramah dan asikkk",  
-                "pesan":"semangatt kuliahnya kakak cantikk" # 3
+                "kesan": "tidak terwawancarai",  
+                "pesan":"-" # 3
             },
             {
                 "nama": "Muhammad Kaisar Firdaus",
@@ -1555,8 +1555,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Natar, lampung Selatan",
                 "hobbi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
-                "kesan": "ramaahhh ",  
-                "pesan":"semangkatik! semangat kakak cantikk! " # 5
+                "kesan": "tidak terwawancarai",  
+                "pesan":"-" # 5
             },
             {
                 "nama": "Najla Juwairia",
@@ -1566,8 +1566,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Airan",
                 "hobbi": "Menulis, Membaca, fangirling",
                 "sosmed": "@nanana_minjoo",
-                "kesan": "kakaknya baikkk sekalii ",  
-                "pesan":"semangat menjalani harinya kakak canciiii" # 6
+                "kesan": "tidak terwawancarai",  
+                "pesan":"-" # 6
             },
             {
                 "nama": "Patricia Leondrea Diajeng Putri",
