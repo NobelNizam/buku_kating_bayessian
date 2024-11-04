@@ -1157,11 +1157,11 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=19eeiNbwGHzL4ehwBAMXSVeFAGexKNbtF", #Rendra Eka Prayoga
             "https://drive.google.com/uc?export=view&id=1nW7FEjxijh3cVDurA2csNRg9MO6wRmxC", #Salwa Farhanatussaidah
             "https://drive.google.com/uc?export=view&id=1mHR0JRJXje25mhefbR98YdrPavKJ7sCH", #yosia 
+            "https://drive.google.com/uc?export=view&id=1sMQyevEXP5-aTHS-E7hBd0EuUbUz94DV", #Renta Siahaan
             "https://drive.google.com/uc?export=view&id=1S0Fu5J174XWdngcCf55KtHJuHJqIsRRn", #Ari Sigit
             "https://drive.google.com/uc?export=view&id=1TiANQodonaH53bcXSuNePyoyn2bswpng", #Azizah Kusumah Putri
             "https://drive.google.com/uc?export=view&id=1hAB24fVtr0fWwSQHDThXbTkuq-Ta7trM", #Meira Listyaningrum
             "https://drive.google.com/uc?export=view&id=1RCwxqszBsSgkfI0efhaOXO_MEqOTXzeW", #Rendi Alexander Hutagalung
-            "https://drive.google.com/uc?export=view&id=1sMQyevEXP5-aTHS-E7hBd0EuUbUz94DV", #Renta Siahaan
             "https://drive.google.com/uc?export=view&id=1tGYw3cnIpeUC1Z-LhM0axoDPkBpulqed", #Josua Panggabean
         ]
         data_list = [
@@ -1243,6 +1243,17 @@ elif menu == "Departemen Internal":
                 "pesan":"bang jangan garang bang kalo ngeliat orang bang"
             },
             {
+                "nama": "Renta Siahaan",
+                "nim": "122450070",
+                "umur": "21",
+                "asal":"Sumatera Utara",
+                "alamat": "Gerbang Barat",
+                "hobbi": "Membaca dan Memancing",
+                "sosmed": "@renita.shn",
+                "kesan": "kakaknya cantiii hihi",  
+                "pesan":"kakaknya mirip temenku sekilas tw"# 1
+            },
+            {
                 "nama": "Ari Sigit",
                 "nim": "121450069",
                 "umur": "23",
@@ -1285,17 +1296,6 @@ elif menu == "Departemen Internal":
                 "sosmed": "@rexander",
                 "kesan": "abangnya lucuu",  
                 "pesan":"bang apakah kamu bisa ngambang dilaut bang"# 1
-            },
-            {
-                "nama": "Renta Siahaan",
-                "nim": "122450070",
-                "umur": "21",
-                "asal":"Sumatera Utara",
-                "alamat": "Gerbang Barat",
-                "hobbi": "Membaca dan Memancing",
-                "sosmed": "@renita.shn",
-                "kesan": "kakaknya cantiii hihi",  
-                "pesan":"kakaknya mirip temenku sekilas tw"# 1
             },
             {
                 "nama": "Josua Panggabean",
