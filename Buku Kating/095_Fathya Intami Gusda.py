@@ -188,13 +188,13 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1tLAIY3Iit_vv2yXvBbsaSCTfLJ_vsfD7",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1t8noecri9anuMunmAev7kBNyJRiEmLdj",
-            "https://drive.google.com/uc?export=view&id=1t2qaqGsJ2ZHTVvrbeXn6ZeYjq_stz6Hz",
             "https://drive.google.com/uc?export=view&id=1ssvYz-a13R-yb36GFpgSKoi8Ldj1GR7F",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1t7Ct_l0gRzgGOHZkWWRLGXq894Mwvs3D",
+            "https://drive.google.com/uc?export=view&id=1t2qaqGsJ2ZHTVvrbeXn6ZeYjq_stz6Hz",
             "https://drive.google.com/uc?export=view&id=1t6lh5S0uec8oIp5hPmP7MpUNJjg_LLHa",
             "https://drive.google.com/uc?export=view&id=1wITLWFBlc5yzyahUA6aI1OoXplJSNyM6",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -264,17 +264,6 @@ elif menu == "Baleg":
                 "pesan":"semangat mengerjakan TA abang, semoga dipermudah segalanyaa"# 1
             },
             {
-                "nama": "Dhea Amelia Putri",
-                "nim": "122450004",
-                "umur": "20",
-                "asal":"Bandar Lampung",
-                "alamat": "Natar",
-                "hobbi": "Mengumpulkan tugas di e-learning h-15 detik",
-                "sosmed": "@_.dheamelia",
-                "kesan": "kakaknya lucu dan menyenangkan",  
-                "pesan":"bahagia selalu kak dhea, semangatt teruss ya kakkk"# 1
-            },
-            {
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
@@ -284,6 +273,28 @@ elif menu == "Baleg":
                 "sosmed": "@fer_yulius",
                 "kesan": "abangnya baik bett",  
                 "pesan":"semangat ngasprak nya ya bang, jangan kapok ngaarin kita:)"# 1
+            },
+               {
+                "nama": "Anisa Fitriyani",
+                "nim": "122450019",
+                "umur": "19",
+                "asal":"Bandar Lampung",
+                "alamat": "Bernung, Pesawaran",
+                "hobbi": "Menonton drakor",
+                "sosmed": "@ansftynn_",
+                "kesan": "Menyenangkan",  
+                "pesan":"Semangatt semester 5 nya kakak!"
+            },
+            {
+                "nama": "Renisha Putri Giani",
+                "nim": "122450079",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobbi": "Mendengar musik ",
+                "sosmed": "@fleurnsh",
+                "kesan": "cantikkk bangett kakak",  
+                "pesan":"semangattt ya kakak manisss"
             },
             {
                 "nama": "Mirzan Yusuf Rabbani",
@@ -295,6 +306,17 @@ elif menu == "Baleg":
                 "sosmed": "@myrrinn",
                 "kesan": "abangnya ramah",  
                 "pesan":"semangatt ya abang, bahagia selalu abangg"# 1
+            },
+                        {
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450004",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Natar",
+                "hobbi": "Mengumpulkan tugas di e-learning h-15 detik",
+                "sosmed": "@_.dheamelia",
+                "kesan": "kakaknya lucu dan menyenangkan",  
+                "pesan":"bahagia selalu kak dhea, semangatt teruss ya kakkk"# 1
             },
             {
                 "nama": "Berliana Inda Putri",
@@ -317,28 +339,6 @@ elif menu == "Baleg":
                 "sosmed": "@jeremia_s_",
                 "kesan": "lucu, baik dan ramah",  
                 "pesan":"jangan kapok buat ngajarin alpro ya bang :)"# 1
-            },
-            {
-                "nama": "Anisa Fitriyani",
-                "nim": "122450019",
-                "umur": "19",
-                "asal":"Bandar Lampung",
-                "alamat": "Bernung, Pesawaran",
-                "hobbi": "Menonton drakor",
-                "sosmed": "@ansftynn_",
-                "kesan": "Menyenangkan",  
-                "pesan":"Semangatt semester 5 nya kakak!"
-            },
-            {
-                "nama": "Renisha Putri Giani",
-                "nim": "122450079",
-                "umur": "21",
-                "asal":"Bandar Lampung",
-                "alamat": "Teluk Betung",
-                "hobbi": "Mendengar musik ",
-                "sosmed": "@fleurnsh",
-                "kesan": "cantikkk bangett kakak",  
-                "pesan":"semangattt ya kakak manisss"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -397,6 +397,8 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1J8B-H-VxrpHge_wx3nJrmZxR1_yH5Pn8",
             "https://drive.google.com/uc?export=view&id=1J7ig7uEQXzdVzaXT8lxBY2gJ_s4QCKQT",
             "https://drive.google.com/uc?export=view&id=1JFhprfq8iqjihY2gfas6mu_F7fI8fuK7",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1Jbiu2yuFTQq5x-kUdsDrfvgXhAkVfe6W",
             "https://drive.google.com/uc?export=view&id=1JONpUAWAkZfP4fiwx-Q0j3DSwvuzY0n6",
             "https://drive.google.com/uc?export=view&id=1MlTCbQqZL86QZfwJu3EIYKwV1lyBAHnv",
@@ -581,6 +583,28 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat ngaspraknya ya bang jo, sukses selalu"
             },
             {
+                "nama": "Vanessa Olivia Rose",
+                "nim": "121450108",
+                "umur": "20",
+                "asal": "Jakarta",
+                "alamat": "Perum Korpri",
+                "hobbi": "Belajar",
+                "sosmed": "@roselivnes__",
+                "kesan": "tidak terwawancarai",
+                "pesan": "-", 
+            },
+            {
+                "nama": "Leonard Andreas Napitupulu",
+                "nim": "-",
+                "umur": "-",
+                "asal": "-",
+                "alamat": "-",
+                "hobbi": "-",
+                "sosmed": "-",
+                "kesan": "tidak terwawancarai",  
+                "pesan": "-"
+            },
+            {
                 "nama": "Gede Moana",
                 "nim": "121450014",
                 "umur": "21",
@@ -635,6 +659,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1zXKu9E6Ng7EnJVdU0N0k0sMkw1ktChcO",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=11LfogME_p3cfezz23crHI4ifoDCDXnCW",
             "https://drive.google.com/uc?export=view&id=1SkU6dC_0GHjxDpL1saKdSeT84LuRoPsE",
             "https://drive.google.com/uc?export=view&id=1zl6vPRgZ_rs-mk3_T8mSbvebYuXQttXH",
@@ -674,6 +699,17 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@anovavona",
                 "kesan": "kakaknya cantikk",  
                 "pesan":"semangatt terus sampai lulus kakak cantikkk " # 2
+            },
+            {
+                "nama": "Mujajid Choirus Surya",
+                "nim": "-",
+                "umur": "-",
+                "asal": "-",
+                "alamat": "-",
+                "hobbi": "-",
+                "sosmed": "-",
+                "kesan": "tidak terwawancarai",  
+                "pesan": "-"
             },
             {
                 "nama": "Natanael Oktavianus Partahan Sihombing",
@@ -1300,7 +1336,7 @@ elif menu == "Departemen SSD":
                 "nama": "Andrian Agustinus Lumban Gaol",
                 "nim": "121450090",
                 "umur": "21",
-                "asal":"Sindi Kalang",
+                "asal":"Sidikalang",
                 "alamat": "Dekat Penjara",
                 "hobbi": "Nyari hobi",
                 "sosmed": "@andriangaol",
