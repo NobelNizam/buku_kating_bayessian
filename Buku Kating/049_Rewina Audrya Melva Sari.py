@@ -1126,9 +1126,6 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=14qX3ZnSfwpFijOduLxKmotNncFwBVkQe", # Yosia 7
             "https://drive.google.com/uc?export=view&id=14j53w4IWE1pFth5X4J4mfDZbZ4PH0zSL", # Ari 8
             "https://drive.google.com/uc?export=view&id=1SiAul4wKOnRKMw5qG8ipZg9jwcgAXO9Z", # Azizah 9
-
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Dearni 10
-
             "https://drive.google.com/uc?export=view&id=14vJJbGm1-YwC2oraLF_WH5ApkMQjSq2e", # Meira 11
             "https://drive.google.com/uc?export=view&id=14dTR3o-oJha0ne0Jf7UG0ifD2HLaLaue", # Rendi 12
             "https://drive.google.com/uc?export=view&id=13nWdWwYlf8ng7ReTFSr3YHFnhPtfoX1a", # Renti 13
@@ -1235,17 +1232,6 @@ elif menu == "Departemen Internal":
                 "pesan":" semangat kak berkebunnyaa"# 9
             },
             {
-                "nama": "Dearni Monica Br Manik",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": " ",  
-                "pesan":" " #10
-            },
-            {
                 "nama": "Meira Listyaningrum",
                 "nim": "122450011",
                 "umur": "20",
@@ -1265,7 +1251,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Berenang di Laut",
                 "sosmed": "@rexander",
                 "kesan": "abangnya lucuu",  
-                "pesan":"bang apakah kamu bisa ngambang dilaut bang"# 12
+                "pesan":"abang rekomendasi laut yang indah bang"# 12
             },
             {
                 "nama": "Renta Siahaan",
@@ -1275,8 +1261,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gerbang Barat",
                 "hobbi": "Membaca dan Memancing",
                 "sosmed": "@renita.shn",
-                "kesan": "kakaknya cantiii hihi",  
-                "pesan":"kakaknya mirip temenku sekilas tw"# 13
+                "kesan": "kakaknya cantikk",  
+                "pesan":"mancing apa kak?"# 13
             },
             {
                 "nama": "Josua Panggabean",
@@ -1286,8 +1272,8 @@ elif menu == "Departemen Internal":
                 "alamat": "Gya Kos",
                 "hobbi": "Nonton Film",
                 "sosmed": "@josuapanggabean16_",
-                "kesan": "abangnya kece",  
-                "pesan":"semangat dan sehat selalu bang"# 14
+                "kesan": "abangnya kece abiss",  
+                "pesan":"film favorit abang apa bang?"# 14
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1441,18 +1427,12 @@ elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=19mhrnMRkHdyBxj4_8TcuWaSMALZpTSpF", # Wahyu 1
-
             "https://drive.google.com/uc?export=view&id=1vBOGQZb1HU-cWCUb2RbhCSLFwm8heE5f", # Elok 2
-
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Arsyiah 3 tdk
-
             "https://drive.google.com/uc?export=view&id=1vr5t7mL3QHyl59TzzTwKlhvyNIflvS6H", # Chintya 4
-
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Eka 5 tdk
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # Najla 6 tdk
-
             "https://drive.google.com/uc?export=view&id=1u5rQy9NqhwkhJdEo6k6COfJCVbwNQPiI", # Patricia 7
-            
             "https://drive.google.com/uc?export=view&id=1EYkg6JmU3ehWcoisi_WbbmVAp46upC2b", # Rahma 8
             "https://drive.google.com/uc?export=view&id=15X7WwU6XrdZKsUMXT9NZNkR35LO1JsXl", # Try Yani 9
             "https://drive.google.com/uc?export=view&id=15StBCV2kad6QgRAcZeIv60xRLDi9xvsv", # Kaisar 10
