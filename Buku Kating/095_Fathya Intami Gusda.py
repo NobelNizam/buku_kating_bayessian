@@ -662,6 +662,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=11LfogME_p3cfezz23crHI4ifoDCDXnCW",
             "https://drive.google.com/uc?export=view&id=1SkU6dC_0GHjxDpL1saKdSeT84LuRoPsE",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1zl6vPRgZ_rs-mk3_T8mSbvebYuXQttXH",
             "https://drive.google.com/uc?export=view&id=1zxL8GnlIECVq781modEQ-LfIjdR_467C",
             "https://drive.google.com/uc?export=view&id=1zCVSsZUhCqs_A6PhtlKCyhuStasCDmra",
@@ -719,8 +720,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Kemiling",
                 "hobbi": "Membuka Wisata HMSD",
                 "sosmed": "@natanaeloks",
-                "kesan": "baik abangnya",  
-                "pesan":"sukses selalu bangg! " # 8
+                "kesan": "tidak terwawancarai",  
+                "pesan":"- " # 8
             },
             {
                 "nama": "Abdurrahman Al-atsary",
@@ -730,8 +731,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Perumnas Way Kandis",
                 "hobbi": "Membaca",
                 "sosmed": "@rahmn_abdr",
-                "kesan": " sepertinya asikk ",  
-                "pesan":" semangat kuliahnyaa ya abangg  " # 15
+                "kesan": "tidak terwawancarai",  
+                "pesan":"-" # 15
             },
             {
                 "nama": "Ahmad Sahidin Akbar",
@@ -754,6 +755,17 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@mregiiii_",
                 "kesan": "abangnya baik bangett",  
                 "pesan":"semangat terus ya bang buat ngasprak rb :), juga kuliah dan kegiatannya" # 6
+            },
+            {
+                "nama": "Fadhil Fitra Wijaya",
+                "nim": "122450082",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Teluk Betung",
+                "hobbi": "Main Game",
+                "sosmed": "@fadhilfwee",
+                "kesan": "abangnya keliatan asik",  
+                "pesan":"semangatt terus ya abang" #
             },
             {
                 "nama": "Syalaisha Andina Putriansyah",
@@ -888,15 +900,15 @@ elif menu == "Departemen MIKFES":
                 "pesan":"sukses dan semangat terus bang, semangat kegiatan mikfesnya" # 19
             },
             {
-                "nama": "Fadhil Fitra Wijaya",
-                "nim": "122450082",
-                "umur": "20",
-                "asal": "Bekasi",
-                "alamat": "Teluk Betung",
-                "hobbi": "Main Game",
-                "sosmed": "@fadhilfwee",
-                "kesan": "abangnya keliatan asik",  
-                "pesan":"semangatt terus ya abang" #
+                "nama": "Vita Anggraini",
+                "nim": "-",
+                "umur": "-",
+                "asal": "-",
+                "alamat": "-",
+                "hobbi": "-",
+                "sosmed": "-",
+                "kesan": "Kakak ini belum diwawancarai",  
+                "pesan": "-"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
