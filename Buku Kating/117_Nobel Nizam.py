@@ -576,7 +576,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Belajar",
                 "sosmed": "@roselivnes__",
                 "kesan": "tidak terwawancarai",
-                "pesan": "semangatt selalu kakk vanesss", 
+                "pesan": "-", 
             },
             {
                 "nama": "Leonard Andreas Napitupulu",
