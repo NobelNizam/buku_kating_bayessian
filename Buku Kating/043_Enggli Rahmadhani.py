@@ -1151,7 +1151,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1Mmd0YHb1F69FSDdVfpof3LHqtalBSFmX", #kk meyra
             "https://drive.google.com/uc?export=view&id=1MincmfYzomfwvihR7zBYvouukPo9guwm", #bg rendi
             "https://drive.google.com/uc?export=view&id=1Mtx1D9wAIqlspGJL6Nopoh1teYa_xPd8", #kk renta
-            "https://drive.google.com/uc?export=view&id=1MkKCsUg3d4jfyjrGMtMMorpD7kNoYZ7l", #kk renta
+            "https://drive.google.com/uc?export=view&id=1MkKCsUg3d4jfyjrGMtMMorpD7kNoYZ7l", #bg josua
         ]
         data_list = [
             {
