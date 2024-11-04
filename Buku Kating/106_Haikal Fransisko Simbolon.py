@@ -184,7 +184,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1UZasM7r7oYIcoHeikiG27MJwvkf1T_fr",#Kak Annisa
             "https://drive.google.com/uc?export=view&id=1UuU9ynMYrL492E2czXUJU-ifg4xVQvl_",#Kak Wulan
             "https://drive.google.com/uc?export=view&id=1U_Q5tvCiA8qTAsR7GDjbDE7-0oFwcIr4",#Kak Anisa Dini
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1Uo2MmyKXCVfE6wE1s6R1eYVv3KAvzYjK",#Bg Feryadi
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Renisha
             "https://drive.google.com/uc?export=view&id=1UdZ6AMpXC-xOql9Y7iWs0eXYrkjgCJF6",#Bg Mirzan
@@ -393,7 +393,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1ZJoKibhydoyU_CR67mRU0A1VK8jROS0l", #Kak Presilia
             "https://drive.google.com/uc?export=view&id=1PY-lHddyZV04kjiC7DKpMFhMOzULHinl", #Kak rafa
             "https://drive.google.com/uc?export=view&id=1d18Y4jQyWBjX0aYZLa6eQjDlml3dLbPR", #Bg Sahid
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1dCVTtYt2k3yvrRsTA7EgNWIVUaeVUQlF", #Bg Ateng
             "https://drive.google.com/uc?export=view&id=1czEtR2Oh-TR0wIcJXqYwIkik-ASyKO16", #Bg Gede
             "https://drive.google.com/uc?export=view&id=1qYxaf7JqbMduHmg3xsYzM4K65JiG9Jlw", #Kak Jaclin
