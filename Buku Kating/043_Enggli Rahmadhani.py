@@ -1149,7 +1149,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1Mjcdko_wYmq8_DMhj3az-VJHnJL7A_b9", #bg ari sigit
             "https://drive.google.com/uc?export=view&id=1MqORMMTEGium_xQhMS0DxMTlFbqI_thp", #kk azizah
             "https://drive.google.com/uc?export=view&id=1Mmd0YHb1F69FSDdVfpof3LHqtalBSFmX", #kk meyra
-            "https://drive.google.com/uc?export=view&id=1MincmfYzomfwvihR7zBYvouukPo9guwm", #bg rendi
+            "https://drive.google.com/uc?export=view&id=17KZ9FflXrZHQEn2MvT0M0TypaaDCu5UZ", #bg rendii
             "https://drive.google.com/uc?export=view&id=1Mtx1D9wAIqlspGJL6Nopoh1teYa_xPd8", #kk renta
             "https://drive.google.com/uc?export=view&id=1MkKCsUg3d4jfyjrGMtMMorpD7kNoYZ7l", #bg josua
         ]
