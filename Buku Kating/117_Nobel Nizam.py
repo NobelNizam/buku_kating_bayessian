@@ -579,6 +579,17 @@ elif menu == "Departemen PSDA":
                 "pesan": "-"
             },
             {
+                "nama": "Leonard Andreas Napitupulu",
+                "nim": "-",
+                "umur": "-",
+                "asal": "-",
+                "alamat": "-",
+                "hobbi": "-",
+                "sosmed": "-",
+                "kesan": "tidak terwawancarai",  
+                "pesan": "-"
+            },
+            {
                 "nama": "M. Farhan Athaulloh",
                 "nim": "121450117",
                 "umur": "21",
