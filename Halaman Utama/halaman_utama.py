@@ -209,7 +209,7 @@ elif menu == "About Us":
                 "nama": "Fathya Intami Gusda",
                 "sebagai": "Anggota",
                 "nim": "123450095",
-                "fun_fact": "I Love Strawberry",
+                "fun_fact": "bisa ngomong r tapi gabisa rrrrrr",
                 "motto_hidup": "Jalanin aja",
             },
             {
