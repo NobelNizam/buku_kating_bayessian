@@ -192,9 +192,8 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1aHZTjU1azuTMxrRNVHyx1lJlX9Elel-C", #9 gada
             "https://drive.google.com/uc?export=view&id=1K-jceOxwiTOzqtOTaGwPUxq6eSUaYKej",#10
             "https://drive.google.com/uc?export=view&id=1PMnQbaidao6YxyU3vPt0NDuBXn90St4B",#11
-            "https://drive.google.com/uc?export=view&id=1PNPQY4fuslRsKLYN_Yy2cWjpB1ngNmmk",#12
             "https://drive.google.com/uc?export=view&id=1aHZTjU1azuTMxrRNVHyx1lJlX9Elel-C",#13
-            
+            "https://drive.google.com/uc?export=view&id=1PNPQY4fuslRsKLYN_Yy2cWjpB1ngNmmk",#12
             
             
         ]
@@ -321,17 +320,6 @@ elif menu == "Baleg":
                 "pesan" :"semangat bang" 
             },
             {
-                "nama"  : "Jeremia Susanto",
-                "nim"   : "12245022",
-                "umur"  : "20",
-                "asal"  : "Bandar Lampung",
-                "alamat": "Billabong",
-                "hobbi" : "memancing emosi",
-                "sosmed": "@jeremia_s_",
-                "kesan" : "kerenn",  
-                "pesan" : "semangat bang"
-            },
-            {
                 "nama"  : "Berliana Enda Putri",
                 "nim"   : "122450065",
                 "umur"  : "20",
@@ -342,7 +330,17 @@ elif menu == "Baleg":
                 "kesan" : "keren",  
                 "pesan" : "semangattt"
             },
-         
+            {
+                "nama"  : "Jeremia Susanto",
+                "nim"   : "12245022",
+                "umur"  : "20",
+                "asal"  : "Bandar Lampung",
+                "alamat": "Billabong",
+                "hobbi" : "memancing emosi",
+                "sosmed": "@jeremia_s_",
+                "kesan" : "kerenn",  
+                "pesan" : "semangat bang"
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
@@ -507,7 +505,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Devyan Loxefal", #10
-                "nim": "121450128",
+                "nim": "121450148",
                 "umur": "18",
                 "asal": "Duri, Riau",
                 "alamat": "Kobam Pulau Damar",
@@ -663,7 +661,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1RdWGL1O5ri6yUaGAluOAFsMV3-aguZ-q", #febiya
             "https://drive.google.com/uc?export=view&id=1PTAVtzKXZBsUY0WrsyS1RvFhBmJzEGMe", #happy gada
             "https://drive.google.com/uc?export=view&id=1P_7jwzrUMGmQl1_fXh1gyk9fFjdhQkWb", #randa
-            "https://drive.google.com/uc?export=view&id=1Qr9ZhGopNpJnrJXsJVOX_aDRFnrDvopH", #vita
+            "https://drive.google.com/uc?export=view&id=1aHZTjU1azuTMxrRNVHyx1lJlX9Elel-C", #vita
 
             
         ]
@@ -879,7 +877,7 @@ elif menu == "Departemen MIKFES":
             },
             {
                 "nama": "Vita Anggraini",
-                "nim": "122450000",
+                "nim": "122450046",
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
@@ -918,7 +916,7 @@ elif menu == "Departemen Eksternal":
         ]
         data_list = [
             {
-                "nama": "Yogy Sae Tama",
+                "nama": "Yogy Sa'e Tama",
                 "nim": "121450041",
                 "umur": "21",
                 "asal":"Tangerang",
@@ -1167,7 +1165,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Way Kandis",
                 "hobbi": "Manjat Pohon Pinang",
                 "sosmed": "@dimzrky",
-                "kesan": "Bang Dimas public speaking nya keren banget",  
+                "kesan": " public speaking nya bang dims keren banget",  
                 "pesan":"semangat terus kuliah dan ngerjain TA nya bang !!!"
             },
             {
@@ -1194,7 +1192,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama": "Rani Puspita Sari",
-                "nim": "122450022",
+                "nim": "122450030",
                 "umur": "20",
                 "asal":"Metro",
                 "alamat": "Rajabasa",
@@ -1282,7 +1280,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama":"Rendi Alexander Hutagalung",
-                "nim": "121450057",
+                "nim": "12450057",
                 "umur": "20",
                 "asal":"Tangerang",
                 "alamat": "Kost Benawang",
@@ -1293,7 +1291,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama":"Azizah Kusuma Putri",
-                "nim": "1212450068",
+                "nim": "122450068",
                 "umur": "21",
                 "asal":"Lampung Selatan",
                 "alamat": "Natar",
