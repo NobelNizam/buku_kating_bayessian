@@ -1626,7 +1626,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Lapangan Golf",
                 "hobbi" : "Nyari tuyul baskat",
                 "sosmed": "@jimnn.as",
-                "kesan" : "Bang gym keren,murah senyum, baik, dan ramah banget",  
+                "kesan" : "Bang gym keren,murah senyum, dan ramah banget",  
                 "pesan" : "Teruslah menjadi orang yang menginspirasi ya bang"
             },
             {
