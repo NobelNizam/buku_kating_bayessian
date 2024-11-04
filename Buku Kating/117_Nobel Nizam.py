@@ -185,12 +185,12 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1o3-18_m56I74F1Hpd5BFXeVRxzG-Ybos",#Kak Wulan
             "https://drive.google.com/uc?export=view&id=1cdIFl-zVh4Bs-_FNdny38zQqHmWuwQLN",#Kak Anisa Dini 
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Claudhea .
+            "https://drive.google.com/uc?export=view&id=1138Lxhdg3s3qHG1FAipa4jJpNzv0zJ8t",#Bg Fahrul
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Anisa Fitri .
             "https://drive.google.com/uc?export=view&id=18phQCp8MbPv1_V3ahtLAbbnk5ouacJMH",#Bg Feryadi
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Renisha .
             "https://drive.google.com/uc?export=view&id=1Xjiy3S_3pvg5MWQ8-h0teeiIKKA9WlWh",#Bg Mirzan 
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",#Kak Anisa Fitri .
             "https://drive.google.com/uc?export=view&id=1hPUw2h2C9s3woS68mR0QdFMIHt9js1rL",#Kak Dhea 
-            "https://drive.google.com/uc?export=view&id=1138Lxhdg3s3qHG1FAipa4jJpNzv0zJ8t",#Bg Fahrul
             "https://drive.google.com/uc?export=view&id=1qimUJvycTzg9yieFMOlwkcw4BufW28m9",#Kak Berliana 
             "https://drive.google.com/uc?export=view&id=1tL7ickfswEb6Ge6ooxtFqOgtg_jbnO4L",#Bg Jere
         ]
@@ -251,6 +251,28 @@ elif menu == "Baleg":
                 "pesan": "untung ketemu ya kak, lain kali lebih hati-hati yaa"
             },
             {
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal": "Surakarta",
+                "alamat": "Sukarame",
+                "hobbi": "Badminton, melukis, minum kopo",
+                "sosmed": "@shrul.pdf",
+                "kesan": "bang fahrul saya kira abang prodi elektro",  
+                "pesan": "next kita foto lagi bang saat abang wisuda!"
+            },
+            {
+                "nama": "Anisa Fitriyani",
+                "nim": "122450019",
+                "umur": "19",
+                "asal":"Bandar Lampung",
+                "alamat": "Bernung, Pesawaran",
+                "hobbi": "Menonton drakor",
+                "sosmed": "@ansftynn_",
+                "kesan": "seruuu",  
+                "pesan": "semangat kuuliahnya jangan malas kak"
+            },
+            {
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
@@ -263,14 +285,14 @@ elif menu == "Baleg":
             },
             {
                 "nama": "Renisha Putri Giyani",
-                "nim": "-",
-                "umur": "-",
-                "asal": "-",
-                "alamat": "-",
-                "hobbi": "-",
-                "sosmed": "-",
-                "kesan": "tidak terwawancarai",  
-                "pesan": "-"
+                "nim": "122450079",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobbi": "Mendengar musik ",
+                "sosmed": "@fleurnsh",
+                "kesan": "cantiiikkkk",  
+                "pesan": "semangat kerjanya kak"
             },
             {
                 "nama": "Mirzan Yusuf Rabbani",
@@ -284,17 +306,6 @@ elif menu == "Baleg":
                 "pesan": "abang jangan demis pokoknya!"
             },
             {
-                "nama": "Anisa Fitriyani",
-                "nim": "-",
-                "umur": "-",
-                "asal": "-",
-                "alamat": "-",
-                "hobbi": "-",
-                "sosmed": "-",
-                "kesan": "tidak terwawancarai",  
-                "pesan": "-"
-            },
-            {
                 "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
                 "umur": "120",
@@ -304,17 +315,6 @@ elif menu == "Baleg":
                 "sosmed": "@myrrinn",
                 "kesan": "kak dhea lucu banget waktu wwc, asik dan menghibur kamii",  
                 "pesan": "semoga dilancarkan segala urusan dan jangan demis kak!"
-            },
-            {
-                "nama": "Muhammad Fahrul Aditya",
-                "nim": "121450156",
-                "umur": "22",
-                "asal": "Surakarta",
-                "alamat": "Sukarame",
-                "hobbi": "Badminton, melukis, minum kopo",
-                "sosmed": "@shrul.pdf",
-                "kesan": "bang fahrul saya kira abang prodi elektro",  
-                "pesan": "next kita foto lagi bang saat abang wisuda!"
             },
             {
                 "nama": "Berliana Enda Putri",
@@ -461,7 +461,7 @@ elif menu == "Departemen PSDA":
                 "nim": "122450056",
                 "umur": "20",
                 "asal": "Padang",
-                "alamat": "---", # belum ini
+                "alamat": "Sukarame",
                 "hobbi": "Minum kopi",
                 "sosmed": "@farahanumafifahh",
                 "kesan": "gemes namanya, kak anumm",  
@@ -597,7 +597,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Belajar dan Main game",
                 "sosmed": "@gedemoenaa",
                 "kesan": "saya kira julukan aja gede, ternyata nama aslinya",  
-                "pesan": "jangan demis bang plis"
+                "pesan": "ayo kita mabar bang!"
             },
             {
                 "nama": "Jaclin Alcavella",
@@ -778,7 +778,7 @@ elif menu == "Departemen MIKFES":
                 "umur": "20",
                 "asal": "Medan",
                 "alamat": "Jl. Lapas",
-                "hobbi": " ",
+                "hobbi": "Membaca jurnal dari bu mika",
                 "sosmed": "@dindanababan_",
                 "kesan": "saya kira kakak psda soalnya timekeeper materi",  
                 "pesan": "semangat kak jangan demis dlu yaa"
@@ -1158,7 +1158,6 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1m7Jf4MbpKYgQxpiy59r8rzacii2FiEnz", #Bg Yosia
             "https://drive.google.com/uc?export=view&id=1lCREZl-OcoDkht4VN_M5XOzIW46m87X4", #Bg Sigit
             "https://drive.google.com/uc?export=view&id=1TwAJw93SXCrrWOEiJH4NfSNhVd03f4px", #Kak Azizah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Kak Dearni
             "https://drive.google.com/uc?export=view&id=13DUTfvwwFj-ZSobye2s00yDrrR0rfr4E", #Kak Meira
             "https://drive.google.com/uc?export=view&id=1QvoTPY0rmtITNuiIWkM-PUJ4ENZpiCkJ", #Bg Rendi
             "https://drive.google.com/uc?export=view&id=1sav7deq-OMGp-73shXQNAx12p-5VJ5VK", #Kak Renta
@@ -1263,17 +1262,6 @@ elif menu == "Departemen Internal":
                 "sosmed": "@azizahksma15",
                 "kesan": "baru ini ketemu yang hobi nya berkebuun",  
                 "pesan": "semangat berkebunnya kakk"
-            },
-            {
-                "nama": "Dearni Monica Br Manik",
-                "nim": "-",
-                "umur": "-",
-                "asal": "-",
-                "alamat": "-",
-                "hobbi": "-",
-                "sosmed": "-",
-                "kesan": "tidak terwawancarai", # non-wwc  
-                "pesan": "-"
             },
             {
                 "nama": "Meira Listyaningrum",
@@ -1511,14 +1499,14 @@ elif menu == "Departemen MEDKRAF":
                 "pesan" : "next kita foto lagi kak"
             },
             {
-                "nama"  : "Arsyiah Azahra",
-                "nim"   : "121450035",
-                "umur"  : "21",
-                "asal"  : "Bandar Lampung",
+                "nama": "Arsyiah Azahra",
+                "nim": "121450035",
+                "umur": "21",
+                "asal":"Bandar Lampung",
                 "alamat": "Tanjung Senang",
-                "hobbi" : "Nugas",
+                "hobbi": "Nugas",
                 "sosmed": "@arsyiah.",
-                "kesan" : "tidak terwawancarai", # non-wwc 
+                "kesan" : "tidak terwawancarai", # non-wwc
                 "pesan" : "-"
             },
             {
