@@ -420,7 +420,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Gg.sakum",
                 "hobbi": "Tertawa",
                 "sosmed": "@celisabethh_",
-                "kesan": "kakaknya  ",  
+                "kesan": "kakaknya kece ",  
                 "pesan":"semangat terus kuliahnya kak"# 1
             },
             {
@@ -502,7 +502,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Devyan Loxefal",
-                "nim": "121450128",
+                "nim": "121450149",
                 "umur": "21",
                 "asal":"Duri, Riau",
                 "alamat": "Kobam Pulau Damar",
@@ -575,7 +575,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Belajar",
                 "sosmed": "@roselivnes__",
                 "kesan": "Kak namanyaaa baguss sekalii ",  
-                "pesan":"semangat terus kuliahnya kakkk"# 1
+                "pesan":"semangat terus kuliahnya kakkk, tapi sayangnyaa kitaa belum wawancaraa"# 1
             },
             {
                 "nama": "M. Farhan Athaulloh",
