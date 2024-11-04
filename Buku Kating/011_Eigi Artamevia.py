@@ -656,10 +656,10 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=18Fj7Tn1ua2RmTvHx_a8G7O6MBpsmjPDM",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=19ceYplv3wZVEOX-VsOfOhhtn7BOvXnY5",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1dAsntwqwt_VCrAdHGMQI0pIErW-RrE-3",
+            "https://drive.google.com/uc?export=view&id=1jAPE5P5sVhuwFrxcITOtUC_VVpahOHZ8",
+            "https://drive.google.com/uc?export=view&id=15xcgpFyWpGcNBMKuzN4L2vFn1SRe1dDO",
+            "https://drive.google.com/uc?export=view&id=1gucmZ6BBZaXTyz3PIgl_JfLgXRIgZtix",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             
         ]
