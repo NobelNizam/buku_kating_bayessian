@@ -186,11 +186,11 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak anissa blom
             "https://drive.google.com/uc?export=view&id=1LHl6jXNdCbH9ZoTJrWxriiwBeAzJM-hw", #kak Wulan
             "https://drive.google.com/uc?export=view&id=1ocytv_WKQU9WymPD7qYfQHRG-LdNV-cz", #kak anisa dini
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak claudhea blom
-            "https://drive.google.com/uc?export=view&id=1q0xwU7IL1mg1KgNQoWbMlyZ29y0sYZFe", #bang feryadi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak renisha blom
-            "https://drive.google.com/uc?export=view&id=1saIpL9OApxH4ZveMlOpTXwCBWF-aDzaq", #bang mirzan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak Anisa fitriani blom
+            "https://drive.google.com/uc?export=view&id=1q0xwU7IL1mg1KgNQoWbMlyZ29y0sYZFe", #bang feryadi
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak  renisha blom
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak claudhea blom
+            "https://drive.google.com/uc?export=view&id=1saIpL9OApxH4ZveMlOpTXwCBWF-aDzaq", #bang mirzan
             "https://drive.google.com/uc?export=view&id=19m9ib6qSYvkkNFLaZ4VkODqJqUf0Apb9", #kak dhea amelia putri
             "https://drive.google.com/uc?export=view&id=1bmfaydPGxnmHK41_jLcOMRlDCmBezvkr", #Bang Fahrul
             "https://drive.google.com/uc?export=view&id=1RjZZlQq2U-4RwizP6Fgr60KGzii79wMG", #kak berliana
@@ -222,7 +222,7 @@ elif menu == "Baleg":
             {
                 "nama": "Wulan Sabina",
                 "nim": "121450150",
-                "umur": "18",
+                "umur": "21",
                 "asal":"Medan",
                 "alamat": "Raden Saleh",
                 "hobbi": "Nonton drakor",
@@ -242,15 +242,15 @@ elif menu == "Baleg":
                 "pesan":"Jangan lupa makan ya kak"
             },
             {
-                "nama": "Claudhea Angeliani",
-                "nim": "121450124",
-                "umur": "21",
-                "asal":"Lampung Timur",
-                "alamat": "Lampung Timur",
-                "hobbi": "Mendengarkan musik",
-                "sosmed": "@dylebee",
-                "kesan": "Kak claudhea emang asik deh",  
-                "pesan":"Semangat saat berkuliah ya kak"
+                "nama": "Anisa Fitriyani",
+                "nim": "122450019",
+                "umur": "19",
+                "asal":"Bandar Lampung",
+                "alamat": "Bernung, Pesawaran",
+                "hobbi": "Menonton Drakor",
+                "sosmed": "@ansftynn_",
+                "kesan": "kakakny asik dan baik banget",  
+                "pesan":"teruslah mengejar apa yang di targetkan ya kak"
             },
             {
                 "nama": "Feryadi Yulius",
@@ -275,6 +275,17 @@ elif menu == "Baleg":
                 "pesan":"Semangat terus kak saat menjadi baleg ini"
             },
             {
+                "nama": "Claudhea Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobbi": "Mendengarkan musik",
+                "sosmed": "@dylebee",
+                "kesan": "Kak claudhea emang asik deh",  
+                "pesan":"Semangat saat berkuliah ya kak",
+            },
+            {
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
                 "umur": "20",
@@ -283,18 +294,7 @@ elif menu == "Baleg":
                 "hobbi": "Tidur yang lama",
                 "sosmed": "@myrrinn",
                 "kesan": "bang mirzan cool dan sangar di waktu yang sama, sigma banget",  
-                "pesan":"mangat ya bang, jangan sampai stress di perkuliahan."
-            },
-            {
-                "nama": "Anisa Fitriyani",
-                "nim": "122450019",
-                "umur": "19",
-                "asal":"Bandar Lampung",
-                "alamat": "Bernung, Pesawaran",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@ansftynn_",
-                "kesan": "kakakny asik dan baik banget",  
-                "pesan":"teruslah mengejar apa yang di targetkan ya kak"
+                "pesan":"mangat ya bang, jangan sampai stress di perkuliahan.",
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -396,6 +396,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1XF5flgCt0lVB38OSS70OwhJcO3fcmFZg",
             "https://drive.google.com/uc?export=view&id=1kCtU720c-d0Jv8CEIwdrMIkTKLd7I_vE",
             "https://drive.google.com/uc?export=view&id=177rJVhtDQ6CszP6Ysn_79uz4eT_VUh2x",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kosong Vanessa
             "https://drive.google.com/uc?export=view&id=1R7VOjZ3wgfPr4SniIx_hbGWNLHBp2wpt", 
             "https://drive.google.com/uc?export=view&id=14P98JqAIzi8C-dWYlGhH92CoZ9hjqZPU",
@@ -580,7 +581,18 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Belajar",
                 "sosmed": "@roselivnes__",
                 "kesan": "kak vanesa itu seru orangnya",  
-                "pesan":"mangat kak di PSDA yaa" # 1
+                "pesan":"mangat kak di PSDA yaa" # 16
+            },
+            {
+                "nama": "Leonard Andreas Napitupulu",
+                "nim": "-",
+                "umur": "-",
+                "asal":"-",
+                "alamat": "-",
+                "hobbi": "-",
+                "sosmed": "-",
+                "kesan": "-",  
+                "pesan":"-"
             },
             {
                 "nama": "M. Farhan Athaulloh",
@@ -697,7 +709,7 @@ elif menu == "Departemen MIKFES": #BLOM LENGKAP SEMUA NANTI WAJIB DI ISI
                 "alamat": " ",
                 "hobbi": "  ",
                 "sosmed": "@ ",
-                "kesan": "  ",  
+                "kesan": "Tidak diwawancarai",  
                 "pesan":" " # 3
             },
             {
@@ -719,8 +731,8 @@ elif menu == "Departemen MIKFES": #BLOM LENGKAP SEMUA NANTI WAJIB DI ISI
                 "alamat": "Teluk Betung",
                 "hobbi": "Main Game",
                 "sosmed": "@fadhilfwee",
-                "kesan": "bang fadhil orangnya keren dan cool parah",  
-                "pesan":"Semoga semua usaha bang fadhil memberikan hasil yang maksimal!" # 5
+                "kesan": "tidak diwawancarai",  
+                "pesan":"-" # 5
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -752,8 +764,8 @@ elif menu == "Departemen MIKFES": #BLOM LENGKAP SEMUA NANTI WAJIB DI ISI
                 "alamat": "Kemiling",
                 "hobbi": "Membuka Wisata HMSD",
                 "sosmed": "@natanaeloks",
-                "kesan": "bang natanael orangnya asik dan percaya diri",  
-                "pesan":"Sukses selalu kak semoga semuanya tercapai" # 8
+                "kesan": "tidak diwawancarai",  
+                "pesan":"-" # 8
             },
             {
                 "nama": "Anwar Muslim",
@@ -831,8 +843,8 @@ elif menu == "Departemen MIKFES": #BLOM LENGKAP SEMUA NANTI WAJIB DI ISI
                 "alamat": "Perumnas Way Kandis",
                 "hobbi": "Membaca",
                 "sosmed": "@rahmn_abdr",
-                "kesan": "bang atsary orangnya percaya diri",  
-                "pesan": "terus lah berjuang bang" # 15 
+                "kesan": "tidak diwawancarai",  
+                "pesan": "-" # 15 
             },
             {
                 "nama": "Aditya Rahman",
@@ -897,7 +909,7 @@ elif menu == "Departemen MIKFES": #BLOM LENGKAP SEMUA NANTI WAJIB DI ISI
                 "alamat": " ",
                 "hobbi": "  ",
                 "sosmed": "@",
-                "kesan": "  ",  
+                "kesan": "Tidak diwawancarai",  
                 "pesan":"  " # 21
             },
         ]
@@ -1523,8 +1535,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Tanjung Senang",
                 "hobbi": "Nugas",
                 "sosmed": "@arsyiah.",
-                "kesan": "Kak arsyi, wibawanya keliatan bangett",  
-                "pesan": "Tetaplah menjadi pemimpin yang baik dan terus menciptakan ide-ide yang kreatif ya kak"
+                "kesan": "tidak diwawancarai",  
+                "pesan": "-"
             },
             {
                 "nama": "Cintya Bella",
@@ -1545,8 +1557,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Natar",
                 "hobbi": "Menyibukkan Diri",
                 "sosmed": "@ekafdyaptri",
-                "kesan": "Asik banget kakaknya",  
-                "pesan": "teruslah mengejar mimpi yang kakak impikan"
+                "kesan": "tidak diwawancarai",  
+                "pesan": "-"
             },
             {
                 "nama": "Najla Juwairia",
