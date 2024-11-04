@@ -247,8 +247,8 @@ elif menu == "Baleg":
                 "alamat": "Lampung Timur",
                 "hobbi": "Mendengarkan musik",
                 "sosmed": "@dylebee",
-                "kesan": "-",  
-                "pesan":"-"
+                "kesan": "Saya merasa tidak enakan sama kakaknya karna motor kakaknya hilang, ikut sedih, tapi keberuntungan datang pada kakaknya",  
+                "pesan": "Semangat terus ya kakkk, suksess"
             },
             {
                 "nama": "Feryadi Yulius",
@@ -269,8 +269,8 @@ elif menu == "Baleg":
                 "alamat": "Teluk Betung",
                 "hobbi": "Mendengarkan musik",
                 "sosmed": "@fleurnsh",
-                "kesan": "-",  
-                "pesan": "-"
+                "kesan": "Kakaknya asik, baik, keren",  
+                "pesan": "Semangat kuliahnya kak, bawa santai aja kak biar tidak stres"
             },
             {
                 "nama": "Mirzan Yusuf Rabbani",
@@ -291,8 +291,8 @@ elif menu == "Baleg":
                 "alamat": "Bernung, Pesawaran",
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@ansftynn_",
-                "kesan": "",  
-                "pesan": "-"
+                "kesan": "Kakaknya baik, asik, sabar",  
+                "pesan": "Tetaplah menjadi orang baik dimana pun"
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -799,7 +799,6 @@ elif menu == "Departemen MIKFES":
                 "kesan": "Kakaknya baik, pinter, sabar",  
                 "pesan": "Semangat ngasprakin kami kak, sukses terus" # 11
             },
-
             {
                 "nama": "Marleta Cornelia Leander",
                 "nim": "122450092",
