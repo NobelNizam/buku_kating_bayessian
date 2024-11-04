@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Judul Aplikasi
-st.title("Analisis Data Peserta Magang CEO HMSD 2024")
+st.title("Analisis Data Kesibukan Peserta Kaderisasi saat magang CEO HMSD 2024")
 
 # Penjelasan Umum
 st.write("""
@@ -19,20 +19,30 @@ st.write("Dataset diambil dari file CSV yang berisi data peserta magang CEO HMSD
 # Link CSV dari GitHub
 data_magang = pd.read_csv('https://raw.githubusercontent.com/NobelNizam/buku_kating_bayessian/refs/heads/main/tools/Pendataan%20Peserta%20Magang%20CEO%20HMSD%202024%20(Responses)%20-%20Form%20Responses%201.csv')
 st.dataframe(data_magang)  # Menampilkan beberapa baris data untuk referensi
+data_magang =  data_magang.rename(columns={'8. Rating Kesibukan Saat Magang (1-5, 5 semakin sibuk)': 'Rating Kesibukan'})
+kolom_J = data_magang['Rating Kesibukan']
 
-# 2. Membersihkan Data
-st.header("2. Membersihkan Data")
-st.write("Membersihkan kolom 'Provinsi' untuk memastikan data konsisten.")
-data_magang['1. Asal Provinsi'] = data_magang['1. Asal Provinsi'].str.strip()  # Membersihkan data provinsi
+st.header("Distribusi Rating Kesibukan saat Magang CEO HMSD Adyatama 2024")
+sns.set(style="whitegrid")
+plt.figure(figsize=(10, 7))
+sns.histplot(kolom_J, bins=9, kde=True, color="purple")
+plt.title("Distribusi Rating Kesibukan saat Magang")
+plt.xlabel("Rating Kesibukan")
+plt.ylabel("Jumlah Peserta")
+plt.show()
 
-# 3. Analisis Statistika Deskriptif
-st.header("3. Analisis Statistika Deskriptif")
-st.write("""
-Pada bagian ini, kita akan melihat statistik deskriptif dari jumlah peserta magang berdasarkan asal provinsi.
-Kami akan menghitung jumlah peserta dari Lampung dan luar Lampung, serta nilai statistik lainnya seperti mean, median, range, 
-variansi, standar deviasi, dan kuartil.
-""")
+st.header("Boxplot")
+plt.figure(figsize=(8, 5))
+sns.boxplot(x=kolom_J, color="#CBC3E3")
+plt.title("Boxplot Rating Kesibukan saat Magang")
+plt.xlabel("Rating Kesibukan")
+plt.show()
 
-# Menghitung jumlah peserta dari Lampung dan luar Lampung
-data_lampung = data_magang[data_magang['1. Asal Provinsi'] == 'Lampung']
-data_luar_lampung = data_magang[data_magang['1. Asal Provinsi'] != 'Lampung']
+st.header("Density Plot")
+plt.figure(figsize=(10, 6))
+sns.kdeplot(kolom_J, fill=True, color="#7851A9", alpha=0.5)
+plt.title("Density Plot untuk Rating Kesibukan saat Magang")
+plt.xlabel("Rating Kesibukan (1-5)")
+plt.ylabel("Kepadatan Frekuensi")
+plt.show()
+

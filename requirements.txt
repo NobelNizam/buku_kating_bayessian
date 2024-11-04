@@ -5,3 +5,4 @@ streamlit-drawable-canvas == 0.9.3
 pandas == 2.2.2
 matplotlib == 3.9.2
 seaborn == 0.13.2
+numpy == 2.1.0
