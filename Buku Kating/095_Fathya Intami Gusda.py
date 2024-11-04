@@ -562,7 +562,7 @@ elif menu == "Departemen PSDA":
                 "nama": "Rafa Aqilla Jungjunan",
                 "nim": "122450142",
                 "umur": "20",
-                "asal":"Pekkan Baru",
+                "asal":"Pekan Baru",
                 "alamat": "Belwis",
                 "hobbi": "baca webtoon",
                 "sosmed": "@rafaaqilla",
