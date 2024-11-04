@@ -653,9 +653,9 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1ZF11zTPmbkuR8QcbLvSPQtCIDXOnYhvu", #kak dinda
             "https://drive.google.com/uc?export=view&id=1c6qM44bTmjTq3IpRSrbwR9DzFN09FKH8",
             "https://drive.google.com/uc?export=view&id=1yklYd4MJvND9svJbhYO6yI5aWIblR3G8",
+            "https://drive.google.com/uc?export=view&id=18Fj7Tn1ua2RmTvHx_a8G7O6MBpsmjPDM",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=19ceYplv3wZVEOX-VsOfOhhtn7BOvXnY5",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
