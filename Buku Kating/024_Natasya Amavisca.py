@@ -403,7 +403,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1_dIDiuWkHBB4NNzt0y66GIZnNToV-ITT",
             "https://drive.google.com/uc?export=view&id=1_IDsAxBD6WLH8Ngw7scg-Vs0OPqaWPBV",#18
             "https://drive.google.com/uc?export=view&id=1_atWJcl0F9ffCmBhN5i_zjSwLU0estkk",
-            "https://drive.google.com/uc?export=view&id=1QNgXyCyk6tQylONXIqxOhn4_eoeZTKea",#20
+            "https://drive.google.com/uc?export=view&id=1jl-v_hlQyoHSscHGB4XRSjp4mpV_-8Ec",#20
         ]
         data_list = [
             {
@@ -646,17 +646,17 @@ elif menu == "Departemen MIKFES":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1P_-skSrHvOb0Gy9pFFvALFSCWYYu12Gj", #1rafi
             "https://drive.google.com/uc?export=view&id=1Qr9ZhGopNpJnrJXsJVOX_aDRFnrDvopH", #annisa
-            "https://drive.google.com/uc?export=view&id=1PeSzMGfy09eHVkX2iJhWqMcRXvanr5bc", #4sahid
+            "https://drive.google.com/uc?export=view&id=1jZTHzQ8FFLr0nxDd5ADtlMLJp21V1qIv", #4sahid
             "https://drive.google.com/uc?export=view&id=1aLXZtR_O5_4qlnBv_fKwx4qTx_8MjKbW", #fadhil gada
             "https://drive.google.com/uc?export=view&id=1fNi9YHkQ9-Zp1A9-clbC3tG_WU4rdmk-", #regi
             "https://drive.google.com/uc?export=view&id=18uqLp-YLF3kVS7k66OPQG05i_Db0OZYL", #syalaisha
             "https://drive.google.com/uc?export=view&id=1aLXZtR_O5_4qlnBv_fKwx4qTx_8MjKbW", #nathanael gada
-            "https://drive.google.com/uc?export=view&id=1P_Hbv9z_VTBeBsLzarsy2whJMjORiQw2", #anwar
+            "https://drive.google.com/uc?export=view&id=1jXzp7OKSnmywsnx1EPbQattBMIykTIQy", #anwar
             "https://drive.google.com/uc?export=view&id=1RkOA3ES_3fJ8bxfm7P_fRMX4TCHNExax", #deva
             "https://drive.google.com/uc?export=view&id=1QSFRRUqdIZOFC4rnpQYgAgA4Iytnhmuv", #dinda
             "https://drive.google.com/uc?export=view&id=1PUrWeMvcAxGwA9WArZNH3_QgCfTcOfYj", #marleta
             "https://drive.google.com/uc?export=view&id=1Rl3RTojfMk9P2hLBg9DTtzTFi4pTRZXC", #rut
-            "https://drive.google.com/uc?export=view&id=1Pdk-SN7vRGc2e_cjLEScWQWSzX74hgMH", #syadza
+            "https://drive.google.com/uc?export=view&id=1jOFhlJiyTaZhROv8fllB1kOAEGOj2gxq", #syadza
             "https://drive.google.com/uc?export=view&id=1aLXZtR_O5_4qlnBv_fKwx4qTx_8MjKbW", #abdurahman gada
             "https://drive.google.com/uc?export=view&id=1aLXZtR_O5_4qlnBv_fKwx4qTx_8MjKbW", #aditya gada
             "https://drive.google.com/uc?export=view&id=1Rc56rCSENKlorB1CObDgqN3F6v97PwSk", #eggi
@@ -1310,12 +1310,12 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1S4y4DFExu1kZG3Ii5TX7SQvWpvVBTfEH",#eror
+            "https://drive.google.com/uc?export=view&id=1jg16aAkmmxd6c1NLDjqfHb6btKGLKb8-",#eror
             "https://drive.google.com/uc?export=view&id=1f9rntKRbfhEJJ2cwxIGFmQ0JFHSaZAc7",#adisty
             "https://drive.google.com/uc?export=view&id=1f6ivhD5wv772ppZkvUdMpmSgV0yFrJp5", #nabila
-            "https://drive.google.com/uc?export=view&id=1S1E5sPzcRtGEHyl7duB6fLSO1AVSlykS", #ahmad eror
-            "https://drive.google.com/uc?export=view&id=1S2nXCY-GuSjLNCuRW89o7AfANI3zxO3L",#danang eror
-            "https://drive.google.com/uc?export=view&id=1S1vSpgbDQSS91AgfLT7gZr1T87WJv5i-", #6farel eror
+            "https://drive.google.com/uc?export=view&id=1jca99hM2WPoLJX5X8F68L7SwZHUNGcwT", #ahmad eror
+            "https://drive.google.com/uc?export=view&id=1jcZMM4fOso_Ob9DRffTgBqSu0L0ganPY",#danang eror
+            "https://drive.google.com/uc?export=view&id=1jaTj21Uy9c3_OvGDFb_JUKw62OuSWCST", #6farel eror
             "https://drive.google.com/uc?export=view&id=1fAwV2QxM87sgjPGblugmbol4u3mIkybq",#tessa
             "https://drive.google.com/uc?export=view&id=1fCBU51z6DrHjKfi0_3TBaYnIGQq-RcIg",#nabilah
             "https://drive.google.com/uc?export=view&id=1RuqYxcgxL4UtERPNIGhKfwjUEphg1G0f", #alvia
