@@ -127,7 +127,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Main gitar",
                 "sosmed": "@i",
                 "kesan": "bang pandra pembawaanya asik bangett",  
-                "pesan":"semangat terus kuliahnya bang"# 1
+                "pesan":"semangat terus kuliahnya bang dan semogaaa impiannya tercapai"# 1
             },
             {
                 "nama": " Meliza Wulandari",
@@ -138,7 +138,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "Kakaknya cantikk bangett",  
-                "pesan":"semangat terus kuliahnya kak"# 1
+                "pesan":"semangat terus kuliahnya kakakk cantikkkkkk"# 1
             },
             {
                 "nama": " Hartiti Fadhilah",
@@ -148,8 +148,8 @@ if menu == "Kesekjenan":
                 "alamat": "Gg.sakum",
                 "hobbi": "Nyanyi",
                 "sosmed": "@hartfdlh",
-                "kesan": "Kakaknya cantikk bangett",  
-                "pesan":"semangat terus kuliahnya kak"# 1
+                "kesan": "Kakaknya cantikk niann",  
+                "pesan":"semangat terus kuliahnya kak titiiiiiiii"# 1
             },
             {
                 "nama": " Putri Maulida Chairani",
@@ -159,8 +159,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobbi": "Dengerin Pandra Gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Kakaknyaa cantikk bangett",  
-                "pesan":"semangat terus kuliahnya kak"# 1
+                "kesan": "Kakaknyaa cantikk MasyaAllah bangett",  
+                "pesan":"semangat terus kuliahnya uniiiiiiiiiiii"# 1
             },
             {
                 "nama": " Nadilla Andhara Putri",
@@ -170,8 +170,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobbi": "Membaca",
                 "sosmed": "nadillaandr26",
-                "kesan": "Kakaknya cantikk bangett",  
-                "pesan":"semangat terus kuliahnya kak"# 1
+                "kesan": "Kakaknya lucuuuuuuuuu bangett",  
+                "pesan":"semangat terus kuliahnya yaaaa kakakk "# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -237,7 +237,7 @@ elif menu == "Baleg":
                 "hobbi": "Menonton Dracin",
                 "sosmed": "@anisadini10",
                 "kesan": "Kakaknya seruuu",  
-                "pesan":"semangat terus kuliahnya kak"
+                "pesan":"semangat terus kuliahnya yaaaaaaaaa kak"
             },
             {
                 "nama": "Claudhea Angeliani",
@@ -248,7 +248,7 @@ elif menu == "Baleg":
                 "hobbi": "Mendengarkan musik",
                 "sosmed": "@dylebee",
                 "kesan": "Kak clau cantikk bangett",  
-                "pesan":"semangat terus kuliahnya kak"# 1
+                "pesan":"semangat terus kuliahnya kak, semoga diajuhin dari hal-hal buruk yaaa"# 1
             },
             {
                 "nama": "Feryadi Yulius",
@@ -259,7 +259,7 @@ elif menu == "Baleg":
                 "hobbi": "Membaca buku",
                 "sosmed": "@fer_yulius",
                 "kesan": "Abangnya pembawaannya tenang banget",  
-                "pesan":"semangat terus kuliahnya bang"# 1
+                "pesan":"semangat terus kuliahnya bang, semogaaa menang terus dihidup yang ramai ini yaa bangg"# 1
             },
             {
                 "nama": "Renisha Putri Giyani",
@@ -270,7 +270,7 @@ elif menu == "Baleg":
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@fleurnsh",
                 "kesan": "Kakkaknya cantikk bangett",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "pesan":"semangat terus kuliahnya kakak, semoga cepat wisudaaaaaaa"
             },
             {
                 "nama": "Mirzan Yusuf Rabbani",
@@ -281,7 +281,7 @@ elif menu == "Baleg":
                 "hobbi" : "Tidur yang lama",
                 "sosmed": "@myrrinn",
                 "kesan": "bang mirzan kereen abiezzz",  
-                "pesan":"semangat terus kuliahnya bang"# 1
+                "pesan":"semangat terus kuliahnya bang, aku bikin stiker foto kitaa yaa bang hahaha"# 1
             },
             {
                 "nama": " Anisa Fitriyani",
@@ -292,7 +292,7 @@ elif menu == "Baleg":
                 "hobbi": "Menonton Drakor",
                 "sosmed": "@ansftynn_",
                 "kesan": "Kakaknya cantikk bangett",  
-                "pesan":"semangat terus kuliahnya kakak"# 1
+                "pesan":"rekomendasikan saya drakor dong kaaaaaak"# 1
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -369,7 +369,7 @@ elif menu == "Senator":
                 "hobbi": "Dengerin Kak Luthfia nyanyi",
                 "sosmed": "@bintangtwinkle",
                 "kesan": "Bang bintang kerenn",  
-                "pesan":"semangat terus kuliahnya bang"# 1
+                "pesan":"semangat terus kuliahnya bang panitiaa yang sudah menolak akuuu"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -388,11 +388,12 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1CEa44d6pt4TKIR-dLNPBQvlokpFpo8tO", #bg dery
             "https://drive.google.com/uc?export=view&id=1CE9uUQUnTPyjUS_uemmtfHw5cZzpd7n4", #kak okta
             "https://drive.google.com/uc?export=view&id=19k1tM5XvJCSvm3bWhd0GErohSPOJHhkG", #bg devyan
-            "https://drive.google.com/uc?export=view&id=1AiussSKDoB1sL8iuUdrLhMejR3PDgt8Y", #kk press
             "https://drive.google.com/uc?export=view&id=1A_BsosIv5R-3jLfsxuQx1CijMkdGdhVj", #bg jo
-            "https://drive.google.com/uc?export=view&id=19xtMCp_aAZl7XNBlgGj1y4IrDXYUIBzO", #bg kemas
-            "https://drive.google.com/uc?export=view&id=1A7v71gkmwh5oJm_br6srPO2tVkT11iID", #bg sahid
+            "https://drive.google.com/uc?export=view&id=19xtMCp_aAZl7XNBlgGj1y4IrDXYUIBzO", #bg kemas 
+            "https://drive.google.com/uc?export=view&id=1AiussSKDoB1sL8iuUdrLhMejR3PDgt8Y", #kk press
             "https://drive.google.com/uc?export=view&id=1A0bB0r9Fz6ojT5UGt0Ljhn_crHIRT_Hp", #kak akilla
+            "https://drive.google.com/uc?export=view&id=1A7v71gkmwh5oJm_br6srPO2tVkT11iID", #bg sahid
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1SBMj27MIe3EytEBQUIh2g-y-E8V1ALlP", #bg farhan
             "https://drive.google.com/uc?export=view&id=1B7eonxGPM58XFrH9tnFPNITfmHDpIPYH", #bg gede
             "https://drive.google.com/uc?export=view&id=1As9u-DBC-F-RRgcxTanDCvDA6o37ivG4", #kak jacklin
