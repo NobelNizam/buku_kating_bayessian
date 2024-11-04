@@ -1148,10 +1148,10 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=17-trc3h8kMbWphAeLPLU_az7VaOOIZKF", #bg yosia
             "https://drive.google.com/uc?export=view&id=1Mjcdko_wYmq8_DMhj3az-VJHnJL7A_b9", #bg ari sigit
             "https://drive.google.com/uc?export=view&id=1MqORMMTEGium_xQhMS0DxMTlFbqI_thp", #kk azizah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1Mmd0YHb1F69FSDdVfpof3LHqtalBSFmX", #kk meyra
-            "https://drive.google.com/uc?export=view&id=1MkKCsUg3d4jfyjrGMtMMorpD7kNoYZ7l", #bg rendi
+            "https://drive.google.com/uc?export=view&id=1MincmfYzomfwvihR7zBYvouukPo9guwm", #bg rendi
             "https://drive.google.com/uc?export=view&id=1Mtx1D9wAIqlspGJL6Nopoh1teYa_xPd8", #kk renta
+            "https://drive.google.com/uc?export=view&id=1MkKCsUg3d4jfyjrGMtMMorpD7kNoYZ7l", #kk renta
         ]
         data_list = [
             {
@@ -1222,7 +1222,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama": "Yosia Letare Banurea",
-                "nim": "121450049",
+                "nim": "121450149",
                 "umur": "20",
                 "asal":"Dairi, Sumatera Utara",
                 "alamat": "Gerbang Barat",
@@ -1252,17 +1252,6 @@ elif menu == "Departemen Internal":
                 "sosmed": "@azizahksma15",
                 "kesan": "kakaknya pendiem",  
                 "pesan":"sehat selalu kak"# 1
-            },
-            {
-                "nama": "Dearni Monica Br Manik",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Meira Listyaningrum",
@@ -1299,7 +1288,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama": "Josua Panggabean",
-                "nim": "12145001",
+                "nim": "12145061",
                 "umur": "21",
                 "asal":"Pematang Siantar",
                 "alamat": "Gya Kos",
@@ -1417,15 +1406,15 @@ elif menu == "Departemen SSD":
             	"pesan":"ajarin saya berbisnis ya kakk  " # 8
         	},
         	{
-            	"nama": "Alvia Asrinda Br.Gintng",
-            	"nim": " ",
-            	"umur": " ",
-            	"asal": " ",
-            	"alamat": " ",
-            	"hobbi": " ",
-            	"sosmed": "@",
-            	"kesan": "  ",  
-            	"pesan":"  " # 9
+                "nama": "Alvia Asrinda Br Ginting",
+                "nim": "122450077",
+                "umur": "20",
+                "asal":"Binjai",
+                "alamat": "Korpri",
+                "hobbi": "Nonton",
+                "sosmed": "@alviagnting",
+                "kesan": "Kakaknya baik dan asikk",  
+                "pesan":"lancar terus kuliahnya ya kakak "# 1
         	},
         	{
             	"nama": "Dhafin Razaqa Luthfi",
