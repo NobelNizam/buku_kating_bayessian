@@ -1171,12 +1171,12 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1aaaMK0YShyLhpM0i9-icDriMsdB4MwNr", #Bg Akbar
             "https://drive.google.com/uc?export=view&id=1aIS3cWTblIUvCqZ6srThgShqD4uvqzyA", #Kak Rani
             "https://drive.google.com/uc?export=view&id=1aXMFEjU5VzACe4ixJyahbmkYmvxlEBk9", #Bg Rendra
-            "https://drive.google.com/uc?export=view&id=1_deEmzAJAUOp_2iUDqfbz7lRKYgl6wE2", #Kak Salwa
+            "https://drive.google.com/uc?export=view&id=1_jvIsQyVgiH28TIWWucfEAgOmsoGT9dF", #Kak Azizah
             "https://drive.google.com/uc?export=view&id=1aHo-MKBtkODhOrau6rwXJyUXfpxvzy1f", #Bg Yosia
             "https://drive.google.com/uc?export=view&id=1aKCnRVLudFuPLLnwF5Yla9z6isjjFoOk", #Kak Renta
             "https://drive.google.com/uc?export=view&id=1_gtjlI64Y4jfjINx_hq_6oVmJCcf6t3B", #Bg Sigit
             "https://drive.google.com/uc?export=view&id=1_dYPu4CHVinpmFMSYtS_uxhMByb98iJS", #Bg Josua
-            "https://drive.google.com/uc?export=view&id=1_jvIsQyVgiH28TIWWucfEAgOmsoGT9dF", #Kak Azizah
+            "https://drive.google.com/uc?export=view&id=1_deEmzAJAUOp_2iUDqfbz7lRKYgl6wE2", #Kak Salwa
             "https://drive.google.com/uc?export=view&id=1aZzwHPX96OK_hjig-rTnHuV4_zmibPam", #Kak Meira
             "https://drive.google.com/uc?export=view&id=1a9iLYfc-VLMFmbq9JRchJf1siH862DOG", #Bg Rendi
         ]
