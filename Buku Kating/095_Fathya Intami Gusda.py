@@ -1303,7 +1303,7 @@ elif menu == "Departemen SSD":
                 "asal":"Sindi Kalang",
                 "alamat": "Dekat Penjara",
                 "hobbi": "Nyari hobi",
-                "sosmed": "@adriangaol",
+                "sosmed": "@andriangaol",
                 "kesan": "baik dan ramah",  
                 "pesan":"semangat mengerjakan TA dan MSS nya bang adrian"
             },
