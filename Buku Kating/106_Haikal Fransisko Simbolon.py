@@ -1487,7 +1487,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1Vxtm7xBlmfS65q1lfA4gksFZcgvMcXP0",
             "https://drive.google.com/uc?export=view&id=1WXswbS7-yoRDxjmVdNjd2QwhL9MjgP17", #12
             "https://drive.google.com/uc?export=view&id=1W7qFh2ZJC45veEeAF43TYLMRzsOyo4km",
-            "https://drive.google.com/uc?export=view&id=1WhWNAVR540l-OrbetiS3BCGvk0c6aops",
+            "https://drive.google.com/uc?export=view&id=1WhWNAVR540l-OrbetiS3BCGvk0c6aops", #Bg 
             "https://drive.google.com/uc?export=view&id=1VVvEs9MWDT0AgV39fFETH9ALUkRMvwEZ",
             "https://drive.google.com/uc?export=view&id=1WL-bXtSxXpAkQHGyTDTD9WKpnFnntDvz",
             "https://drive.google.com/uc?export=view&id=1WBNsWi_7JOck8D1TntDXErTO0MI0Eryy",
