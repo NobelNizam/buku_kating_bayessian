@@ -672,6 +672,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1-88TmSJ3BdjGLBqiaupCrS-b5T0ixH75", #Febiya Jomy Pratiwi
             "https://drive.google.com/uc?export=view&id=1cajJug9A4Wv5zHL3XC_WOOOFJNkATTuQ", #Happy Syahrul Ramadhan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #Randa Andriana Putra
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kk vita
         ]
         data_list = [
             {
@@ -765,7 +766,7 @@ elif menu == "Departemen MIKFES":
             {
                 "nama": "Anwar Muslim",
                 "nim": "122450117",
-                "umur": "18",
+                "umur": "21",
                 "asal":"Bukittinggi",
                 "alamat": "Korpri",
                 "hobbi": "ML (Machine Learning)",
@@ -893,6 +894,17 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@randaandriana_",
                 "kesan": "abangnya baik",  
                 "pesan":"abangnya sehari tidur berapa jam bang" 
+            },
+            {
+                "nama": "Vita Anggraini",
+                "nim": "-",
+                "umur": "-",
+                "asal": "-",
+                "alamat": "-",
+                "hobbi": "-",
+                "sosmed": "-",
+                "kesan": "Kakak ini belum diwawancarai",  
+                "pesan": "-"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1157,11 +1169,11 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=19eeiNbwGHzL4ehwBAMXSVeFAGexKNbtF", #Rendra Eka Prayoga
             "https://drive.google.com/uc?export=view&id=1nW7FEjxijh3cVDurA2csNRg9MO6wRmxC", #Salwa Farhanatussaidah
             "https://drive.google.com/uc?export=view&id=1mHR0JRJXje25mhefbR98YdrPavKJ7sCH", #yosia 
+            "https://drive.google.com/uc?export=view&id=1sMQyevEXP5-aTHS-E7hBd0EuUbUz94DV", #Renta Siahaan
             "https://drive.google.com/uc?export=view&id=1S0Fu5J174XWdngcCf55KtHJuHJqIsRRn", #Ari Sigit
             "https://drive.google.com/uc?export=view&id=1TiANQodonaH53bcXSuNePyoyn2bswpng", #Azizah Kusumah Putri
             "https://drive.google.com/uc?export=view&id=1hAB24fVtr0fWwSQHDThXbTkuq-Ta7trM", #Meira Listyaningrum
             "https://drive.google.com/uc?export=view&id=1RCwxqszBsSgkfI0efhaOXO_MEqOTXzeW", #Rendi Alexander Hutagalung
-            "https://drive.google.com/uc?export=view&id=1sMQyevEXP5-aTHS-E7hBd0EuUbUz94DV", #Renta Siahaan
             "https://drive.google.com/uc?export=view&id=1tGYw3cnIpeUC1Z-LhM0axoDPkBpulqed", #Josua Panggabean
         ]
         data_list = [
@@ -1243,6 +1255,17 @@ elif menu == "Departemen Internal":
                 "pesan":"bang jangan garang bang kalo ngeliat orang bang"
             },
             {
+                "nama": "Renta Siahaan",
+                "nim": "122450070",
+                "umur": "21",
+                "asal":"Sumatera Utara",
+                "alamat": "Gerbang Barat",
+                "hobbi": "Membaca dan Memancing",
+                "sosmed": "@renita.shn",
+                "kesan": "kakaknya cantiii hihi",  
+                "pesan":"kakaknya mirip temenku sekilas tw"# 1
+            },
+            {
                 "nama": "Ari Sigit",
                 "nim": "121450069",
                 "umur": "23",
@@ -1285,17 +1308,6 @@ elif menu == "Departemen Internal":
                 "sosmed": "@rexander",
                 "kesan": "abangnya lucuu",  
                 "pesan":"bang apakah kamu bisa ngambang dilaut bang"# 1
-            },
-            {
-                "nama": "Renta Siahaan",
-                "nim": "122450070",
-                "umur": "21",
-                "asal":"Sumatera Utara",
-                "alamat": "Gerbang Barat",
-                "hobbi": "Membaca dan Memancing",
-                "sosmed": "@renita.shn",
-                "kesan": "kakaknya cantiii hihi",  
-                "pesan":"kakaknya mirip temenku sekilas tw"# 1
             },
             {
                 "nama": "Josua Panggabean",
